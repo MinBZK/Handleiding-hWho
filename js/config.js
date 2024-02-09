@@ -19,7 +19,7 @@ let respecConfig = {
   
   title: "Respec documentatie generatie",
   subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
-  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
+//  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
 //      {
