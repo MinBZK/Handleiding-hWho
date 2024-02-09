@@ -2,23 +2,22 @@ let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
-  shortName: "Respec-template",
+  shortName: "Handleiding-hWho",
 
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "HR",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
-  specStatus: "IG",
+  specStatus: "IO",
   publishDate: "2024-1-10",
   publishVersion: "0.1.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
-  previousMaturity: "IG",
-  previousPublishDate: "2022-06-24",
-  previousPublishVersion: "0.0.4",
+//  previousMaturity: "IG",
+//  previousPublishDate: "2022-06-24",
+//  previousPublishVersion: "0.0.4",
   
-  title: "Respec documentatie generatie",
-  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
+  title: "Handleiding Herziene Who",
 //  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
@@ -31,12 +30,12 @@ let respecConfig = {
   editors:
     [
       {
-        name: "Robert Melskens",
+        name: "Sander Bakker",
         company: "VNG Realisatie",
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://github.com/VNG-Realisatie/VNG-R-Respec-Template",
+  github: "https://github.com/VNG-Realisatie/Handleiding-hWho",
 
 //  maxTocLevel: 2,
   
