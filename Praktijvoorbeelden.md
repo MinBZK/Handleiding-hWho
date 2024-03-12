@@ -4,6 +4,6 @@
 ### Praktijkvoorbeeld y
 [Tekst]
 ### Praktijkvoorbeeld z
-[Tekst]
+Lorem ipsum fghdufhdsglihsdfgkjhfdkjlhsdf
 
  
