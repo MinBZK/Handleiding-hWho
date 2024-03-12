@@ -7,7 +7,7 @@ Deze informatie kan worden gebruikt door voor uiteenlopende doeleinden, zowel vo
 Verzoeken kunnen niet alleen tot bestuursorganen worden gericht, maar ook tot andere instellingen met een publieke taak en tot archieven, musea en bibliotheken. Voor overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen gelden aangepaste regels.
  
 Met deze handleiding worden organisaties die onder de toepassing van deze wet vallen geholpen bij de uitvoering ervan. De handleiding bevat een overzicht van het bredere wettelijk kader voor hergebruik van overheidsinformatie, een uitleg van wijzigingen van de Who, aanbevelingen voor herbruikbaarheid van overheidsinformatie, stappenplannen voor de verschillende overheden, aanbevelingen voor het verstrekken van overheidsinformatie, aanbevelingen voor de bescherming van rechten van anderen, regels voor de kosten en praktijkvoorbeelden.
-### Voor wie is deze handleiding? 
+### Voor wie is deze handleiding?  // maar kan ook gebruikt worden door
 Deze handleiding is gericht op alle organisaties die onder de reikwijdte van de Who vallen. Dat zijn: met een publieke taak belaste instellingen; overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.
 
 NADER UITWERKEN, voor wie geldt welk deel van de handleiding.... 
