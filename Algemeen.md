@@ -1,5 +1,5 @@
 # Algemeen
-## Waarover gaat deze handleiding?
+### Waarover gaat deze handleiding?
 Op [datum] is de Wet implementatie Open data richtlijn in werking getreden. De Wet hergebruik van overheidsinformatie (Who) is daardoor gewijzigd. Burgers en bedrijven kunnen een verzoek indienen tot het verstrekken van overheidsinformatie. Daarnaast krijgen zij actief overheidsinformatie beschikbaar gesteld. 
  
 Deze informatie kan worden gebruikt door voor uiteenlopende doeleinden, zowel voor commerciële als niet-commerciële doeleinden. Het voornaamste doel van de wet is het creëren van economische meerwaarde van overheidsinformatie. Overheidsinformatie kan waarde hebben voor partijen buiten de overheid en als basis dienen voor nieuwe producten en diensten, zoals apps, visualisaties en analyses. De verstrekte informatie kan daarbij ook worden gecombineerd met andere informatie of data. 
@@ -7,9 +7,9 @@ Deze informatie kan worden gebruikt door voor uiteenlopende doeleinden, zowel vo
 Verzoeken kunnen niet alleen tot bestuursorganen worden gericht, maar ook tot andere instellingen met een publieke taak en tot archieven, musea en bibliotheken. Voor overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen gelden aangepaste regels.
  
 Met deze handleiding worden organisaties die onder de toepassing van deze wet vallen geholpen bij de uitvoering ervan. De handleiding bevat een overzicht van het bredere wettelijk kader voor hergebruik van overheidsinformatie, een uitleg van wijzigingen van de Who, aanbevelingen voor herbruikbaarheid van overheidsinformatie, stappenplannen voor de verschillende overheden, aanbevelingen voor het verstrekken van overheidsinformatie, aanbevelingen voor de bescherming van rechten van anderen, regels voor de kosten en praktijkvoorbeelden.
-## Voor wie is deze handleiding? 
+### Voor wie is deze handleiding? 
 Deze handleiding is gericht op alle organisaties die onder de reikwijdte van de Who vallen. Dat zijn: met een publieke taak belaste instellingen; overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.
-## Wat is de status van deze handleiding?
+### Wat is de status van deze handleiding?
 De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik als ook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
 
 Hier vind je meer informatie over de opdracht voor en de ontwikkeling en het beheer van deze handleiding.
