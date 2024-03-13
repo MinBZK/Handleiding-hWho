@@ -1,4 +1,5 @@
-# Samenvatting (BZK)
+# Wettelijk kader 
+## Samenvatting (BZK)
 
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
 
