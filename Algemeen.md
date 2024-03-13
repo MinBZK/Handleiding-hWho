@@ -17,11 +17,20 @@ De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebrui
 
 Hier vind je meer informatie over de opdracht voor en de ontwikkeling en het beheer van deze handleiding.
 ## Wat valt onder hergebruik van overheidsinformatie?
-De overheid produceert en verzamelt een breed scala aan gegevens binnen verschillende domeinen. Voorbeelden zijn verkeersinformatie van Rijkswaterstaat, weerinformatie van het KNMI of de besluitvorming door overheden. Veel van deze gegevens worden via onder andere de Wet open overheid openbaar gemaakt om de transparantie van de overheid te bevorderen. 
+De overheid, overheidsondernemingen en onderzoeksinstellingen produceren en verzamelen een breed scala aan gegevens binnen verschillende domeinen. Voorbeelden zijn verkeersinformatie van Rijkswaterstaat, weerinformatie van het KNMI of de besluitvorming door overheden. Veel van deze gegevens van overheden worden via onder andere de Wet open overheid openbaar gemaakt om de transparantie van de overheid te bevorderen. 
 
 Veel van deze gegevens hebben economische en maatschappelijke potentie en kunnen ook door natuurlijke personen of rechtspersonen voor andere doeleinden worden gebruikt, zowel voor commerciële of niet-commerciële doeleinden. Dat heet ‘hergebruik van overheidsinformatie.
 
+Bij hergebruik van overheidsinformatie, ook wel open (overheids-) data genoemd, wordt de overheidsinformatie bij voorkeur via de elektronische weg en in een open formaat, gemakkelijk herbruikbaar en machinaal bruikbaar beschikbaar gesteld, zodat ze kunnen worden hergebruikt (open data).
+
 Toevoegen: hier vind je meer informatie over de reikwijdte van de wet?? Dan kan ook aandacht worden gegeven aan openbare registers die bij wet zijn ingesteld en de mogelijke wijzigingen in de wet op dit punt. 
+
+Hier onderscheid maken tussen actief (verplicht en vrijwillig) en op verzoek beschikbaar stellen voor hergebruik en de verschillende categorieën gegevenssets met eigen regimes?
+
+
+
+
+
 ## Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
 
