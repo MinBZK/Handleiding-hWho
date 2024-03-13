@@ -16,7 +16,7 @@ NADER UITWERKEN, voor wie geldt welk deel van de handleiding....
 De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik als ook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
 
 Hier vind je meer informatie over de opdracht voor en de ontwikkeling en het beheer van deze handleiding.
-## Wat valt onder hergebruik van overheidsinformatie?
+### Wat valt onder hergebruik van overheidsinformatie?
 De overheid, overheidsondernemingen en onderzoeksinstellingen produceren en verzamelen een breed scala aan gegevens binnen verschillende domeinen. Voorbeelden zijn verkeersinformatie van Rijkswaterstaat, weerinformatie van het KNMI of de besluitvorming door overheden. Veel van deze gegevens van overheden worden via onder andere de Wet open overheid openbaar gemaakt om de transparantie van de overheid te bevorderen. 
 
 Veel van deze gegevens hebben economische en maatschappelijke potentie en kunnen ook door natuurlijke personen of rechtspersonen voor andere doeleinden worden gebruikt, zowel voor commerciële of niet-commerciële doeleinden. Dat heet ‘hergebruik van overheidsinformatie.
@@ -31,7 +31,7 @@ Hier onderscheid maken tussen actief (verplicht en vrijwillig) en op verzoek bes
 
 
 
-## Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
+### Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
 
 Nationale wetgeving bestaat uit de Wet hergebruik overheidsinformatie (Who); de Wet open overheid (Woo); wet- en regelgeving op basis waarvan openbare registers worden bijgehouden, waaronder de Handelsregisterwet 2007, Boek 3 van het Burgerlijk Wetboek en de Kadasterwet, de Archiefwet (Aw), de Uitvoeringswet Algemene verordening gegevensbescherming en de Auteurswet. [UDGA noemen?]
@@ -41,7 +41,7 @@ EU-wetgeving bestaat uit de Open data richtlijn, de HVDL uitvoeringsverordening 
 [mogelijk uitgebreider overzicht met wetsanalyse op later moment]
 
 Hier vind je meer informatie over het wettelijk kader en de recente wetswijzigingen.
-## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren?
+### Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren?
 [Tekst] - zie tekst over aanbevelingen voor betere herbruikbaarheid, subpagina 3
 
 Bekijk hier de aanbevelingen voor betere herbruikbaarheid van overheidsinformatie.
@@ -53,11 +53,11 @@ Bekijk hier het stappenplan voor behandeling van verzoeken om hergebruik van ove
 
 -- hier actief verstrekken noemen?
 
-## Hoe verstrek je de gevraagde overheidsinformatie?
+### Hoe verstrek je de gevraagde overheidsinformatie?
 [Tekst] zie tekst subpagina 5.
 
 Bekijk hier de aanbevelingen voor verstrekking van overheidsinformatie.
-## Hoe bescherm je de privacy en persoonsgegevens van natuurlijke personen en IE-rechten?
+### Hoe bescherm je de privacy en persoonsgegevens van natuurlijke personen en IE-rechten?
 [Tekst] zie tekst subpagina 6.
 
 **Bescherming privacy en persoonsgegevens van natuurlijke personen**
@@ -82,15 +82,15 @@ De Who doet geen afbreuk aan de rechten van derden die rechthebbende zijn in de 
 Wanneer er bijzondere afspraken zijn gemaakt met IE-rechthebbenden, zoals CC-BY-licenties, dan moeten deze volgens het wetsvoorstel worden gerespecteerd. Dat kan praktisch betekenen dat de naam van de auteur of de bron vermeld moet worden. Die naamsvermelding zal zijn grondslag meestal vinden in het auteursrecht en het zal hergebruikers niet vrij staan om die naam te gebruiken voor andere doeleinden dan bronvermelding.
 
 Bekijk hier aanbevelingen voor de bescherming van de privacy en intellectuele eigendomsrechten.
-## Hoe regel je de kosten?
+### Hoe regel je de kosten?
 [Tekst] zie tekst subpagina 7.
 
 Bekijk hier de regels voor de kosten.
-## Wat zijn interessante praktijkvoorbeelden?
+### Wat zijn interessante praktijkvoorbeelden?
 [Tekst] zie tekst subpagina 8.
 
 Bekijk hier de praktijkvoorbeelden bij verschillende overheden.
-## Waar vind ik meer informatie?
+### Waar vind ik meer informatie?
 Hier vind je andere nuttige websites en publicaties.
 
 [hier verwijzing opnemen naar HVDS Handleiding?]
