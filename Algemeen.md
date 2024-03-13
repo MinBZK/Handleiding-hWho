@@ -45,7 +45,8 @@ Hier vind je meer informatie over het wettelijk kader en de recente wetswijzigin
 [Tekst] - zie tekst over aanbevelingen voor betere herbruikbaarheid, subpagina 3
 
 Bekijk hier de aanbevelingen voor betere herbruikbaarheid van overheidsinformatie.
-< Uitklapmenu> Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
+
+### Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
 [Tekst] zie tekst bij stappenplan, subpagina 4.
 
 Bekijk hier het stappenplan voor behandeling van verzoeken om hergebruik van overheidsinformatie. 
