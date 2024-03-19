@@ -1,5 +1,5 @@
-# Opdracht voor en ontwikkeling en beheer van de handleiding
-Deze handleiding is ontwikkeld in opdracht van het Ministerie van Binnenlandse zaken en Koninkrijksrelaties, in samenwerking met: andere departementen binnen de Rijksoverheid, het Nationaal Archief, VNG, IPO, UVW, Europa Decentraal. 
+# Ontwikkeling en beheer van de handleiding
+Deze handleiding wordt ontwikkeld door het Ministerie van Binnenlandse zaken en Koninkrijksrelaties, andere departementen binnen de Rijksoverheid, het Nationaal Archief, VNG, IPO, UVW, Europa Decentraal. 
 
 [mogelijke uitbreiding naar aanleiding van motie]
 
