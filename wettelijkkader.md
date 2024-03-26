@@ -1,6 +1,8 @@
 # Wettelijk kader 
 ## Samenvatting (BZK)
 
+TEST tekst 
+
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
 
 Nationale wetgeving bestaat uit de Wet hergebruik overheidsinformatie (Who); de Wet open overheid (Woo); wet- en regelgeving op basis waarvan openbare registers worden bijgehouden, waaronder de Handelsregisterwet 2007, Boek 3 van het Burgerlijk Wetboek en de Kadasterwet, de Archiefwet (Aw), de Uitvoeringswet Algemene verordening gegevensbescherming en de Auteurswet. [UDGA noemen?]
