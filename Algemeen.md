@@ -47,10 +47,17 @@ Hier vind je meer informatie over het wettelijk kader en de recente wetswijzigin
 Bekijk hier de aanbevelingen voor betere herbruikbaarheid van overheidsinformatie.
 
 ### Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
-[Tekst] zie tekst bij stappenplan, subpagina 4.
 
-Bekijk hier het stappenplan voor behandeling van verzoeken om hergebruik van overheidsinformatie. 
+In beginsel moeten Who-verzoeken worden toegewezen. Voor het behandelen van een verzoek om hergebruik moeten 6 stappen worden doorlopen. Hierbij wordt beoordeeld:
 
+1. of er sprake is van hergebruik;
+2. of de Who van toepassing is;
+3. of de informatie openbaar is;
+4. of er rechten van derden in geding zijn;
+5. of er persoonsgegevens in het spel zijn;
+6. hoe het verzoek moet worden ingewilligd.
+
+Bekijk hier het stappenplan voor behandeling van verzoeken om hergebruik van overheidsinformatie.
 
 -- hier actief verstrekken noemen?
 
@@ -83,6 +90,7 @@ De Who doet geen afbreuk aan de rechten van derden die rechthebbende zijn in de 
 Wanneer er bijzondere afspraken zijn gemaakt met IE-rechthebbenden, zoals CC-BY-licenties, dan moeten deze volgens het wetsvoorstel worden gerespecteerd. Dat kan praktisch betekenen dat de naam van de auteur of de bron vermeld moet worden. Die naamsvermelding zal zijn grondslag meestal vinden in het auteursrecht en het zal hergebruikers niet vrij staan om die naam te gebruiken voor andere doeleinden dan bronvermelding.
 
 Bekijk hier aanbevelingen voor de bescherming van de privacy en intellectuele eigendomsrechten.
+
 ### Hoe regel je de kosten?
 [Tekst] zie tekst subpagina 7.
 
