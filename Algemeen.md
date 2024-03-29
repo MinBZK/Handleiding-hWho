@@ -10,9 +10,9 @@ Met deze handleiding worden organisaties die onder de toepassing van deze wet va
 
 
 ### Voor wie is deze handleiding?  // maar kan ook gebruikt worden door
-Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’. De verplichtingen onder de Who gelden niet voor overheidsondernemingen en publieke gefinancierde onderzoeksinstellingen. Zij kunnen deze handleiding wel raadplegen zodra zij uit eigen beweging een Who-verzoek willen behandelen.
+Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’, overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.  
 
-Hier vind je meer informatie over welke organisaties vallen onder het begrip ‘met een publieke taak belaste instelling’. [teksten staan klaar hiervoor, nog bepalen waar we dit onderbrengen in de handleiding]
+Hier vind je meer informatie over welke organisaties vallen onder deze begrippen. [teksten staan klaar hiervoor, nog bepalen waar we dit onderbrengen in de handleiding]
 
 ### Wat is de status van deze handleiding?
 De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik als ook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
@@ -29,10 +29,6 @@ Bij hergebruik van overheidsinformatie, ook wel open (overheids-) data genoemd, 
 Toevoegen: hier vind je meer informatie over de reikwijdte van de wet?? Dan kan ook aandacht worden gegeven aan openbare registers die bij wet zijn ingesteld en de mogelijke wijzigingen in de wet op dit punt. 
 
 Hier onderscheid maken tussen actief (verplicht en vrijwillig) en op verzoek beschikbaar stellen voor hergebruik en de verschillende categorieën gegevenssets met eigen regimes?
-
-
-
-
 
 ### Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
@@ -94,10 +90,11 @@ Wanneer er bijzondere afspraken zijn gemaakt met IE-rechthebbenden, zoals CC-BY-
 
 Bekijk hier aanbevelingen voor de bescherming van de privacy en intellectuele eigendomsrechten.
 
-### Hoe regel je de kosten?
-[Tekst] zie tekst subpagina 7.
+### Mogen er kosten in rekening worden gebracht voor het herbruikbaar maken van openbare overheidsinformatie?
+Het uitgangspunt van de Who is dat hergebruik van openbare overheidsinformatie gratis moet zijn voor hergebruikers. In de praktijk gelden hier er echter veel uitzonderingen voor. Of er kosten in rekening gebracht mogen worden hangt af van twee factoren: het type organisatie en het type gegevens.
 
-Bekijk hier de regels voor de kosten.
+Bekijk hier de regels voor de kosten en welke uitzonderingen gelden in welk geval.
+
 ### Wat zijn interessante praktijkvoorbeelden?
 [Tekst] zie tekst subpagina 8.
 
