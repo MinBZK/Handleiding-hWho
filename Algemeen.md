@@ -7,15 +7,18 @@ Deze informatie kan worden gebruikt door voor uiteenlopende doeleinden, zowel vo
 Verzoeken kunnen niet alleen tot bestuursorganen worden gericht, maar ook tot andere instellingen met een publieke taak en tot archieven, musea en bibliotheken. Voor overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen gelden aangepaste regels.
  
 Met deze handleiding worden organisaties die onder de toepassing van deze wet vallen geholpen bij de uitvoering ervan. De handleiding bevat een overzicht van het bredere wettelijk kader voor hergebruik van overheidsinformatie, een uitleg van wijzigingen van de Who, aanbevelingen voor herbruikbaarheid van overheidsinformatie, stappenplannen voor de verschillende overheden, aanbevelingen voor het verstrekken van overheidsinformatie, aanbevelingen voor de bescherming van rechten van anderen, regels voor de kosten en praktijkvoorbeelden.
-### Voor wie is deze handleiding?  // maar kan ook gebruikt worden door
-Deze handleiding is gericht op alle organisaties die onder de reikwijdte van de Who vallen. Dat zijn: met een publieke taak belaste instellingen; overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.
 
-NADER UITWERKEN, voor wie geldt welk deel van de handleiding.... 
+
+### Voor wie is deze handleiding?  // maar kan ook gebruikt worden door
+Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’. De verplichtingen onder de Who gelden niet voor overheidsondernemingen en publieke gefinancierde onderzoeksinstellingen. Zij kunnen deze handleiding wel raadplegen zodra zij uit eigen beweging een Who-verzoek willen behandelen.
+
+Hier vind je meer informatie over welke organisaties vallen onder het begrip ‘met een publieke taak belaste instelling’. [teksten staan klaar hiervoor, nog bepalen waar we dit onderbrengen in de handleiding]
 
 ### Wat is de status van deze handleiding?
 De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik als ook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
 
 Hier vind je meer informatie over de opdracht voor en de ontwikkeling en het beheer van deze handleiding.
+
 ### Wat valt onder hergebruik van overheidsinformatie?
 De overheid, overheidsondernemingen en onderzoeksinstellingen produceren en verzamelen een breed scala aan gegevens binnen verschillende domeinen. Voorbeelden zijn verkeersinformatie van Rijkswaterstaat, weerinformatie van het KNMI of de besluitvorming door overheden. Veel van deze gegevens van overheden worden via onder andere de Wet open overheid openbaar gemaakt om de transparantie van de overheid te bevorderen. 
 
