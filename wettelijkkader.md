@@ -6,11 +6,19 @@ Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door n
 Nationale wetgeving bestaat uit de Wet hergebruik overheidsinformatie (Who); de Wet open overheid (Woo); wet- en regelgeving op basis waarvan openbare registers worden bijgehouden, waaronder de Handelsregisterwet 2007, Boek 3 van het Burgerlijk Wetboek en de Kadasterwet, de Archiefwet (Aw), de Uitvoeringswet Algemene verordening gegevensbescherming en de Auteurswet. [UDGA noemen?]
  
 EU-wetgeving bestaat uit de Open data richtlijn, de HVDL uitvoeringsverordening en de Algemene verordening gegevensbescherming. [DGA noemen?] 
-## Nationale wetgeving (BZK-Tom)
 
-[Tekst]
+## Overige gerelateerde nationale wetgeving (BZK-Tom)
+
+### Openbare registers
+Nederland kent veel openbaar toegankelijke wettelijke registers. Denk aan het Handelsregister en het Kadaster. Op gegevens in die registers is de Who ook van toepassing, met één belangrijke uitzondering: de Who is niet van toepassing op openbare persoonsgegevens die in dat soort registers zitten. Die persoonsgegevens worden namelijk openbaar gemaakt op basis van andere wetgeving, zoals de Handelsregisterwet 2007, met een specifiek doel, bijvoorbeeld om te weten met wie je zaken doet. Maar die persoonsgegevens zijn niet bedoeld om zomaar door iedereen te hergebruiken voor andere doeleinden. Dat zou in strijd zijn met het doelbindingsbeginsel van de AVG.
+
+De Wet hergebruik laat ruimte om bij algemene maatregel van bestuur of in andere wetgeving te regelen dat bepaalde persoonsgegevens toch beschikbaar zijn voor hergebruik, maar op dit moment is daarvoor nog niets geregeld. Daarnaast is het mogelijk dat in de registerwetgeving in meer detail wordt bepaald wat een afnemer van de informatie allemaal mag doen met die informatie, zonder dat de Who daaraan te pas komt. Omdat dat buiten de werking van de Who valt, wordt dat hier verder buiten beschouwing gelaten.
+
+Een verzoek om hergebruik van openbare persoonsgegevens in openbare registers moet dus in principe worden afgewezen. Als een verzoek ziet op zowel persoonsgegevens als op niet-persoonsgegevens en die gegevens zijn gemakkelijk van elkaar te scheiden, dan moet alleen het deel dat ziet op persoonsgegevens worden afgewezen. De andere gegevens kunnen wel beschikbaar worden gesteld voor hergebruik. Als dat niet gemakkelijk van elkaar is te scheiden, kan de overheidsorganisatie het verzoek helemaal afwijzen, of voorstellen om die (ingewikkelde) scheiding op kosten van de verzoeker alsnog te maken. Ook kan de overheidsorganisatie een geanonimiseerde versie voor hergebruik beschikbaar stellen, als dat voldoet aan de wensen van de verzoeker. Ook daarvoor mogen extra kosten in rekening worden gebracht. Voordat de overheidsorganisatie iets doet waarvoor kosten in rekening worden gebracht, moet deze wel aan de verzoeker inzicht bieden in die kosten, zodat de verzoeker kan bepalen of deze bereid is om daarvoor te bepalen.
+
 ### Wet hergebruik overheidsinformatie (Who) (BZK -Tom)
-[Tekst]
+[verwijderen gezien de hele handleiding hierover gaat]
+
 ### Wet open overheid (Woo) (CIO rijk)
 De Wet open overheid (hierna ‘de Woo’) regelt het recht op informatie over wat de overheid doet, hoe ze dat doet en waarom. De Woo bevat een actieve openbaarmakingsplicht: de overheid moet sommige informatie uit zichzelf openbaar maken; een openbaarmakingsplicht op verzoek: de overheid maakt informatie openbaar binnen een bepaalde termijn openbaar als iemand erom vraagt; en een informatiehuishoudingsplicht: overheidsinformatie moet vindbaar zijn.
 
@@ -25,9 +33,7 @@ De samenloop van de Who en de Woo moet er toe leiden dat zoveel mogelijk gegeven
 
 ### Archiefwet (Aw) (NA)
 
-De Archiefwet 1995 wordt gemoderniseerd. De nieuwe Archiefwet zal naar verwachting op 1 januari 2025 in werking treden.
- 
-De Archiefwet 1995 (Archiefwet) regelt het beheer van en de toegang tot overheidsarchieven.
+De Archiefwet 1995 wordt gemoderniseerd. De nieuwe Archiefwet zal naar verwachting op 1 januari 2025 in werking treden. De Archiefwet 1995 (Archiefwet) regelt het beheer van en de toegang tot overheidsarchieven.
  
 De Archiefwet hanteert in artikel 1 de volgende definitie voor archiefbescheiden: ‘bescheiden, ongeacht hun vorm, door de overheidsorganen ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten’. Overheidsinformatie is alle vastgelegde informatie die de overheid ontvangt, verwerkt of maakt bij het uitvoeren van haar taken. Hierbij wordt geen onderscheid gemaakt in de (technische) vorm die de informatie heeft of de plaats waar de informatie bewaard wordt.
  
@@ -81,7 +87,5 @@ o	Hergebruikers mogen de gegevens niet gebruiken om mensen te heridentificeren o
 o	Als hier een inbreuk op wordt gemaakt, dan moet dit worden teruggemeld aan de dataprovider, zodat hierop maatregelen kunnen worden genomen 
 o	Wanneer hergebruikers gegevens doorgeven aan derden, dan gelden die voorwaarden ook voor hen 
 o	Dataproviders kunnen bovendien aanvullende voorwaarden opleggen aan hergebruikers ter bescherming van persoonsgegevens. 
-
-Afwijkende regels voor openbare registers die bij wet zijn ingesteld [nader toelichten]. 
 
 
