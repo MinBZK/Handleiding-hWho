@@ -8,27 +8,31 @@ Verzoeken kunnen niet alleen tot bestuursorganen worden gericht, maar ook tot an
  
 Met deze handleiding worden organisaties die onder de toepassing van deze wet vallen geholpen bij de uitvoering ervan. De handleiding bevat een overzicht van het bredere wettelijk kader voor hergebruik van overheidsinformatie, een uitleg van wijzigingen van de Who, aanbevelingen voor herbruikbaarheid van overheidsinformatie, stappenplannen voor de verschillende overheden, aanbevelingen voor het verstrekken van overheidsinformatie, aanbevelingen voor de bescherming van rechten van anderen, regels voor de kosten en praktijkvoorbeelden.
 
-
-### Voor wie is deze handleiding?  // maar kan ook gebruikt worden door
-Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’, overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.  
-
-Hier vind je meer informatie over welke organisaties vallen onder deze begrippen. [teksten staan klaar hiervoor, nog bepalen waar we dit onderbrengen in de handleiding]
+### Voor wie is deze handleiding? 
+Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’, overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen. 
 
 ### Wat is de status van deze handleiding?
 De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik als ook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
 
 Hier vind je meer informatie over de opdracht voor en de ontwikkeling en het beheer van deze handleiding.
 
-### Wat valt onder hergebruik van overheidsinformatie?
-De overheid, overheidsondernemingen en onderzoeksinstellingen produceren en verzamelen een breed scala aan gegevens binnen verschillende domeinen. Voorbeelden zijn verkeersinformatie van Rijkswaterstaat, weerinformatie van het KNMI of de besluitvorming door overheden. Veel van deze gegevens van overheden worden via onder andere de Wet open overheid openbaar gemaakt om de transparantie van de overheid te bevorderen. 
+### Wie en wat valt onder de wet hergebruik van overheidsinformatie?
+De Who heeft betrekking op een breed scala aan overheidsorganisaties en verschillende type gegevens. 
 
-Veel van deze gegevens hebben economische en maatschappelijke potentie en kunnen ook door natuurlijke personen of rechtspersonen voor andere doeleinden worden gebruikt, zowel voor commerciële of niet-commerciële doeleinden. Dat heet ‘hergebruik van overheidsinformatie.
+Type organisaties:
+1. Met een publieke taak belaste instellingen;
+2. Overheidsondernemingen;
+3. hoger onderwijs, onderzoeksinstellingen of instellingen die onderzoek financieren.
 
-Bij hergebruik van overheidsinformatie, ook wel open (overheids-) data genoemd, wordt de overheidsinformatie bij voorkeur via de elektronische weg en in een open formaat, gemakkelijk herbruikbaar en machinaal bruikbaar beschikbaar gesteld, zodat ze kunnen worden hergebruikt (open data).
+Verschillende begrippen:
+1. gegevens
+2. informatie
+3. documenten
 
-Toevoegen: hier vind je meer informatie over de reikwijdte van de wet?? Dan kan ook aandacht worden gegeven aan openbare registers die bij wet zijn ingesteld en de mogelijke wijzigingen in de wet op dit punt. 
+Verschillende categorieën gegevens:
+Dit ook nog aanvullen?
 
-Hier onderscheid maken tussen actief (verplicht en vrijwillig) en op verzoek beschikbaar stellen voor hergebruik en de verschillende categorieën gegevenssets met eigen regimes?
+Lees hier meer over het type organisaties, welke begrippen en categorieën gegevens onder de Who vallen.
 
 ### Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
@@ -46,7 +50,6 @@ Hier vind je meer informatie over het wettelijk kader en de recente wetswijzigin
 Bekijk hier de aanbevelingen voor betere herbruikbaarheid van overheidsinformatie.
 
 ### Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
-
 In beginsel moeten Who-verzoeken worden toegewezen. Voor het behandelen van een verzoek om hergebruik moeten 6 stappen worden doorlopen. Hierbij wordt beoordeeld:
 
 1. of er sprake is van hergebruik;
