@@ -91,11 +91,13 @@ Wanneer er bijzondere afspraken zijn gemaakt met IE-rechthebbenden, zoals CC-BY-
 Bekijk hier aanbevelingen voor de bescherming van de privacy en intellectuele eigendomsrechten.
 
 ### Mogen er kosten in rekening worden gebracht voor het herbruikbaar maken van openbare overheidsinformatie?
-Het uitgangspunt van de Who is dat bij terbeschikkingstelling geen of slechts de marginale verstrekkingskosten in rekening worden gebracht. Bij marginale verstrekkingskosten gaat het om de extra kosten die gemaakt moeten worden om te kunnen voldoen aan een verzoek.
+Het uitgangspunt van de Who is dat bij terbeschikkingstelling geen of slechts de marginale verstrekkingskosten in rekening worden gebracht. Bij marginale verstrekkingskosten gaat het om de extra kosten die gemaakt moeten worden om te kunnen voldoen aan een verzoek. Eind 2017 heeft KING, in opdracht van de VNG en met steun van BZK, een quick scan uitgevoerd naar de door gemeenten gemaakte kosten voor de uitvoering van de Who. Uit deze quick scan blijkt dat gemeenten bij de verzoekers geen kosten in rekening brengen. Ook de marginale verstrekkingskosten niet. 
+
+Vooraf moet kenbaar worden gemaakt als kosten in rekening worden gebracht voor het hergebruik en met welke factoren rekening wordt gehouden bij de berekening daarvan. Indien geen kosten in rekening worden gebracht, hoeft verzoeker hierover ook niet geïnformeerd te worden. Ook moet, indien daarom wordt verzocht, worden aangegeven hoe de kosten zijn berekend met betrekking tot een specifiek verzoek om hergebruik. 
 
 Wanneer documenten proactief en online voor hergebruik beschikbaar worden gesteld, bijvoorbeeld via een open data portaal, dan kunnen er geen marginale verstrekkingskosten worden doorberekend, omdat er geen sprake is van een verzoek en omdat het potentiële aantal hergebruikers erg groot kan zijn. 
 
-In de praktijk gelden hier er echter veel uitzonderingen voor. Of er kosten in rekening gebracht mogen worden hangt af van twee factoren: het type organisatie en het type gegevens. Bekijk hier de regels voor de kosten en welke uitzonderingen gelden in welk geval.
+In de praktijk gelden hier er echter veel uitzonderingen voor. Of er kosten in rekening gebracht mogen worden hangt af van twee factoren: het type organisatie en het type gegevens. Bekijk hier de regels voor de kosten per type organisatie. 
 
 ### Wat zijn interessante praktijkvoorbeelden?
 [Tekst] zie tekst subpagina 8.
