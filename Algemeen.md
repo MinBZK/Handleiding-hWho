@@ -91,9 +91,11 @@ Wanneer er bijzondere afspraken zijn gemaakt met IE-rechthebbenden, zoals CC-BY-
 Bekijk hier aanbevelingen voor de bescherming van de privacy en intellectuele eigendomsrechten.
 
 ### Mogen er kosten in rekening worden gebracht voor het herbruikbaar maken van openbare overheidsinformatie?
-Het uitgangspunt van de Who is dat hergebruik van openbare overheidsinformatie gratis moet zijn voor hergebruikers. In de praktijk gelden hier er echter veel uitzonderingen voor. Of er kosten in rekening gebracht mogen worden hangt af van twee factoren: het type organisatie en het type gegevens.
+Het uitgangspunt van de Who is dat bij terbeschikkingstelling geen of slechts de marginale verstrekkingskosten in rekening worden gebracht. Bij marginale verstrekkingskosten gaat het om de extra kosten die gemaakt moeten worden om te kunnen voldoen aan een verzoek.
 
-Bekijk hier de regels voor de kosten en welke uitzonderingen gelden in welk geval.
+Wanneer documenten proactief en online voor hergebruik beschikbaar worden gesteld, bijvoorbeeld via een open data portaal, dan kunnen er geen marginale verstrekkingskosten worden doorberekend, omdat er geen sprake is van een verzoek en omdat het potentiële aantal hergebruikers erg groot kan zijn. 
+
+In de praktijk gelden hier er echter veel uitzonderingen voor. Of er kosten in rekening gebracht mogen worden hangt af van twee factoren: het type organisatie en het type gegevens. Bekijk hier de regels voor de kosten en welke uitzonderingen gelden in welk geval.
 
 ### Wat zijn interessante praktijkvoorbeelden?
 [Tekst] zie tekst subpagina 8.
