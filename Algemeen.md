@@ -32,7 +32,7 @@ Verschillende begrippen:
 Verschillende categorieën gegevens:
 Dit ook nog aanvullen?
 
-Lees hier meer over het type organisaties, welke begrippen en categorieën gegevens onder de Who vallen.
+Lees hier meer over het type organisaties, welke begrippen en categorieën gegevens onder de Who vallen. [hier is nog geen subpagina, maar wel voldoende input in de MvT].
 
 ### Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
 Het wettelijk kader voor hergebruik van overheidsinformatie wordt bepaald door nationale wetgeving en EU-wetgeving. 
