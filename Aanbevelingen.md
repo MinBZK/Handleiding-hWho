@@ -20,11 +20,11 @@ Gestandaardiseerde metadatering is cruciaal voor de vindbaarheid van informatie.
 
 Naast het hanteren van metadata standaarden is het verder nuttig om in te zetten op:
 
-•	Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie.
-•	Het creëren van een zoekindex op basis van tekstgegevens en metagegevens. 
-•	De implementatie van enterprise search: een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn.
-•	Het nemen van matregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
-•	Het garanderen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.  
+   •	Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie.
+   •	Het creëren van een zoekindex op basis van tekstgegevens en metagegevens. 
+   •	De implementatie van enterprise search: een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn.
+   •	Het nemen van matregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
+   •	Het garanderen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.  
 
 Beschikbaarheid en Leesbaarheid
 Omdat informatie voor verschillende doelen gebruikt en hergebruikt wordt is het nodig dat deze informatie zoveel mogelijk beschikbaar is in vormen die aansluiten bij de manieren van (her)gebruik. Bij voorkeur kan informatie snel, eenvoudig, op elk tijdstip, op elke plaats, zonder kosten en voor zoveel mogelijk afnemers beschikbaar gesteld worden. Informatie die in principe openbaar is, kan onderdelen bevatten die niet openbaar mogen zijn. Bijvoorbeeld omdat deze onderdelen privacygevoelig zijn of de belangen van de overheid of bedrijven schaden. Een overheidsorganisatie hoeft deze niet-openbare onderdelen niet toegankelijk te maken voor externe afnemers. Van informatie die deels als openbaar is geclassificeerd, wordt het openbare deel ter beschikking gesteld. Bijvoorbeeld door informatie te anonimiseren of te pseudonimiseren. Voor informatie die niet als openbaar is geclassificeerd, kunnen additionele beperkingen voor interne afnemers van toepassing zijn.
@@ -34,15 +34,15 @@ Informatie is leesbaar zonder dat daarvoor speciale toepassingen of hulpmiddelen
 
 Het is daarom aan te bevelen om in te zetten op:
 
-•	Het vastleggen van het openbaarheidsniveau van informatie. 
-•	Het bepalen van de informatiewaarde bij de inrichting van een informatiebron door te inventariseren voor welke (potentiële) afnemers, welke vorm van beschikbaarheid nodig is, hoe zich dit in de loop der tijd ontwikkelt en welke eventuele beperkingen van toepassing zijn. 
-•	Het ter beschikking stellen van informatie in een gangbaar en open bestandsformaat. 
-•	Het beschikbaar maken van informatie in bestandsformaten die samenhangen met het doel waarvoor het bestand wordt gebruikt.
-•	Het voorkomen van leveranciersafhankelijkheid bij het gebruik van een (specifiek) bestandsformaat.
-•	Het garanderen dat gebruikte bestandsformaten onafhankelijk van hulpmiddelen of speciale toepassingen te gebruiken zijn.
-•	Het gebruik van gestandaardiseerde gegevensmodellen en gegevenswoordenboeken ten behoeve van machinematige verwerking van gegevens.
-•	Het beschikbaar stellen van gegevens in .csv-formaat voor machinale verwerking.
-•	Het beschikbaar stellen van presentatieversies van gescande documenten in een ander formaat (bijvoorbeeld .jpeg) dan een preserveringsversie (wat een veel groter en zwaarder .tiff-bestand kan zijn). 
+   •	Het vastleggen van het openbaarheidsniveau van informatie. 
+   •	Het bepalen van de informatiewaarde bij de inrichting van een informatiebron door te inventariseren voor welke (potentiële) afnemers, welke vorm van beschikbaarheid nodig is, hoe zich dit in de loop der tijd ontwikkelt en welke eventuele beperkingen van toepassing zijn. 
+   •	Het ter beschikking stellen van informatie in een gangbaar en open bestandsformaat. 
+   •	Het beschikbaar maken van informatie in bestandsformaten die samenhangen met het doel waarvoor het bestand wordt gebruikt.
+   •	Het voorkomen van leveranciersafhankelijkheid bij het gebruik van een (specifiek) bestandsformaat.
+   •	Het garanderen dat gebruikte bestandsformaten onafhankelijk van hulpmiddelen of speciale toepassingen te gebruiken zijn.
+   •	Het gebruik van gestandaardiseerde gegevensmodellen en gegevenswoordenboeken ten behoeve van machinematige verwerking van gegevens.
+   •	Het beschikbaar stellen van gegevens in .csv-formaat voor machinale verwerking.
+   •	Het beschikbaar stellen van presentatieversies van gescande documenten in een ander formaat (bijvoorbeeld .jpeg) dan een preserveringsversie (wat een veel groter en zwaarder .tiff-bestand kan zijn). 
 
 
  
