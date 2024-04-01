@@ -12,6 +12,6 @@ Na overleg tussen CIO Rijk en BZK zijn we tot de conclusie gekomen dat deze pass
 
 - Maak zoveel gebruik van Open standaarden en API’s.
 
-Wees begrijpelijk en transparant over de mogelijke kosten en gehanteerde tariefregels (zie ook subpagina 7). 
+- Wees begrijpelijk en transparant over de mogelijke kosten en gehanteerde tariefregels
 
 
