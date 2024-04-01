@@ -1,5 +1,4 @@
 # Aanbevelingen voor herbruikbaarheid van overheidsinformatie 
-(uit te voeren door CIO rijk icm NA) (mogelijk checklist ?) of randvoorwaarden, aandachtspunten.  En ook nagaan of dat verschilt per BO. 
 
 De Who heeft als uitgangspunt dat overheidsinformatie zoveel mogelijk openheid en herbruikbaarheid moet faciliteren. Overheidsinformatie is daarbij zo open als mogelijk en zo gesloten als nodig. Hergebruik van overheidsinformatie is alleen mogelijk wanneer diezelfde overheidsinformatie openbaar en duurzaam toegankelijk. Dit zijn de randvoorwaarden die hergebruik van informatie mogelijk maken. De toepassing van de Who is afhankelijk van de manier waarop invulling wordt gegeven aan actieve openbaarmaking zoals geformuleerd in de Woo en van de wijze waarop de informatiehuishouding van publieke instellingen is vormgegeven.
 
