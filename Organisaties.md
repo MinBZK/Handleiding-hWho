@@ -3,10 +3,10 @@
 ## Welke organisaties vallen onder het begrip ‘met een publieke taak belaste instelling?
 
 Het begrip ‘met een publieke taak belaste instelling’ is de omzetting in nationaal recht van wat in Europese richtlijnen wordt omschreven als ‘openbaar lichaam’. Dit begrip en de definitie ervan is ontleend aan Europese aanbestedingsrichtlijnen 2014/23, 2014/24 en 2014/25 (zie Publicatieblad van de EU van 28 maart 2014, p. 1 resp, 65 en 243). Op grond van deze richtlijnen omvat een openbaar lichaam: 
-•	de staat;
-•	zijn territoriale lichamen;
-•	publiekrechtelijke instellingen;
-•	verenigingen gevormd door een of meer van deze lichamen of een of meer van deze publiekrechtelijke instellingen. 
+- de staat;
+- zijn territoriale lichamen;
+- publiekrechtelijke instellingen;
+- verenigingen gevormd door een of meer van deze lichamen of een of meer van deze publiekrechtelijke instellingen. 
 
 Publiekrechtelijke instellingen zijn rechtspersonen die opgericht zijn met het specifieke doel te voorzien in behoeften van algemeen belang die niet van industriële of commerciële aard zijn en waarop een van de onderstaande opties van toepassing is: 
 1.	De activiteiten in hoofdzaak zijn door de staat of zijn territoriale lichamen of andere publiekrechtelijke instellingen gefinancierd.
