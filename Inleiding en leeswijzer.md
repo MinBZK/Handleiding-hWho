@@ -1,3 +1,5 @@
+# Inleiding en leeswijzer
+
 ## Waarover gaat deze handleiding?
 Op 18 juni 2024 is de Wet implementatie Open data richtlijn in werking getreden. 
 Deze wet zet de EU Richtlijn 2019/1024 inzake open data en hergebruik van overheidsinformatie (hierna “Open data Richtlijn”) om in Nederlands recht. De Open data Richtlijn maakt onderdeel uit van het Digitale Decennium (ook bekend als Digital Decade), een pakket aan ambitieuze plannen van de EU-instellingen om de Europese Unie wereldleider te maken in het digitale domein. De achtergrond voor de Open data Richtlijn is dat de uitwisseling van overheidsgegevens, met inachtneming van persoonsgegevensbescherming, van doorslaggevend belang is voor de ontwikkeling van de Europese Unie, onder andere in economisch innovatief opzicht.
