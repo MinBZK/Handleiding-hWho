@@ -90,12 +90,12 @@ In beginsel dient een verzoek te worden toegewezen. Er zijn echter enkele afwijz
 
 Bepaalde onderwerpen zijn uitgezonderd van de Who:
 
-•	informatie van publieke omroepen;
-•	informatie van onderwijs- en onderzoeksinstellingen, anders dan instellingen voor hoger onderwijs
-•	informatie van andere culturele instellingen dan musea, bibliotheken en archieven;
-•	gedeelten van documenten die alleen logo’s, wapens of insignes bevatten;
-•	persoonsgegevens in bij of krachtens de wet ingestelde registers voor zover deze openbaar toegankelijk zijn, tenzij bij of krachtens de wet anders is bepaald;
-•	informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebruik onverenigbaar is met de doeleinden waarvoor ze zijn verkregen, anders dan persoonsgegevens als bedoeld in het vorige onderdeel.
+- informatie van publieke omroepen;
+- informatie van onderwijs- en onderzoeksinstellingen, anders dan instellingen voor hoger onderwijs
+- informatie van andere culturele instellingen dan musea, bibliotheken en archieven;
+- gedeelten van documenten die alleen logo’s, wapens of insignes bevatten;
+- persoonsgegevens in bij of krachtens de wet ingestelde registers voor zover deze openbaar toegankelijk zijn, tenzij bij of krachtens de wet anders is bepaald;
+- informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebruik onverenigbaar is met de doeleinden waarvoor ze zijn verkregen, anders dan persoonsgegevens als bedoeld in het vorige onderdeel.
 
 ## Inspanningsverplichting
 De Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b vallen, zoveel mogelijk beschikbaar te stellen voor hergebruik, voor zover dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, tenzij daarmee geen redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van  de Woo, op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
