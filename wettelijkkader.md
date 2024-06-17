@@ -2,19 +2,19 @@
 
 ## Wettelijk kader
 
-De kern van de wetgeving over hergebruik in Nederland, wordt gevormd door de Wet hergebruik van overheidsinformatie (Who). Dat is een omzetting van de Europese Open data richtlijn  (Richtlijn 2019/1024/EU). Naast de Who zijn nog een aantal andere wetten relevant voor hergebruik. Sommige betreffen alleen specifieke soorten gegevens en/of zijn alleen relevant voor specifieke organisaties. Andere zijn (bijna) altijd van belang bij het beschikbaar stellen van gegevens voor hergebruik. Om een scherp beeld te krijgen van het relevante wettelijke landschap, stipt deze handleiding ze hieronder kort aan.
+De kern van de wetgeving over hergebruik in Nederland, wordt gevormd door de Wet hergebruik van overheidsinformatie (Who). Dat is een omzetting van de Europese Open data richtlijn  ([Richtlijn 2019/1024/EU](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L1024)). Naast de Who zijn nog een aantal andere wetten relevant voor hergebruik. Sommige betreffen alleen specifieke soorten gegevens en/of zijn alleen relevant voor specifieke organisaties. Andere zijn (bijna) altijd van belang bij het beschikbaar stellen van gegevens voor hergebruik. Om een scherp beeld te krijgen van het relevante wettelijke landschap, stipt deze handleiding ze hieronder kort aan.
 
-In de eerste plaats heeft hergebruik onder de Who alleen betrekking op openbare documenten. Daarom is wetgeving die gaat over openbaarmaking ook belangrijk. Het gaat in het bijzonder om de Wet open overheid (Woo), maar daarnaast ook om wet- en regelgeving op basis waarvan openbare registers worden bijgehouden. Onder dat laatste vallen onder andere de Handelsregisterwet 2007, Boek 3 van het Burgerlijk Wetboek en de Kadasterwet. 
+In de eerste plaats heeft hergebruik onder de Who alleen betrekking op openbare documenten. Daarom is wetgeving die gaat over openbaarmaking ook belangrijk. Het gaat in het bijzonder om de Wet open overheid (Woo), maar daarnaast ook om wet- en regelgeving op basis waarvan openbare registers worden bijgehouden. Onder dat laatste vallen onder andere de [Handelsregisterwet 2007](https://wetten.overheid.nl/BWBR0021777), [Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/BWBR0005291) en de [Kadasterwet](https://wetten.overheid.nl/BWBR0004541). 
 
-In de tweede plaats kunnen documenten persoonsgegevens bevatten. De bescherming daarvan wordt geregeld door de Algemene verordening gegevensbescherming (AVG) en de Uitvoeringswet Algemene verordening gegevensbescherming (UAVG).
+In de tweede plaats kunnen documenten persoonsgegevens bevatten. De bescherming daarvan wordt geregeld door de [Algemene verordening gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32016R0679) (AVG) en de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/BWBR0040940) (UAVG).
 
-In de derde plaats kunnen gegevens daarnaast beschermd zijn op grond van intellectuele eigendomsrechten. Daarop kunnen de Auteurswet, Wet op de naburige rechten en Databankenwet van toepassing zijn.
+In de derde plaats kunnen gegevens daarnaast beschermd zijn op grond van intellectuele eigendomsrechten. Daarop kunnen de [Auteurswet](https://wetten.overheid.nl/BWBR0001886), [Wet op de naburige rechten](https://wetten.overheid.nl/BWBR0005921) en [Databankenwet ](https://wetten.overheid.nl/BWBR0010591)van toepassing zijn.
 
-In de vierde plaats is voor archieven een deel van het hergebruikrecht geregeld in de archiefwetgeving. Dat is op dit moment de Archiefwet 1995, die in de toekomst waarschijnlijk zal worden vervangen door een nieuwe Archiefwet.
+In de vierde plaats is voor archieven een deel van het hergebruikrecht geregeld in de archiefwetgeving. Dat is op dit moment de [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376), die in de toekomst waarschijnlijk zal worden vervangen door een [nieuwe Archiefwet](https://www.rijksoverheid.nl/onderwerpen/archieven/modernisering-archiefwet).
 
-In de vijfde plaats worden de regels over specifieke hoogwaardige gegevenssets grotendeels geregeld in de HVDS-uitvoeringsverordening (Verordening 2023/138) van de Europese Commissie. De grondslag voor die uitvoeringsverordening ligt in de Open data richtlijn . De Europese Commissie heeft de bevoegdheid om meerdere HVD-uitvoeringsverordeningen te maken over verschillende gegevenssets en om de thema's uit te breiden waarop die HVD-uitvoeringsverordeningen kunnen zien. De verwachting is daarom dat er in de toekomst meer gegevenssets via HVD-uitvoeringsverordening zullen worden aangewezen.
+In de vijfde plaats worden de regels over specifieke hoogwaardige gegevenssets grotendeels geregeld in de [Uitvoeringsverordening HVDL (Verordening 2023/138)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32023R0138) van de Europese Commissie. De grondslag voor die uitvoeringsverordening ligt in de Open data richtlijn. De Europese Commissie heeft de bevoegdheid om meerdere HVD-uitvoeringsverordeningen te maken over verschillende gegevenssets en om de thema's uit te breiden waarop die HVD-uitvoeringsverordeningen kunnen zien. De verwachting is daarom dat er in de toekomst meer gegevenssets via HVD-uitvoeringsverordening zullen worden aangewezen.
 
-In de zesde plaats zijn de Europese Datagovernanceverordening (DGA) en de bijbehorende Nederlandse uitvoeringsregelgeving (Uitvoeringswet Datagovernanceverordening en lagere regelgeving) van invloed op de toepasselijkheid van de Who. Hoofdstuk II van de DGA geeft faciliteiten voor een andere vorm van hergebruik. Het gaat daarbij juist om bepaalde gegevens die niet openbaar kunnen worden gemaakt omdat ze daarvoor te gevoelig zijn. DGA-hergebruik is veel beperkter dan Who-hergebruik, omdat DGA-hergebruik alleen mag plaatsvinden op een manier waarop de gegevens beschermd blijven en de doeleinden van dat hergebruik beperkt zijn tot enkele doelen van algemeen belang (op basis van nationale wetgeving).
+In de zesde plaats zijn de [Europese Datagovernanceverordening (Verordening 2022/868, DGA)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32022R0868) en de bijbehorende Nederlandse uitvoeringsregelgeving (Uitvoeringswet Datagovernanceverordening en lagere regelgeving) van invloed op de toepasselijkheid van de Who. Hoofdstuk II van de DGA geeft faciliteiten voor een andere vorm van hergebruik. Het gaat daarbij juist om bepaalde gegevens die niet openbaar kunnen worden gemaakt omdat ze daarvoor te gevoelig zijn. DGA-hergebruik is veel beperkter dan Who-hergebruik, omdat DGA-hergebruik alleen mag plaatsvinden op een manier waarop de gegevens beschermd blijven en de doeleinden van dat hergebruik beperkt zijn tot enkele doelen van algemeen belang (op basis van nationale wetgeving).
 
 Enkele van de bovengenoemde wetten zullen hieronder vanwege hun relevantie verder worden uitgewerkt. Het voert echter te ver om dat hier voor allemaal te doen.
 
@@ -34,7 +34,7 @@ De reikwijdte van de Who is breder dan de Woo. Met de Wet implementatie Open dat
  
 De samenloop van de Who en de Woo moet ertoe leiden dat zoveel mogelijk gegevens actief openbaar worden gemaakt en ter hergebruik worden aangeboden. Bestuursorganen en overheidsondernemingen moeten hun documenten zo maken dat ze makkelijk toegankelijk en herbruikbaar zijn. De Who is dus van toepassing op documenten die openbaar worden gemaakt dankzij de Woo. Informatie dient beschikbaar te worden op een manier die hergebruik gemakkelijk en toegankelijk maakt. 
 
-Meer informatie over de Wet open overheid is te vinden op de websites van de Rijksoverheid en de Vereniging van Nederlandse Gemeentes.
+Meer informatie over de Wet open overheid is te vinden op de websites van de [Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/wet-open-overheid-woo) en de [Vereniging van Nederlandse Gemeenten](https://vng.nl/rubrieken/onderwerpen/wet-open-overheid).
 
 [1] Dat begrip verwijst naar wat Europeesrechtelijk als ‘openbaar lichaam’ wordt aangeduid. Omdat ‘openbaar lichaam’ in het Nederlandse bestuursrecht niet hetzelfde is, is destijds gekozen voor een andere benaming in de Who. [2] Inclusief entiteiten die op grond van artikel 1:1, tweede lid, van Algemene wet bestuursrecht zijn uitgesloten van het bestuursorgaanbegrip. [3] Waaronder alle organisaties die worden genoemd in artikel 2.2 van de Woo.
 
@@ -44,10 +44,10 @@ De Archiefwet geldt voor alle informatie en gegevens die door overheden worden v
  
 De Archiefwet verplicht overheidsorganen ‘zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden’. Archiefbescheiden die vernietigd zijn conform selectielijst, inclusief opgemaakt proces-verbaal, kunnen niet in aanmerking komen voor hergebruik. Na 20 jaar wordt overheidsinformatie die niet voor vernietiging in aanmerking komt en ouder is dan twintig jaar overgebracht naar een archiefbewaarplaats’. Bij het overbrengen van overheidsinformatie naar een archiefbewaarplaats geldt het uitgangspunt dat deze informatie openbaar is. Voor naar een archiefbewaarplaats overgebrachte informatie geldt dat deze in algemene zin niet onder de Who valt, tenzij anders bepaald. Dat laatste betekent dat er daarvoor in de Archiefwet ook verwijzingen staan naar de Who. Het gaat dan bijvoorbeeld om Who-regels voor formaten en voorwaarden bij een gebruiksverzoek. De Archiefwet kan ‘beperkingen aan de openbaarheid voor een bepaalde termijn’ stellen. Daarvoor voorziet de Archiefwet drie uitzonderingsgronden die ook hergebruik limiteren: de eerbiediging van de persoonlijke levenssfeer, het belang van de staat (of bondgenoten) en onevenredige bevoordeling van natuurlijke personen.
  
-Meer informatie over de Archiefwet is te vinden op de websites van de Rijksoverheid het Nationaal Archief en de Vereniging van Nederlandse Gemeenten.
+Meer informatie over de Archiefwet is te vinden op de websites van de [Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid), het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/wet-en-regelgeving) en de [Vereniging van Nederlandse Gemeenten](https://vng.nl/artikelen/uitleg-archiefwet-1995).
 
 ## Wat zijn de belangrijkste wijzigingen ten opzichte van de vorige wet?	
-De Wet implementatie Open data richtlijn  wijzigt de Who op een aantal punten.
+De Wet implementatie Open data richtlijn wijzigt de Who op een aantal punten.
  
 -	Beperken van in rekening brengen kosten
 Het verlagen van barrières voor markttoegang voor kleine en middelgrote bedrijven, door voor (overheids)organisaties de mogelijkheden te verkleinen om hogere kosten te rekenen dan slechts marginale kosten voor hergebruik. 
@@ -209,11 +209,13 @@ Verder moeten zij:
 •	in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
 
 Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de Richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-verordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
-[KOP 4] Richtlijn bescherming databanken (Richtlijn 96/9/EG)
+
+#### Richtlijn bescherming databanken (Richtlijn 96/9/EG)
 Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank in elkaar te draaien, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9 (hierna “Databankenrichtlijn”). De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
 
 De Open data richtlijn  is van invloed op de uitoefening van dit recht uit de Databankenwet en -richtlijn. In artikel 1 lid 6 van de Open data richtlijn  staat namelijk een beperking op het artikel 7 lid 1 van fabrikanten van databanken om gebruik door derden te weren. Voor zover fabrikanten dit recht hebben, mogen zij dat niet uitoefenen om hergebruik tegen te gaan of te beperken buiten de grenzen die de Open data richtlijn  aangeeft. 
-[KOP 4] Algemene Verordening Gegevensbescherming (AVG) en Uitvoeringswet AVG
+
+#### Algemene Verordening Gegevensbescherming (AVG) en Uitvoeringswet AVG
 
 Sinds 25 mei 2018 is de Algemene Verordening Gegevensbescherming (AVG) van kracht in de EU. Met deze wet zijn de regels rondom de verwerking van de persoonsgegevens van natuurlijke personen vastgesteld. 
 
@@ -260,9 +262,11 @@ De Uitvoeringswet AVG vult de AVG nationaal aan en regelt onder andere de bevoeg
 De Datagovernanceverordening (Verordening 2022/868, hierna “Dgv”) is een specifieke wet die onder andere hergebruik regelt voor bepaalde gegevenscategorieën, een kader schept voor het aanbieden van databemiddelingsdiensten, en de verzameling en de verwerking van data voor altruïstische toewendingen regelt. Onder deze specifieke categorieën vallen gegevens die in het bezit zijn van openbare lichamen, waarop specifieke bescherming rust, zoals vertrouwelijkheid, IE-rechten, of persoonsgegevensbescherming, voor zover die laatste categorie buiten de Open data richtlijn  valt. 
 Omdat de EU wetgever van technieken kennis heeft genomen om op een veilige wijze voor hergebruik toegang te verlenen tot dergelijke gegevens, moeten dergelijke openbare lichamen zoveel mogelijk transparantie bieden in de procedures om dat te bewerkstelligen. Zie hiertoe bijvoorbeeld overweging 7 uit de preambule van de Dgv en artikel 7 lid 4 Dgv. Een belangrijke voorwaarde voor de toepasselijkheid van deze regels is dat de openbare lichamen “uit hoofde van het nationale recht bevoegd [moeten] zijn om de toegang tot een of meer [van deze] gegevenscategorieën met het oog op hergebruik te verlenen of te weigeren.” Zie hiertoe artikel 5 lid 1 Dgv. 
 De Dgv maakt uitdrukkelijk verbinding met de Open data richtlijn , door het toepassingsbereik van de Dgv strikt af te schermen van dat van de Open data richtlijn  (zie overwegingen 4 en 10 uit de preambule van de Dgv, evenals artikel 3 lid 11 aanhef en onder d Dgv), maar eenzelfde soort aanmoediging te gebruiken voor het voor hergebruik mogelijk maken van overheidsinformatie overeenkomstig het beginsel ‘open door ontwerp en standaardinstellingen’ (zie overweging 9 uit de preambule van de Dgv).
+
 ##### Uitvoeringswet Datagovernanceverordening
 
 Op 17 oktober 2023 heeft de regering aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn  en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter debat voor in de Tweede Kamer en is dus nog niet in werkinggetreden. 
+
 #### Dataverordening
 
 De Dataverordening (Verordening 2023/2854, hierna “Dv”) reguleert datastromen tussen gebruikers, makers, en aanbieders van digitale gegevens genererende en/of -verzamelende goederen en gerelateerde diensten en overheidsinstanties. 
@@ -276,10 +280,14 @@ Overheidsinstanties mogen geen van de gegevens die zij verzoeken en verkrijgen o
 
 Richtlijn 2007/2
 Betekenis volgt.
+
 ##### Verband met de Open data richtlijn 
+
 ##### Richtlijn over de toegang van het publiek tot milieuinformatie
+
 Richtlijn 2003/4
 Betekenis volgt.
+
 ##### Verband met de Open data richtlijn (volgt)
 ####  Richtlijn aanbestedingen (2014/24)
 Betekenis volgt.
