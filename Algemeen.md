@@ -1,6 +1,6 @@
 # Algemeen
 ### Waarover gaat deze handleiding?
-Op [datum] is de Wet implementatie Open data richtlijn in werking getreden. 
+Op 18 juni 2024 is de Wet implementatie Open data richtlijn in werking getreden. 
 Deze wet zet de EU Richtlijn 2019/1024 inzake open data en hergebruik van overheidsinformatie (hierna “Open data Richtlijn”) om in Nederlands recht. De Open data Richtlijn maakt onderdeel uit van het Digitale Decennium (ook bekend als Digital Decade), een pakket aan ambitieuze plannen van de EU-instellingen om de Europese Unie wereldleider te maken in het digitale domein. De achtergrond voor de Open data Richtlijn is dat de uitwisseling van overheidsgegevens, met inachtneming van persoonsgegevensbescherming, van doorslaggevend belang is voor de ontwikkeling van de Europese Unie, onder andere in economisch innovatief opzicht.
 
 De huidige Wet hergebruik van overheidsinformatie (Who), die als implementatie van deze Europese wet dient, wijzigt hierdoor. Daarnaast zullen enkele andere wetten wijzigen. Hergebruik volgens de Open data richtlijn  en de Who betekent dat openbare gegevens, meestal bewaard door overheidsinstanties, voor een ander doel worden gebruikt dan waarvoor ze oorspronkelijk zijn verzameld. Met de Who kunnen burgers, journalisten, wetenschappers,  bedrijven en anderen een verzoek indienen tot het verstrekken van overheidsinformatie. Daarnaast krijgen zij actief bepaalde overheidsinformatie beschikbaar gesteld. 
@@ -12,12 +12,25 @@ Verzoeken kunnen tot bestuursorganen en tot andere instellingen met een publieke
 Met deze handleiding worden organisaties die onder de toepassing van deze wet vallen, geholpen bij de uitvoering ervan. De handleiding bevat een overzicht van het bredere wettelijk kader voor hergebruik van overheidsinformatie, een overzicht en uitleg van wijzigingen ten opzichte van de vorige versie van de Who. Daarnaast biedt de handleiding aanbevelingen voor herbruikbaarheid van overheidsinformatie, stappenplannen, aanbevelingen voor het verstrekken van overheidsinformatie, aanbevelingen voor de bescherming van rechten van anderen, regels voor de kosten en praktijkvoorbeelden.
 
 ### Voor wie is deze handleiding? 
-Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’, overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen. 
+Deze handleiding is primair geschreven voor en door organisaties die onder de verplichtingen van de Who vallen. Dit zijn de ‘met een publieke taak belaste instellingen’ (alle bestuursorganen vallen onder dat begrip), overheidsondernemingen en publiek gefinancierde onderzoeksinstellingen.
 
 ### Wat is de status van deze handleiding?
-De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik als ook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van een in bepaalde gevallen andere wijze van afhandeling.
+De handleiding dient als leidraad voor de afhandeling van verzoeken om hergebruik alsook voor het actief beschikbaar stellen van overheidsinformatie voor hergebruik. De handleiding is niet bindend en laat ruimte voor maatwerk en het toepassen van andere wijzen van afhandeling.
 
-Hier vind je meer informatie over de opdracht voor en de ontwikkeling en het beheer van deze handleiding.
+### Ontwikkeling en beheer van de handleiding
+Deze handleiding wordt ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, andere departementen binnen de Rijksoverheid, het Nationaal Archief, de Vereniging van Nederlandse Gemeenten (VNG), het InterProvinciaal Overleg (IPO), de Unie van Waterschappen (UVW) en Kenniscentrum Europa Decentraal (KED).
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Wie en wat valt onder de wet hergebruik van overheidsinformatie?
 De Who heeft betrekking op een breed scala aan overheidsorganisaties en verschillende type gegevens. 
