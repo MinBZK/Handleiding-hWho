@@ -1,5 +1,5 @@
 # Ontwikkeling en beheer van de handleiding
-Deze handleiding wordt ontwikkeld door het Ministerie van Binnenlandse zaken en Koninkrijksrelaties, andere departementen binnen de Rijksoverheid, het Nationaal Archief, VNG, IPO, UVW, Europa Decentraal. 
+Deze handleiding wordt ontwikkeld door het Ministerie van Binnenlandse zaken en Koninkrijksrelaties, andere departementen binnen de Rijksoverheid, het Nationaal Archief, VNG, IPO, UVW, Kenniscentrum Europa Decentraal. 
 
 [mogelijke uitbreiding naar aanleiding van motie]
 
