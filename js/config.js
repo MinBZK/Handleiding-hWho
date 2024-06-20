@@ -2,10 +2,11 @@ let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
-  shortName: "Handleiding-hWho",
+  shortName: "hWho",
 
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "HL",
+  pubDomain: "hl",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
