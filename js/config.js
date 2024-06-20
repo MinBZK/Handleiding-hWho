@@ -33,7 +33,52 @@ let respecConfig = {
         name: "Sander Bakker",
         company: "VNG Realisatie",
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
-      }
+      },
+      {
+        name: "Hanneke van Katwijk",
+        company: "VNG Realisatie",
+        companyURL: https://vng.nl/artikelen/vng-realisatie,
+      },
+      {
+        name: "Jesse Renema",
+        company: "Ministerie van Binnenlandse Zaken",
+        companyURL: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Rijksoverheid.nl,
+      },
+      {
+        name: "Anne Thier",
+        company: "Ministerie van Binnenlandse Zaken",
+        companyURL: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Rijksoverheid.nl,
+      },
+      {
+        name: "Tom Kanis",
+        company: "Ministerie van Binnenlandse Zaken",
+        companyURL: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Rijksoverheid.nl,
+      },
+      {
+        name: "Daan Beers",
+        company: "Ministerie van Binnenlandse Zaken",
+        companyURL: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Rijksoverheid.nl,
+      },
+      {
+        name: "Geert Leloup",
+        company: "Nationaal Archief",
+        companyURL: Nationaal Archief,
+      },
+      {
+        name: "Martin Herz",
+        company: "Kenniscentrum Europa Decentraal",
+        companyURL: Kenniscentrum Europa decentraal,
+      },
+      {
+        name: "Kim Oud",
+        company: "IPO",
+        companyURL: Interprovinciaal Overleg (ipo.nl),
+      },
+      {
+        name: "Roland Versluis",
+        company: "UvW",
+        companyURL: Startpagina - Unie van Waterschappen,
+      },
     ],
   github: "https://github.com/VNG-Realisatie/Handleiding-hWho",
 
