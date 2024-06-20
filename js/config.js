@@ -5,7 +5,7 @@ let respecConfig = {
   shortName: "Handleiding-hWho",
 
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
-  specType: "HR",
+  specType: "HL",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
