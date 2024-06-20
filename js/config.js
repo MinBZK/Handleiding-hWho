@@ -71,6 +71,11 @@ let respecConfig = {
         companyURL: "https://europadecentraal.nl/",
       },
       {
+        name: "Mart van der Wal",
+        company: "Kenniscentrum Europa Decentraal",
+        companyURL: "https://europadecentraal.nl/",
+      },
+      {
         name: "Kim Oud",
         company: "IPO",
         companyURL: "https://www.ipo.nl/",
