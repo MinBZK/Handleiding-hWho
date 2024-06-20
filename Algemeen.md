@@ -5,7 +5,7 @@ Het wettelijk kader voor het hergebruik van overheidsinformatie wordt bepaald do
 
 Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn , de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE Richtlijn, de Datagovernanceverordening en de Dataverordening. De AVG en de Datagovernanceverordening bevatten nadere nationale invulling in de Uitvoeringwet AVG en de Uitvoeringwet Datagovernanceverordening. Een uitvoeringswet is d.d. [publicatie] nog in aanmaak.
 
-Hier [verwijzen naar hfst VIII] vind je meer informatie over het wettelijk kader.
+[Hier](#wetk) vind je meer informatie over het wettelijk kader.
 
 ## Welke organisaties vallen onder de Who?
 
