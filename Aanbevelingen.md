@@ -62,11 +62,10 @@ Het DUTO-raamwerk is de vertaalslag om ‘archiveren by design’ in de praktijk
 Binnen de academische wereld is het gebruikelijk om qua open data te werken met de ‘FAIR’-principes. De richtlijn stimuleert dit, voor zover het gaat om onderzoeksgegevens die beschikbaar worden gesteld door publiek gefinancierde onderzoeksorganisaties.Open data richtlijn 
 
 De letters in de afkorting FAIR staan voor : 
-
-•	Findable – vindbaarheid, het kunnen vinden van de data
-•	Accessible – toegankelijk, zorg dat de data toegankelijk zijn
-•	Interoperable – uitwisselbaar, maak de data voor mens en computer begrijpelijk
-•	Reusable – herbruikbaar, het herbruikbaar maken van data
+- Findable – vindbaarheid, het kunnen vinden van de data
+- Accessible – toegankelijk, zorg dat de data toegankelijk zijn
+- Interoperable – uitwisselbaar, maak de data voor mens en computer begrijpelijk
+- Reusable – herbruikbaar, het herbruikbaar maken van data
 
 Om geschikt te zijn voor hergebruik, al dan niet naar aanleiding van een Who verzoek, moeten data dus vindbaar, toegankelijk, uitwisselbaar en herbruikbaar zijn. Het DUTO-raamwerk kan als instrument gebruikt worden om deze principes te realiseren.
 
