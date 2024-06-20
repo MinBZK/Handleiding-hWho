@@ -41,7 +41,7 @@ Bekijk [hier](#aanbev) de aanbevelingen voor het duurzamer toegankelijk maken va
 
 ## Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
 
-In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten zijn 14 stappen doorlopen. Deze zijn [hier](#verzoeken) beschreven en zal in een later stadium van deze Handleiding als interactief werkzaam stappenplan als Bijlage worden toegevoegd.  
+In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten zijn 14 stappen doorlopen. Deze zijn [hier](#Behandeling-van-verzoeken) beschreven en zal in een later stadium van deze Handleiding als interactief werkzaam stappenplan als Bijlage worden toegevoegd.  
 
 ## Hoe verstrek je de gevraagde overheidsinformatie? 
 
