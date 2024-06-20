@@ -1,4 +1,4 @@
-# Bijlage [#?]- Definities TEST
+# Bijlage [#?]- Definities
 
 **Data/Gegevens/Document/Informatie**: elke inhoud, ongeacht de gegevensdrager waar die inhoud op staat. Dit is dezelfde definitie als de Open data richtlijn . In het kader van de Who valt onder dit begrip ook software.
 
