@@ -1,6 +1,6 @@
 # Behandeling van verzoeken 
 
-Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare lichamen 14 stappen doorlopen, namelijk:
+Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare lichamen 14 opeenvolgende vragen behandelen, namelijk:
 
 1.	Is er sprake van hergebruik in de zin van de Who? Zo nee, dan dient het verzoek te worden afgewezen. 
 Zie [paragraaf 1.1](#wat-is-het-wettelijk-kader-voor-hergebruik-van-overheidsinformatie).
@@ -43,5 +43,5 @@ De Who is niet van toepassing op deze persoonsgegevens, tenzij bij AMvB of bij o
 
 14.	Is het hergebruik van openbare persoonsgegevens verenigbaar met oorspronkelijk doel waarvoor de (overheids-) organisatie de persoonsgegevens verzameld en/of openbaar gemaakt heeft?  Zo nee, dan dient het verzoek te worden afgewezen. Zo ja, dan willigt u het verzoek om hergebruik in. 
 
-Voor een nadere uitleg per stap, zie [Hoofdstuk 8](#stap1).
+Voor een nadere uitleg per stap, zie [Hoofdstuk 8](#stap1), waar de 14 vragen ondergebracht zijn in 5 stappen, met een concluderende zesde stap over het daadwerkelijk inwilligen van de verzoeken.
 
