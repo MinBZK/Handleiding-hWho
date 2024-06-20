@@ -104,7 +104,7 @@ let respecConfig = {
     nl_organisationName: "Nog te benoemen organisatie",
     logos: [{
         src: "",
-        alt: "",
+        alt: "Geen logo",
         id: "",
         height: 77,
         url: "",
