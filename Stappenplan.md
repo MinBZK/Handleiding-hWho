@@ -107,21 +107,15 @@ Antwoord: Het verzoek wordt schriftelijk of mondeling ingewilligd en informatie 
 
 Vraag: Hoe moet ik de informatie verstrekken?
 
-Antwoord: informatie wordt verstrekt in een open en machinaal leesbaar formaat, samen met de metadata (formele open standaarden) en met gebruik van open licenties. [_hier in een latere versie ook een beslisboom voor maken?_]
+Antwoord: informatie wordt verstrekt in een open en machinaal leesbaar formaat, samen met de metadata (formele open standaarden) en met gebruik van open licenties. 
 
 Vraag: welke kosten mag ik in rekening brengen?
 
 Antwoord: De gevraagde vergoeding moet beperkt blijven tot maximaal de marginale verstrekkingskosten. Er zijn hierop uitzonderingen bijvoorbeeld voor het Kadaster, RDW en KvK.
-[_hier in een latere versie ook een beslisboom voor maken?_]
+
 
 Vraag: Mag ik nog specifieke voorwaarden opleggen aan de verzoeker?
 
 Antwoord: zo min mogelijk. [_Uitwerken welke voorwaarden in welke gevallen wel._]
 
-# Voor decentrale overheidsorganisaties / de organisaties zelf icm KED - bespreken!
-### Stap x
-[Tekst]
-### Stap y
-[Tekst]
-### Stap z
-[Tekst]
+
