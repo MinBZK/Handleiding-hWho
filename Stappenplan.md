@@ -3,7 +3,7 @@
 
 ### Stap 1: Is er sprake van hergebruik?
 Vraag 1: is het verzoek gericht tot een met een publieke taak belaste instelling?
-(zie … voor definitie van met een publieke taak belaste instelling.).
+(zie [paragraaf 3.1](#welke-organisaties-vallen-onder-het-begrip-met-een-publieke-taak-belaste-instelling) voor de definitie van met een publieke taak belaste instelling.).
 
 Antwoord:
 Nee: U wijst het verzoek af. De Who is niet van toepassing.
