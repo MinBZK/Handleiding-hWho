@@ -3,10 +3,10 @@
 Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare lichamen 14 stappen doorlopen, namelijk:
 
 1.	Is er sprake van hergebruik in de zin van de Who? Zo nee, dan dient het verzoek te worden afgewezen. 
-Zie paragraaf 1.1.
+Zie [paragraaf 1.1](#wat-is-het-wettelijk-kader-voor-hergebruik-van-overheidsinformatie).
 
 2.	Is het verzoek gericht tot een met een publieke taak belaste instelling? Zo nee, dan dient het verzoek te worden afgewezen. 
-Zie paragraaf 3.3. 
+Zie [paragraaf 3.3](#welke-organisaties-vallen-onder-de-term-publiek-gefinancierde-onderzoeksorganisaties). 
 
 3.	Is het verzoek afkomstig van een andere met een publieke taak belaste instelling? Zo ja, dan dient het verzoek te worden afgewezen. 
 De uitwisseling van informatie tussen met een publieke taak belaste instellingen onderling is geen hergebruik van overheidsinformatie in de zin van de Who. 
@@ -42,5 +42,6 @@ U deelt aan de verzoeker de identiteit van de rechthebbende of licentiehouder me
 De Who is niet van toepassing op deze persoonsgegevens, tenzij bij AMvB of bij of krachtens de wet anders is bepaald.
 
 14.	Is het hergebruik van openbare persoonsgegevens verenigbaar met oorspronkelijk doel waarvoor de (overheids-) organisatie de persoonsgegevens verzameld en/of openbaar gemaakt heeft?  Zo nee, dan dient het verzoek te worden afgewezen. Zo ja, dan willigt u het verzoek om hergebruik in. 
-Bekijk hier [verwijzing opnemen naar Bijlage I] het stappenplan dat gebruikt kan worden om een verzoek om hergebruik van overheidsinformatie te beoordelen. 
+
+Voor een nadere uitleg per stap, zie [Hoofdstuk 8](#stap1).
 
