@@ -15,6 +15,7 @@ Overweeg verder om hergebruik te automatiseren. Wanneer gegevens al als ‘open 
 
 ## Duurzame toegankelijkheid
 De Who heeft als uitgangspunt dat openbare overheidsinformatie zoveel mogelijk herbruikbaar is. Dat is alleen mogelijk wanneer diezelfde overheidsinformatie duurzaam toegankelijk (DUTO) is. We verduidelijken hier wat duurzame toegankelijkheid is, welke methodiek je daarvoor kan gebruiken en welke passende maatregelen je organisatie kan nemen. 
+
 Duurzaam toegankelijke overheidsinformatie (DUTO) betekent dat deze informatie vindbaar, beschikbaar, leesbaar en interpreteerbaar, betrouwbaar en toekomstbestendig is. Deze kenmerken zijn ook essentieel voor hergebruik van overheidsinformatie. Vindbaar betekent bijvoorbeeld dat gebruikers weten waar zij de informatie kunnen vinden. Deze informatie moet vervolgens beschikbaar zijn op een manier die het mogelijk maakt om te hergebruiken, maar ook te interpreteren zodat duidelijk is wat de betekenis van de informatie is. 
  
 De doelen en kenmerken van DUTO vertonen een grote overeenkomst met de FAIR-principes, die hun oorsprong hebben in de wetenschappelijke wereld. FAIR is een afkorting voor Findable (vindbaar),  Accessible (toegankelijk), Interoperable (uitwisselbaar)en Reusable (herbruikbaar). FAIR-principes beogen om de herbruikbaarheid van wetenschappelijke data (en daarmee de reproduceerbaarheid van onderzoek) te borgen. De principes leggen de nadruk op de machineleesbaarheid: het vermogen van computersystemen om gegevens te vinden, toegankelijk en uitwisselbaar te maken, en te hergebruiken zonder of met minimale menselijke tussenkomst. DUTO is breder van opzet, specifiek gericht op overheidsinformatie en denkt daarbij ook vanuit legitimiteit. Het biedt een systematiek die leidt tot passende maatregelen voor informatiesystemen van (overheids)organisaties. Hergebruik is daar een onderdeel van. FAIR kan dus binnen DUTO worden toegepast.
@@ -28,12 +29,11 @@ Gestandaardiseerde metadatering is cruciaal voor de vindbaarheid van overheidsin
   
 Naast het hanteren van metadata standaarden is het verder nuttig om in te zetten op: 
 
-•	Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie. 
-•	Het creëren van een zoekindex op basis van tekstgegevens en metagegevens. 
-•	De implementatie van enterprise search, : een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie.  
-•	Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben. 
-•	Het garanderen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
-
+- Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie.
+- Het creëren van een zoekindex op basis van tekstgegevens en metagegevens.
+- De implementatie van enterprise search, : een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie.
+- Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
+- Het garanderen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
 
 ### Beschikbaarheid
 Omdat informatie voor verschillende doelen gebruikt en hergebruikt wordt is het nodig dat deze informatie zoveel mogelijk beschikbaar is in vormen die aansluiten bij de manieren van (her)gebruik. Bij voorkeur kan informatie snel, eenvoudig, op elk tijdstip, op elke plaats, zonder kosten en voor zoveel mogelijk afnemers beschikbaar gesteld worden. Informatie die in principe openbaar is, kan onderdelen bevatten die niet openbaar mogen zijn. Bijvoorbeeld omdat deze onderdelen privacygevoelig zijn of de belangen van de overheid of bedrijven schaden. Een overheidsorganisatie hoeft deze niet-openbare onderdelen niet toegankelijk te maken voor externe afnemers. Van informatie die deels als openbaar is geclassificeerd, wordt het openbare deel ter beschikking gesteld. Bijvoorbeeld door informatie te anonimiseren of te pseudonimiseren.  
