@@ -103,7 +103,7 @@ let respecConfig = {
     },
     nl_organisationName: "Nog te benoemen organisatie",
     logos: [{
-        src: "https://vng-realisatie.github.io/Handleiding-hWho/blob/main/media/leeg.jpg",
+        src: "media/leeg.jpg",
         alt: "Geen logo",
         id: "",
         height: 77,
