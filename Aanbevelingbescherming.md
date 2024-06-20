@@ -18,6 +18,17 @@ Volgens de AVG kunnen verwerkingsverantwoordelijken verplicht zijn om voor het b
 
 [verwijzen naar meer informatie over het bepalen of een DPIA verplicht is: Data protection impact assessment (DPIA) | Autoriteit Persoonsgegevens]
 
+### Privacyrisico’s en uitvoeren DPIA 
+De uitvoering van de Who kan risico’s voor de rechten en vrijheden van natuurlijke personen opleveren. Volgens de AVG kunnen verwerkingsverantwoordelijken verplicht zijn om voor het beschikbaar stellen van persoonsgegevens en – en gedurende de gegevensverwerking - een data protection impact assessment (DPIA) uit te voeren, wanneer het waarschijnlijk is dat er een hoog risico is voor de rechten en vrijheden van natuurlijke personen. 
+
+[verwijzen naar meer informatie over het bepalen of een DPIA verplicht is: Data protection impact assessment (DPIA) | Autoriteit Persoonsgegevens]
+
+Verschillende risico’s kunnen waarschijnlijk zijn bij de uitvoering van de Who, waaronder maar niet beperkt tot, het faciliteren van profilering, bedreiging, stalking, afpersing, doxing; een gebrek aan transparantie en de uitvoering van de rechten van betrokkenen en re-identificatie na anonimisering of ongedaanmaking van pseudonimisering. 
+
+Het is van belang dat bij het openbaarmaken van overheidsinformatie al rekening gehouden wordt met de mogelijkheid van hergebruik. Met hergebruik wordt overheidsinformatie, waaronder ook persoonsgegevens, nog toegankelijker gemaakt, voor een vooraf onbepaalde groep ontvangers. Zo kunnen privacyrisico’s door het (per ongeluk) foutief lakken van overheidsinformatie op grond van de Wet Open Overheid vergroot worden wanneer deze onder de Who voor hergebruik beschikbaar worden gesteld. 
+
+Het is aan de dataprovider als verwerkingsverantwoordelijke om een eigen beoordeling te maken en hier verantwoording over af te leggen.
+
 ### Persoonsgegevens in openbare registers	
 
 De Who is niet van toepassing op persoonsgegevens in bij of krachtens de wet ingestelde registers voor zover deze openbaar toegankelijk zijn (zowel gratis of tegen betaling), tenzij het persoonsgegevens betreft in bij algemene maatregel van bestuur aangewezen registers, dan wel tenzij bij of krachtens de wet anders is bepaald. Op dit moment is van deze twee uitzonderingsmogelijkheden nog geen gebruik gemaakt en geldt deze regel dus voor alle openbare persoonsgegevens in bij of krachtens de wet ingestelde registers.
@@ -36,6 +47,7 @@ Anonimisering van informatie (met persoonsgegevens) is een middel om de voordele
 - Anonimisering blijkt in de praktijk een uitdaging omdat door nieuwe technieken en het streven naar meer beschikbare open data het steeds gemakkelijker is om persoonsgegevens af te leiden uit datasets die dergelijke gegevens op het eerste gezicht niet lijken te bevatten, daarom moet periodiek herbeoordeeld worden of de gegevens nog steeds voldoende beschermd zijn.
 - Anonimisering kan kosten meebrengen. Die kostprijs mag meegenomen worden als één van de componenten van de marginale kosten voor hergebruik.
 - Anonimisering van informatie is volgens de wet geen verplichting (artikel 2, lid 5 Who). De verplichtingen om gegevens voor hergebruik beschikbaar te maken, houden geen verplichting in om documenten te creëren of aan te passen of om uittreksels te verstrekken indien dit een onevenredig grote inspanning vereist die verder gaat dan een eenvoudige handeling. Het anonimiseren van persoonsgegevens, vereist in de regel wel zo’n onevenredig grote inspanning die verder gaat dan een eenvoudige handeling en is daarom niet verplicht. Indien een organisatie overweegt om persoonsgegevens beschikbaar te maken voor hergebruik, kan de organisatie doorgaans dus simpelweg besluiten om hergebruik daarvan te weigeren. De organisatie hoeft de gegevens niet te anonimiseren met het doel om de gegevens geschikt te maken voor hergebruik.
+- Wanneer persoonsgegevens afdoende geanonimiseerd zijn volgens de AVG, dan is de AVG niet meer van toepassing. Anonimiseren vergt van dataproviders dat zij regelmatig controleren of een geanonimiseerde dataset nog afdoende is geanonimiseerd . Wanneer deze controle en het adequaat handelen bij geconstateerde gebreken daarop uitblijft is er een risico dat de dataprovider onrechtmatig persoonsgegevens aan het beschikbaar stellen is, met risico’s voor betrokkenen daaraan verbonden. Het wetsvoorstel breidt niet de verantwoordelijkheid van de dataprovider uit met een actieve zorgplicht ten aanzien van geanonimiseerde gegevens als de AVG niet meer van toepassing is. Het wetsvoorstel bevat wel een (reactieve) verplichting om een melding van een inbreuk op de voorwaarden, zoals het verbod op reidentificatie van betrokkenen, in behandeling te nemen en hierop maatregelen te nemen zoals het terugtrekken of beter beveiligen van de dataset.
 
 In de Memorie van Toelichting (paragraaf 11.8.2) bij de Who wordt uitgebreid ingegaan op het proces van anonimisering en wat er van organisaties verwacht wordt. 
 
