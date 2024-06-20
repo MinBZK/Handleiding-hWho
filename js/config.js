@@ -10,8 +10,8 @@ let respecConfig = {
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
-  publishDate: "2024-6-20",
-  publishVersion: "0.1.0",
+  publishDate: "2024-6-19",
+  publishVersion: "0.9.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
 //  previousMaturity: "IG",
@@ -43,42 +43,42 @@ let respecConfig = {
       {
         name: "Jesse Renema",
         company: "Ministerie van Binnenlandse Zaken",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Anne Thier",
         company: "Ministerie van Binnenlandse Zaken",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Tom Kanis",
         company: "Ministerie van Binnenlandse Zaken",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Daan Beers",
         company: "Ministerie van Binnenlandse Zaken",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Geert Leloup",
         company: "Nationaal Archief",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://www.nationaalarchief.nl/",
       },
       {
         name: "Martin Herz",
         company: "Kenniscentrum Europa Decentraal",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://europadecentraal.nl/",
       },
       {
         name: "Kim Oud",
         company: "IPO",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://www.ipo.nl/",
       },
       {
         name: "Roland Versluis",
         company: "UvW",
-        companyURL: "https://ntb.nl",
+        companyURL: "https://unievanwaterschappen.nl/",
       },
     ],
   github: "https://github.com/VNG-Realisatie/Handleiding-hWho",
