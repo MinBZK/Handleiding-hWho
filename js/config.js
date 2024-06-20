@@ -55,5 +55,13 @@ let respecConfig = {
             rawDate: "2023"
         },
     },
+    nl_organisationName: "Nog te benoemen organisatie",
+    logos: [{
+        src: "",
+        alt: "",
+        id: "",
+        height: 77,
+        url: "",
+    }],
 };
 
