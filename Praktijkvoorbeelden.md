@@ -1,12 +1,2 @@
 # Praktijkvoorbeelden 
-(allen eerst inventariseren en dan nagaan positie/toepassing in handleiding obv url verwijzing. )
-
-### Praktijkvoorbeeld x
-[Tekst]
-### Praktijkvoorbeeld y
-[Tekst]
-### Praktijkvoorbeeld z
-Lorem ipsum fghdufhdsglihsdfgkjhfdkjlhsdf
-test edit 
-
-## nieuw kopje
+Praktijkvoorbeelden worden aangevuld zodra er ervaring is met de werking van de herziene versie van het Wet hergebruik van overheidsinformatie. 
