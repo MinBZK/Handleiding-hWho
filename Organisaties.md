@@ -58,11 +58,11 @@ b.	in de vorm van bulksgewijze download, voor zover dit in de toepasselijke HVD-
 
 c.	en op een wijze die voldoet aan de eisen die in de toepasselijke HVD-uitvoeringsverordening aan die specifieke hoogwaardige gegevensset worden gesteld.
 
-Voor deze specifieke hoogwaardige datasets is een specifieke handreiking beschikbaar, opgesteld door Geonovum. Zie hier [verwijzing opnemen]
+Voor deze specifieke hoogwaardige datasets is een specifieke handreiking beschikbaar, opgesteld door Geonovum. Zie [hier](https://docs.geostandaarden.nl/eu/handreiking-hvd/)
 
 ## Software en broncode
 In Nederland valt software/computerprogrammatuur al sinds de implementatie van de eerste richtlijn onder de hergebruikregels. Software kan pas volledig hergebruikt worden als de broncode toegankelijk is en (voor programmeurs) gemakkelijk is te bewerken en gepubliceerd is onder een open source licentie. 
 
 De Who kent voor met een publieke taak belaste instellingen of overheidsondernemingen een inspanningsverplichting om documenten te ontwerpen en vervaardigen op een manier die openheid en hergebruik van die documenten faciliteert en gemakkelijk maakt. Toegepast op software, moet dit worden gelezen als inspanningsverplichting voor met publieke taak belaste instellingen of overheidsondernemingen om software zoveel mogelijk (geschikt voor) open source te ontwikkelen of te laten ontwikkelen. Dat omvat ook een inspanningsverplichting om, voor zover nodig, open source gemeenschappen te faciliteren of stimuleren. Wanneer deze type organisaties de productie of ontwikkeling van software financieren, moeten ze zich inspannen om die software (geschikt voor) open source te laten maken. Daarbij kan worden gedacht aan het stellen van contractvoorwaarden die daarop zien en/of aan het stellen van voorwaarden of voorkeuren ten aanzien daarvan in aanbestedingsprocedures. Het blijft een inspanningsverplichting, dus de plicht reikt niet zo ver dat alleen open source software in gebruik mag worden genomen.
 
-Voor het kiezen van de juiste licenties zie paragraaf 1.7.(HYPERLINK)
+Voor het kiezen van de juiste licenties zie [paragraaf 1.7](#voorwaarden).
