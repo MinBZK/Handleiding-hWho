@@ -43,7 +43,6 @@ let respecConfig = {
         name: "Jesse Renema",
         company: "Ministerie van Binnenlandse Zaken",
         companyURL: "https://ntb.nl",
-        //Ministerie van Binnenlandse Zaken en Koninkrijksrelaties | Rijksoverheid.nl,
       },
       {
         name: "Anne Thier",
