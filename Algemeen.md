@@ -5,7 +5,7 @@ Het wettelijk kader voor het hergebruik van overheidsinformatie wordt bepaald do
 
 Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn , de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE Richtlijn, de Datagovernanceverordening en de Dataverordening. De AVG en de Datagovernanceverordening bevatten nadere nationale invulling in de Uitvoeringwet AVG en de Uitvoeringwet Datagovernanceverordening. Een uitvoeringswet is d.d. [publicatie] nog in aanmaak.
 
-[Hier](#wetk) vind je meer informatie over het wettelijk kader.
+Hier [verwijzen naar hoofdstuk VI over wetgeving] vind je meer informatie over het wettelijk kader.
 
 ## Welke organisaties vallen onder de Who?
 
@@ -14,11 +14,11 @@ De Who en de Open data richtlijn  heeft betrekking op een breed scala aan overhe
 2.	overheidsondernemingen; 
 3.	publiek gefinancierde onderzoeksinstellingen, te weten: instellingen voor hoger onderwijs, onderzoeksinstellingen of instellingen die onderzoek financieren.
 
-Lees hier [verwijzen naar hfst III] meer over de typen organisaties die onder de Who vallen.
+Lees hier [verwijzen naar hoofdstuk III over type organisaties] meer over de typen organisaties die onder de Who vallen.
 
 ## Welke gegevens (-categorieën) vallen onder de Who? 
 
-In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijdte van de Who en de Open data richtlijn . Erbinnen kunnen verschillende type gegevens worden onderscheiden waarvoor een bijzonder regime in de Who of de Open data richtlijn  geldt. Het gaat daarbij om: 
+In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijdte van de Who en de Open data richtlijn. Erbinnen kunnen verschillende type gegevens worden onderscheiden waarvoor een bijzonder regime in de Who of de Open data richtlijn  geldt. Het gaat daarbij om: 
 1.	Onderzoeksgegevens;
 2.	Dynamische gegevens;
 3.	Gegevens uit specifieke hoogwaardige gegevenssets;
@@ -26,7 +26,7 @@ In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijd
    
 Wel gelden er uitzonderingsgronden waarmee overheidsorganisaties bepaalde gegevens of gegevens van bepaalde organisaties kunnen uitsluiten van hergebruik. 
 
-Lees hier [verwijzen naar hfst III] meer over welke gegevens en categorieën van gegevens onder de Who vallen en hier [verwijzen naar par. 2.8] welke uitzonderingsgronden er gelden.
+Lees hier [verwijzen naar hoofdstuk III over gegevenscategorieën] meer over welke gegevens en categorieën van gegevens onder de Who vallen en hier [verwijzen naar par. 1.10 - over afwijzingsgronden] welke afwijzingsgronden er gelden.
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
@@ -37,11 +37,11 @@ Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
 -	Het implementeren van standaarden t.a.v. metadatering zoals MDTO
 -	Het nemen van maatregelen die concreet bijdragen aan verbeterde leesbaarheid en beschikbaarheid van informatie binnen jouw organisatie
   
-Bekijk hier [verwijzen naar par. 7.2] de aanbevelingen voor beter hergebruik van overheidsinformatie.
+Bekijk hier [verwijzen naar Hfst. 7] de aanbevelingen voor beter hergebruik van overheidsinformatie.
 
 ## Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
 
-In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten zij 14 stappen doorlopen. Deze zijn hier beschreven [verwijzing naar hfst IV opnemen] en schematisch weergegeven in een stappenplan in de bijlage.  
+In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten zij 14 stappen doorlopen. Deze zijn hier beschreven [verwijzing naar Hfst. 8 opnemen] en schematisch weergegeven in een stappenplan in de bijlage.  
 
 ## Hoe verstrek je de gevraagde overheidsinformatie? 
 
@@ -81,14 +81,14 @@ Het uitgangspunt van de Who en de Open data richtlijn  is dat bij terbeschikking
 Voorafgaand aan hergebruik moeten de betreffende organisaties kenbaar maken of zij kosten in rekening brengen voor hergebruik en met welke factoren zij rekening houden bij de berekening ervan. Indien zij geen kosten in rekening brengen, hoeven zij de verzoeker hierover ook niet te informeren. Ook moeten zij, indien de verzoeker dat vraagt, aangeven hoe zij de kosten berekenen met betrekking tot een specifiek verzoek om hergebruik.
 Wanneer overheidsorganisaties documenten proactief en online voor hergebruik beschikbaar stellen, bijvoorbeeld via een open data portaal, kunnen zij geen marginale verstrekkingskosten doorberekenen, omdat geen sprake is van een verzoek en omdat het potentiële aantal hergebruikers erg groot kan zijn.
 In de praktijk gelden hier veel uitzonderingen op. De mogelijke kostendoorberekening hangt af van het type organisatie en het type gegevens. 
-Bekijk hier [verwijzing opnemen naar hfst V] de regels voor de kosten per type organisatie.
+Bekijk hier [verwijzing opnemen naar hfst 12] de regels voor de kosten per type organisatie.
 
 ## Hoe bescherm je de persoonsgegevens van natuurlijke personen en IE-rechten? 
 
 De Who, zoals ook verplicht in de Open data richtlijn , doet geen afbreuk aan de AVG en aan de rechten van derden die rechthebbende zijn in de zin van de Auteurswet, de Wet op de naburige rechten of de Databankenwet (“IE-rechten").
 Hergebruik van openbare persoonsgegevens moet voldoen aan de AVG. Dat betekent dat het hergebruik van persoonsgegevens niet onverenigbaar mag zijn met de doeleinden waarvoor ze zijn verkregen (“doelbindingsbeginsel”). Anonimiseren van informatie kan een geschikt middel zijn om een goede balans te vinden tussen hergebruik/ open data en privacy en gegevensbescherming. Het is aan de verantwoordelijke organisatie die persoonsgegevens ter beschikking stelt voor hergebruik om deze beoordeling te maken. De Who bevat daarnaast aanvullende voorwaarden om de privacy en persoonsgegevens van natuurlijke personen te beschermen. Voor persoonsgegevens in registers die bij of krachtens de wet zijn ingesteld en openbaar toegankelijk zijn, geldt een uitzondering. De Who is hierop in beginsel niet van toepassing. 
 Informatie die beschermd is op grond van IE-rechten dienen te worden gerespecteerd bij hergebruik van deze informatie. Dat kan praktisch betekenen dat de naam van de auteur of de bron vermeld moet worden.
-Voor een uitgebreidere toelichting zie hier [verwijzing naar hfst VI]. 
+Voor een uitgebreidere toelichting zie hier [verwijzing naar hfst 11]. 
 
 ## Wat zijn mogelijke gronden om een verzoek om hergebruik af te wijzen?
 
@@ -112,4 +112,4 @@ Praktijkvoorbeelden zullen na verloop van tijd worden opgenomen in dit gedeelte 
 ## Waar vind ik meer informatie?
 Hier vind je andere nuttige websites en publicaties.
 
-[hier in ieder geval een verwijzing opnemen naar HVDS Handleiding]	
+[hier in ieder geval een verwijzing opnemen naar HVDS Handleiding - Geonovum linkje.]	
