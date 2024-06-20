@@ -31,7 +31,7 @@ a. Organisaties zoals de Autoriteit Persoonsgegevens, het Adviescollege Informat
 3. Externe belanghebbenden en experts:
 a. Belangenorganisaties, experts, journalisten en geïnteresseerde burgers worden proactief geïnformeerd over de voortgang en bereikte resultaten.
 
-### Hoe kan je deelnemen?
+### Hoe kun je deelnemen?
 Er worden verschillende manieren georganiseerd waarop deze stakeholders input kunnen leveren:
 - (Overheids-) organisaties die onder de toepassing van de wet vallen kunnen deelnemen aan de kerngroep en input leveren op de momenten dat handleiding ter afstemming wordt voorgelegd binnen de diverse gremia;
 - Iedereen is vrij om direct issues op de backlog in de Github-omgeving te plaatsen;
