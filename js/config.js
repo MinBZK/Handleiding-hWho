@@ -89,7 +89,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "snapshot.pdf",
+          uri: "Handleiding-hWho.pdf",
       },
     ],
   localBiblio: {
