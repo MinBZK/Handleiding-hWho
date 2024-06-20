@@ -101,7 +101,7 @@ let respecConfig = {
             rawDate: "2023"
         },
     },
-    nl_organisationName: "Nog te benoemen organisatie",
+    nl_organisationName: "Samenwerking BZK, VNG, IPO, UvW, NA, KED",
     logos: [{
         src: "https://vng-realisatie.github.io/VNG-R-Respec-Organization-configurations/media/Leeg.jpg",
         alt: "Geen logo",
