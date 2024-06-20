@@ -42,14 +42,13 @@ Als informatie wordt aangeboden in een vorm of op een manier die niet aansluit b
 ### Leesbaarheid
 Informatie is leesbaar zonder dat daarvoor speciale toepassingen of hulpmiddelen nodig zijn. Dit betekent dat er gebruik gemaakt wordt van duurzame en open bestandsformaten voor het beschikbaar stellen van informatie. Voor machinematige verwerking van gegevens is het van belang dat het gegevensmodel is beschreven en gestandaardiseerd. 
 Het is daarom aan te bevelen om in te zetten op: 
-
-•	Het vastleggen van het openbaarheidsniveau van informatie. 
-•	Het bepalen van de informatiewaarde bij de inrichting van een informatiebron door te inventariseren voor welke (potentiële) afnemers, welke vorm van beschikbaarheid nodig is, hoe zich dit in de loop der tijd ontwikkelt en welke eventuele beperkingen van toepassing zijn. 
-•	Het ter beschikking stellen van informatie in een gangbaar en open bestandsformaat. 
-•	Het beschikbaar maken van informatie in bestandsformaten die samenhangen met het doel waarvoor het bestand wordt gebruikt. 
-•	Het voorkomen van leveranciersafhankelijkheid bij het gebruik van een (specifiek) bestandsformaat. 
-•	Het garanderen dat gebruikte bestandsformaten onafhankelijk van hulpmiddelen of speciale toepassingen te gebruiken zijn. 
-•	Het gebruik van gestandaardiseerde gegevensmodellen en gegevenswoordenboeken ten behoeve van machinematige verwerking van gegevens. Het beschikbaar stellen van gegevens in formaten die gangbaar zijn voor machinale verwerking zoals .CSV, XML, JSON.
+- Het vastleggen van het openbaarheidsniveau van informatie.
+- Het bepalen van de informatiewaarde bij de inrichting van een informatiebron door te inventariseren voor welke (potentiële) afnemers, welke vorm van beschikbaarheid nodig is, hoe zich dit in de loop der tijd ontwikkelt en welke eventuele beperkingen van toepassing zijn.
+- Het ter beschikking stellen van informatie in een gangbaar en open bestandsformaat.
+- Het beschikbaar maken van informatie in bestandsformaten die samenhangen met het doel waarvoor het bestand wordt gebruikt.
+- Het voorkomen van leveranciersafhankelijkheid bij het gebruik van een (specifiek) bestandsformaat.
+- Het garanderen dat gebruikte bestandsformaten onafhankelijk van hulpmiddelen of speciale toepassingen te gebruiken zijn.
+- Het gebruik van gestandaardiseerde gegevensmodellen en gegevenswoordenboeken ten behoeve van machinematige verwerking van gegevens. Het beschikbaar stellen van gegevens in formaten die gangbaar zijn voor machinale verwerking zoals .CSV, XML, JSON.
 
 ## Archivering by design
 De maatregelen voor duurzame toegankelijkheid worden het best bepaald op het moment dat informatiesystemen gekocht, gebouwd, aangepast of afgeschaft worden. We noemen dit ‘archiveren by design’. Een informatiesysteem omvat niet alleen applicaties, maar ook organisatie, mensen, beleid, randvoorwaarden en architectuur; als deze aspecten zijn meegenomen, kun je passende eisen aan een applicatie stellen, zelfs al bij een aanbesteding.
