@@ -49,10 +49,14 @@ Een specifieke hoogwaardige gegevensset wordt ook wel aangeduid als ‘high valu
 4.	statistiek;
 5.	bedrijven en eigendom van bedrijven; 
 6.	mobiliteit. 
+
 De Wet hergebruik overheidsinformatie bevat geen bijzondere bepalingen over hoogwaardige gegevenssets in het algemeen, maar wel over de specifieke hoogwaardige gegevenssets die in de HVD-uitvoeringsverordening staan. Een met een publieke taak belaste instelling of overheidsonderneming moet deze gegevenssets als volgt actief beschikbaar stellen voor hergebruik: 
+
 a.	via passende API’s die indien mogelijk zijn gebaseerd op formele open standaarden; 
+
 b.	in de vorm van bulksgewijze download, voor zover dit in de toepasselijke HVD-uitvoeringsverordening is voorgeschreven of past bij de aard van de gegevens en de manier waarop ze worden geproduceerd; 
-c.	eb op een wijze die voldoet aan de eisen die in de toepasselijke HVD-uitvoeringsverordening aan die specifieke hoogwaardige gegevensset worden gesteld.
+
+c.	en op een wijze die voldoet aan de eisen die in de toepasselijke HVD-uitvoeringsverordening aan die specifieke hoogwaardige gegevensset worden gesteld.
 
 Voor deze specifieke hoogwaardige datasets is een specifieke handreiking beschikbaar, opgesteld door Geonovum. Zie hier [verwijzing opnemen]
 
