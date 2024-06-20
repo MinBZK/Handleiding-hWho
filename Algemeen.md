@@ -16,7 +16,7 @@ De Who en de Open data richtlijn  heeft betrekking op een breed scala aan overhe
 
 Lees [hier](#alg3) meer over de typen organisaties die onder de Who vallen.
 
-## Welke gegevens (-categorieën) vallen onder de Who? 
+## Welke gegevens(-categorieën) vallen onder de Who? 
 
 In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijdte van de Who en de Open data richtlijn. Erbinnen kunnen verschillende type gegevens worden onderscheiden waarvoor een bijzonder regime in de Who of de Open data richtlijn  geldt. Het gaat daarbij om: 
 1.	Onderzoeksgegevens;
@@ -26,7 +26,7 @@ In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijd
    
 Wel gelden er uitzonderingsgronden waarmee overheidsorganisaties bepaalde gegevens of gegevens van bepaalde organisaties kunnen uitsluiten van hergebruik. 
 
-Lees [hier](#welke-gegevens-categorieen-vallen-onder-de-who) meer over welke gegevens en categorieën van gegevens onder de Who vallen en hier [verwijzen naar par. 1.10 - over afwijzingsgronden] welke afwijzingsgronden er gelden.
+Lees [hier](#welke-gegevens-categorieen-vallen-onder-de-who) meer over welke gegevens en categorieën van gegevens onder de Who vallen en [hier](##Wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen) welke afwijzingsgronden er gelden.
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
@@ -95,7 +95,6 @@ Voor een uitgebreidere toelichting zie [hier](#aanbevbes).
 In beginsel dient een verzoek te worden toegewezen. Er zijn echter enkele afwijzingsgronden. Een verzoek wordt afgewezen als het gaat om informatie die niet openbaar is of niet openbaar kan worden gemaakt. Ook kan informatie niet worden verstrekt als derden over de intellectuele eigendomsrechten beschikken in de zin van de Auteurswet, de Wet naburige rechten of de Databankenwet. Dit geldt ook voor informatie in een bibliotheek, museum of archief, waarvan de oorspronkelijk rechten bij een derde lagen volgens de Auteurswet, de Wet op de naburige rechten of de Databankenwet en waarvoor de beschermingstermijn nog niet is verstreken. 
 
 Bepaalde onderwerpen zijn uitgezonderd van de Who:
-
 - informatie van publieke omroepen;
 - informatie van onderwijs- en onderzoeksinstellingen, anders dan instellingen voor hoger onderwijs
 - informatie van andere culturele instellingen dan musea, bibliotheken en archieven;
