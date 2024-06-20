@@ -26,7 +26,7 @@ In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijd
    
 Wel gelden er uitzonderingsgronden waarmee overheidsorganisaties bepaalde gegevens of gegevens van bepaalde organisaties kunnen uitsluiten van hergebruik. 
 
-Lees [hier](#welke-gegevens-categorieen-vallen-onder-de-who) meer over welke gegevens en categorieën van gegevens onder de Who vallen en [hier](##Wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen) welke afwijzingsgronden er gelden.
+Lees [hier](#welke-gegevens-categorieen-vallen-onder-de-who) meer over welke gegevens en categorieën van gegevens onder de Who vallen en [hier](#Wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen) welke afwijzingsgronden er gelden.
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
