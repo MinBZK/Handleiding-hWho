@@ -2,7 +2,7 @@
 
 **Data/Gegevens/Document/Informatie**: elke inhoud, ongeacht de gegevensdrager waar die inhoud op staat. Dit is dezelfde definitie als de Open data richtlijn . In het kader van de Who valt onder dit begrip ook software.
 
-**Openbaar lichaam/met een publieke taak belaste instelling**: zie de uitleg in de Handleiding [verwijzing naar deel over 
+**Openbaar lichaam/met een publieke taak belaste instelling**: zie de uitleg in de Handleiding 
 
 **Bijzondere categorieën persoonsgegevens**: persoonsgegevens waaruit ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen, of het lidmaatschap van een vakbond blijken, en verwerking van genetische gegevens, biometrische gegevens met het oog op de unieke identificatie van een persoon, of gegevens over gezondheid, of gegevens met betrekking tot iemands seksueel gedrag of seksuele gerichtheid. 
 
