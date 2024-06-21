@@ -1,3 +1,3 @@
-# Meer informatie (iedereen )
+# Meer informatie 
 Dit wordt aangevuld.
 
