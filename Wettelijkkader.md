@@ -38,7 +38,7 @@ Meer informatie over de Wet open overheid is te vinden op de websites van de [Ri
 
 [1] Dat begrip verwijst naar wat Europeesrechtelijk als ‘openbaar lichaam’ wordt aangeduid. Omdat ‘openbaar lichaam’ in het Nederlandse bestuursrecht niet hetzelfde is, is destijds gekozen voor een andere benaming in de Who. [2] Inclusief entiteiten die op grond van artikel 1:1, tweede lid, van Algemene wet bestuursrecht zijn uitgesloten van het bestuursorgaanbegrip. [3] Waaronder alle organisaties die worden genoemd in artikel 2.2 van de Woo.
 
-### Archiefwet (Aw) (NA)
+### Archiefwet (Aw) 
 
 De Archiefwet geldt voor alle informatie en gegevens die door overheden worden vastgelegd. Hierbij wordt geen onderscheid gemaakt in de vorm (technische) vorm van informatie of de plaats waar deze is opgeslagen. Ook de overheidsinformatie die in bijvoorbeeld bedrijfsapplicaties is vastgelegd valt onder deze wet. Het toepassingsbereik van de Who is breder dan het toepassingsbereik van de Archiefwet. De Archiefwet is slechts van toepassing op overheidsorganen. Dat zijn publiekrechtelijke rechtspersonen die bij wet zijn ingesteld of andere rechtspersonen of colleges die met enig openbaar gezag zijn bekleed.  
  
