@@ -28,6 +28,7 @@ let respecConfig = {
 //        companyURL: "https://vng.nl/artikelen/vng-realisatie",
 //      }
 //    ],
+  
   editors:
     [
       {
