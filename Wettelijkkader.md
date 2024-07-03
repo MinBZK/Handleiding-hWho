@@ -50,25 +50,20 @@ Meer informatie over de Archiefwet is te vinden op de websites van de [Rijksover
 De Wet implementatie Open data richtlijn wijzigt de Who op een aantal punten.
  
 -	Beperken van in rekening brengen kosten
-Het verlagen van barrières voor markttoegang voor kleine en middelgrote bedrijven, door voor (overheids)organisaties de mogelijkheden te verkleinen om hogere kosten te rekenen dan slechts marginale kosten voor hergebruik. 
-
--	Uitbreiden reikwijdte van organisaties die onder de wet vallen
-Het vergroten van toegang tot gegevens door nieuwe soorten van publieke en publiek gefinancierde gegevens onder de richtlijn te brengen, te weten gegevens van overheidsbedrijven in de transport- en nutssectoren, en ook onderzoeksgegevens waarvan de productie publiek gefinancierd is. Wel krijgen deze instellingen vanwege hun bijzondere karakter een afwijkende positie;
-
--	Minimaliseren van exclusieve rechten
-Het beperken van de voorsprong van eerste marktpartijen, waardoor grote bedrijven voorrang krijgen en waarmee het potentiële aantal hergebruikers wordt beperkt, door een meer transparant proces te verplichten bij het aangaan van publiek-private samenwerkingsverbanden
-
--	Aanbieden van dynamische gegevens
-Het vergroten van kansen voor bedrijven en ontwikkelaars door het aanmoedigen van het aanbieden van dynamische gegevens via API’s;
-
--	Verplichtingen voor bepaalde datasets
-Het introduceren van een Europees vastgestelde lijst van Specifieke Hoogwaardige Datasets die in machinaal leesbaar formaat en kosteloos via API’s beschikbaar moeten worden gesteld. 
-
--	Extra waarborgen voor het beschermen van privacy en persoonsgegevens
-Hergebruikers mogen de gegevens niet gebruiken om mensen te heridentificeren of pseudonimisering ongedaan te maken. Als hier een inbreuk op wordt gemaakt, dan moet dit worden teruggemeld aan de dataprovider, zodat hierop maatregelen kunnen worden genomen. Wanneer hergebruikers gegevens doorgeven aan derden, dan gelden die voorwaarden ook voor hen. Dataproviders kunnen bovendien aanvullende voorwaarden opleggen aan hergebruikers ter bescherming van persoonsgegevens.
+-	Het verlagen van barrières voor markttoegang voor kleine en middelgrote bedrijven, door voor (overheids)organisaties de mogelijkheden te verkleinen om hogere kosten te rekenen dan slechts marginale kosten voor hergebruik;
+-	Uitbreiden reikwijdte van organisaties die onder de wet vallen;
+-	Het vergroten van toegang tot gegevens door nieuwe soorten van publieke en publiek gefinancierde gegevens onder de richtlijn te brengen, te weten gegevens van overheidsbedrijven in de transport- en nutssectoren, en ook onderzoeksgegevens waarvan de productie publiek gefinancierd is. Wel krijgen deze instellingen vanwege hun bijzondere karakter een afwijkende positie;
+-	Minimaliseren van exclusieve rechten;
+-	Het beperken van de voorsprong van eerste marktpartijen, waardoor grote bedrijven voorrang krijgen en waarmee het potentiële aantal hergebruikers wordt beperkt, door een meer transparant proces te verplichten bij het aangaan van publiek-private samenwerkingsverbanden;
+-	Aanbieden van dynamische gegevens;
+-	Het vergroten van kansen voor bedrijven en ontwikkelaars door het aanmoedigen van het aanbieden van dynamische gegevens via API’s;
+-	Verplichtingen voor bepaalde datasets;
+-	Het introduceren van een Europees vastgestelde lijst van Specifieke Hoogwaardige Datasets die in machinaal leesbaar formaat en kosteloos via API’s beschikbaar moeten worden gesteld;
+-	Extra waarborgen voor het beschermen van privacy en persoonsgegevens;
+-	Hergebruikers mogen de gegevens niet gebruiken om mensen te heridentificeren of pseudonimisering ongedaan te maken. Als hier een inbreuk op wordt gemaakt, dan moet dit worden teruggemeld aan de dataprovider, zodat hierop maatregelen kunnen worden genomen. Wanneer hergebruikers gegevens doorgeven aan derden, dan gelden die voorwaarden ook voor hen. Dataproviders kunnen bovendien aanvullende voorwaarden opleggen aan hergebruikers ter bescherming van persoonsgegevens.
 
 ## EU-wetgeving
-Deze sectie legt het Europeesrechtelijke kader uit omtrent de hergebruik van overheidsinformatie. De focus ligt daarbij op Richtlijn 2019/1024, hierna “Open data Richtlijn ” genoemd. Allereerst geven we aan wat de betekenis en functie is van Richtlijnen in de Europese Unie en hoe deze zich verhouden tot het Nederlands recht. Vervolgens specificeren we de Open data Richtlijn  en wat de praktische implicaties zijn van de Richtlijn voor de Who.
+Deze sectie legt het Europeesrechtelijke kader uit omtrent het hergebruik van overheidsinformatie. De focus ligt daarbij op Richtlijn 2019/1024, hierna “Open data Richtlijn ” genoemd. Allereerst geven we aan wat de betekenis en functie is van Richtlijnen in de Europese Unie en hoe deze zich verhouden tot het Nederlands recht. Vervolgens specificeren we de Open data Richtlijn  en wat de praktische implicaties zijn van de Richtlijn voor de Who.
 
 ### Functie Europese Richtlijnen
 
@@ -79,7 +74,7 @@ Hieruit volgt dat elke Richtlijn twee componenten heeft:
 - Ten tweede laat de EU aan de lidstaten zelf hoe zij deze standaard realiseren. Op deze manier creëert een richtlijn ruimte voor overheden om wetgeving te maken die aansluit bij de karakteristieken van de lidstaat. 
 
 De Who vult deze tweede component in voor de Open data richtlijn . Voor de eerste component geeft de volgende sectie antwoord op de volgende vragen: 
-- Welke wijzigingen brengt de Open data Richtlijn  aan ten opzichte van vorige wetgeving?
+- Welke wijzigingen brengt de Open data Richtlijn aan ten opzichte van vorige wetgeving?
 - Welke standaard legt de EU met de Open data Richtlijn? Waarom? 
 - Welke minimale eisen gelden aan de nationale wetgeving?
 
