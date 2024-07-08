@@ -69,10 +69,9 @@ In algemene inkoopvoorwaarden, waaronder [Algemene Rijksinkoopvoorwaarden bij IT
 
 ### Aansprakelijkheid
 
-De Open data richtlijn biedt ruimte om aansprakelijkheid jegens hergebruikers uit te sluiten. Daarmee is de dataprovider niet verantwoordelijk voor het hergebruik van de data en eventuele fouten jegens de afnemer. Het is verstandig om dit in de gebruiksvoorwaarden voor hergebuikers op te nemen. Door gebruik te maken van de CC-0 of CC-BY licentie is dit automatisch geregeld omdat bij de licenties die aansprakelijkheid wordt uitgesloten 
+De Open data richtlijn biedt ruimte om aansprakelijkheid jegens hergebruikers uit te sluiten. Daarmee is de dataprovider niet verantwoordelijk voor het hergebruik van de data en eventuele fouten jegens de afnemer. Het is verstandig om dit in de gebruiksvoorwaarden voor hergebuikers op te nemen. Door gebruik te maken van de CC-0 of CC-BY licentie voor data, en bij opensourcelicenties zoals de EUPL voor broncode, is dit automatisch geregeld omdat bij de licenties die aansprakelijkheid wordt uitgesloten.
 
 Door een verstrekking van onjuiste gegevens (bijvoorbeeld fouten in data) en door een inbreuk op rechten van derden (bijvoorbeeld intellectueel eigendomsrechten) kan er wel een aansprakelijkheidsrisico ontstaan jegens de belanghebbenden van wie de gegevens oorspronkelijk afkomstig zijn of op wie de gegevens betrekking hebben. Deze aansprakelijkheid valt niet zomaar af te wijzen. Daarom is het wel van belang om te zorgen dat de gegevens geen inbreuk vormen op IE-rechten of het persoonsgegevensbeschermingsrecht van betrokkenen. Bij het beschikbaar stellen van data wordt aanbevolen om de context van deze data te beschrijven. Een voorbeeld is het toevoegen van metadata.
-
 
 ## Welke kosten mogen in rekening worden gebracht? 
 
