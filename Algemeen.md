@@ -18,15 +18,24 @@ Lees [hier](#alg3) meer over de typen organisaties die onder de Who vallen.
 
 ## Welke gegevens(-categorieën) vallen onder de Who? 
 
-In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijdte van de Who en de Open data richtlijn. Erbinnen kunnen verschillende type gegevens worden onderscheiden waarvoor een bijzonder regime in de Who of de Open data richtlijn  geldt. Het gaat daarbij om: 
+In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijdte van de Who en de Open data richtlijn. Of het nu papier of digitaal is. 
+
+Het begrip “gegevens” heeft volgens de memorie van toelichting bij de Who in de praktijk nagenoeg dezelfde betekenis als de begrippen “data”, “informatie” en “document”:
+-	“Data” en “gegevens” zijn synoniemen, waarbij “data” van origine Engels is en “gegevens” het Nederlandse woord is voor hetzelfde begrip.
+-	“Informatie” betekent doorgaans gegevens die betekenis en dus enig nut of enige waarde hebben voor de ontvanger ervan. Een verzoeker hoeft voor het indienen van een Who-verzoek echter geen belang aan te tonen. Het begrip “informatie” kan in de Who-wetspraktijk beschouwd worden als synoniem van “gegevens”.
+-	“Document” kan in praktijk ook beschouwd worden als synoniem van “gegevens”. Dat geldt zowel voor de Who als de Woo. De Archiefwet 1995 hanteert nog het begrip “archiefbescheiden”, met een afwijkende betekenis. Dat begrip wordt in de nieuwe Archiefwet vervangen door het begrip “document”, waarbij zoveel mogelijk aansluiting wordt gezocht bij de Woo.
+
+Voor de volgende categorieën gegevens geldt een bijzonder regime in de Who of de Open data richtlijn. Het gaat daarbij om: 
 1.	Onderzoeksgegevens;
 2.	Dynamische gegevens;
 3.	Gegevens uit specifieke hoogwaardige gegevenssets;
 4.	(Open source) software.
-   
+
+Lees [hier](#welke-gegevens-categorieen-vallen-onder-de-who) meer over deze categorieën.
+
 Wel gelden er uitzonderingsgronden waarmee overheidsorganisaties bepaalde gegevens of gegevens van bepaalde organisaties kunnen uitsluiten van hergebruik. 
 
-Lees [hier](#welke-gegevens-categorieen-vallen-onder-de-who) meer over welke gegevens en categorieën van gegevens onder de Who vallen en [hier](#wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen) welke afwijzingsgronden er gelden.
+Lees [hier](#wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen) welke afwijzingsgronden er gelden.
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
