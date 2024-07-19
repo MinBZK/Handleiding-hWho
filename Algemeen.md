@@ -3,7 +3,7 @@
 ## Wat is het wettelijk kader voor hergebruik van overheidsinformatie?
 Het wettelijk kader voor het hergebruik van overheidsinformatie wordt bepaald door nationale en Europese wetgeving. Nationale wetgeving bestaat uit de Wet hergebruik van overheidsinformatie (Who), wet- en regelgeving ten aanzien van openbaar toegankelijke registers, de Wet open overheid (Woo) en de Archiefwet en de Auteurswet. 
 
-Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn , de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE Richtlijn, de Datagovernanceverordening en de Dataverordening. De AVG en de Datagovernanceverordening bevatten nadere nationale invulling in de Uitvoeringwet AVG en de Uitvoeringwet Datagovernanceverordening. Een uitvoeringswet is d.d. [publicatie] nog in aanmaak.
+Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn , de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE Richtlijn, de Datagovernanceverordening en de Dataverordening. De AVG en de Datagovernanceverordening bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
 
 [Hier](#wetk) vind je meer informatie over het wettelijk kader.
 
