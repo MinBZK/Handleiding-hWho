@@ -214,9 +214,7 @@ Sinds 25 mei 2018 is de Algemene Verordening Gegevensbescherming (AVG) van krach
 
 Het doel van de AVG is de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van persoonsgegevens. Het is voornamelijk belangrijk dat de verwerking van persoonsgegevens eerlijk gebeurt, voor bepaalde doeleinden en met toestemming van de betrokkene of op basis van een andere gerechtvaardigde grondslag waarin de wet voorziet. Een onafhankelijke autoriteit ziet erop toe dat deze regels worden nageleefd. Dit is in Nederland de Autoriteit Persoonsgegevens.
 
-De AVG maakt onderscheid tussen verschillende rollen ten aanzien van de verwerking van persoonsgegevens: de Verwerkingsverantwoordelijke, gezamenlijke verwerkingsverantwoordelijke en de Verwerker. Deze rollen zijn van belang om te bepalen wie er bevoegd is of zijn om beslissingen te nemen over het doel en de belangrijkste aspecten van de verwerking van persoonsgegevens, waaronder ook het hergebruik van persoonsgegevens. Kijk hier voor meer informatie op de website van de AP [https://www.autoriteitpersoonsgegevens.nl/documenten/voorbeeldlijst-wie-is-hier-de-verwerker-en-wie-de-verantwoordelijke]. 
-
-
+De AVG maakt onderscheid tussen verschillende rollen ten aanzien van de verwerking van persoonsgegevens: de Verwerkingsverantwoordelijke, gezamenlijke verwerkingsverantwoordelijke en de Verwerker. Deze rollen zijn van belang om te bepalen wie er bevoegd is of zijn om beslissingen te nemen over het doel en de belangrijkste aspecten van de verwerking van persoonsgegevens, waaronder ook het hergebruik van persoonsgegevens. Kijk hier voor meer informatie op de website van de AP [Voorbeeldlijst: wie is hier de verwerker en wie de verantwoordelijke?](https://www.autoriteitpersoonsgegevens.nl/documenten/voorbeeldlijst-wie-is-hier-de-verwerker-en-wie-de-verantwoordelijke)
 
 De AVG maakt onderscheid tussen (gewone) persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten. Deze laatste twee categorieën persoonsgegevens zijn zo privacygevoelig dat het openbaar maken en voor hergebruik geschikt maken van deze gegevens een te onevenredig grote impact kan hebben op iemands leven. Hergebruik van deze gegevens mag daardoor niet. Het verwerken van bijzondere persoonsgegevens is in bijna alle gevallen verboden en alleen mogelijk onder strenge eisen. Kijk ook hiervoor op de website van de AP.
 
@@ -230,7 +228,8 @@ Om de verwerking van persoonsgegevens mogelijk en legitiem te maken, bevat de AV
 
 Het is aan de verwerkingsverantwoordelijke om de naleving van deze beginselen aan te tonen. 
 
-Daarnaast moet er voor iedere verwerking een geldige grondslag zijn. De AVG bevat zes grondslagen, die als geldig zijn aangemerkt (artikel 6 AVG). Voor een dataprovider die overheidsinformatie ter beschikking stelt voor hergebruik zijn de volgende grondslagen het meest relevant:
+Voor iedere verwerking van persoonsgegevens, waaronder het hergebruik, dient een geldige grondslag te zijn. De AVG bevat zes grondslagen, die als geldig zijn aangemerkt (artikel 6 AVG). Voor een dataprovider die overheidsinformatie ter beschikking stelt voor hergebruik zijn de volgende grondslagen het meest relevant: 
+
 •	De verwerking van persoonsgegevens is noodzakelijk om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust (Art. 6, eerste lid, onderdeel c, AVG)
 •	De verwerking van persoonsgegevens is noodzakelijk  voor de vervulling van een taak van algemeen belang of van een taak in het kader van de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen (Art. 6, eerste lid, onderdeel e, AVG).
 
@@ -250,7 +249,7 @@ Daarnaast heeft de betrokkene een aantal rechten ten aanzien van de eigen persoo
 
 Uitzonderingen op de transparantieverplichtingen en de rechten van betrokkenen kunnen van toepassing zijn op grond van de AVG, maar deze moeten strikt worden geïnterpreteerd. Informatie over de rechten van betrokkenen staat op de website van de Autoriteit Persoonsgegevens. 
 
-Mocht verwerking niet op een rechtmatige manier gebeuren, dan spreken we over een inbreuk op de AVG. Een inbreuk op de AVG kan onder meer leiden tot een boete van de Autoriteit Persoonsgegevens. De Open data richtlijn  maakt duidelijk dat  geen afbreuk aan de AVG mag worden gedaan. Dit is vastgelegd in artikel 1, lid 4, van de Richtlijn. Dit betekent dat ook met het hergebruik van Overheidsinformatie er rekening gehouden moet worden met het eerlijk en rechtmatig verwerken van de persoonsgegevens van mensen. 
+Mocht verwerking niet op een rechtmatige manier gebeuren, dan spreken we over een inbreuk op de AVG. Een inbreuk op de AVG kan onder meer leiden tot een boete van de Autoriteit Persoonsgegevens. De Open data richtlijn  maakt duidelijk dat  geen afbreuk aan de AVG mag worden gedaan. Dit is vastgelegd in artikel 1, lid 4, van de Richtlijn. Dit betekent dat ook met het hergebruik van overheidsinformatie er rekening gehouden moet worden met het eerlijk en rechtmatig verwerken van de persoonsgegevens van mensen. 
 
 ##### UAVG
 
