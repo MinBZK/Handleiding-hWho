@@ -50,7 +50,7 @@ Bekijk [hier](#aanbev) de aanbevelingen voor het duurzamer toegankelijk maken va
 
 ## Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
 
-In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten zijn 14 stappen doorlopen. Deze zijn [hier](#alg4) beschreven en zal in een later stadium van deze Handleiding als interactief werkzaam stappenplan als Bijlage worden toegevoegd.  
+In beginsel moeten overheidsorganisaties Who-verzoeken in overweging nemen, alvorens ze toe- of af te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten zijn 14 stappen doorlopen. Deze zijn [hier](#alg4) beschreven en zal in een later stadium van deze Handleiding als interactief werkzaam stappenplan als Bijlage worden toegevoegd.  
 
 ## Hoe verstrek je de gevraagde overheidsinformatie? 
 
@@ -74,7 +74,7 @@ Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk te 
 
 Bij software en broncodes zijn licenties van CC-O of EUPL geschikt, waarbij EUPL de voorkeur  heeft gezien het feit dat deze specifiek is ontwikkeld om zorgvuldig hergebruik te bevorderen. Voor hulp bij het kiezen van de juiste licentie voor software en broncodes, zie de Licentiewijzer voor overheden: (https://licentiewijzer.org/question/0)
 
-In algemene inkoopvoorwaarden, waaronder [Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)](https://wetten.overheid.nl/BWBR0047124/2022-09-10#Bijlage) en [Gemeentelijke inkoopvoorwaarden bij IT Toolbox (GIBIT)](https://vng.nl/nieuws/nieuwe-gemeentelijke-ict-inkooptoolbox-gibit) kunnen overheden zelf rechthebbende van de broncode te worden en daarmee zelf bepalen met welke rechten en onder welke licenties de broncode wordt vrijgegeven. 
+Door gebruik te maken van algemene inkoopvoorwaarden, waaronder [Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)](https://wetten.overheid.nl/BWBR0047124/2022-09-10#Bijlage) en [Gemeentelijke inkoopvoorwaarden bij IT Toolbox (GIBIT)](https://vng.nl/nieuws/nieuwe-gemeentelijke-ict-inkooptoolbox-gibit) kunnen overheden zelf rechthebbende van de broncode worden en daarmee zelf bepalen met welke rechten en onder welke licenties de broncode wordt vrijgegeven. 
 
 ### Aansprakelijkheid
 
