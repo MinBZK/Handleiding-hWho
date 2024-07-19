@@ -137,8 +137,6 @@ De Richtlijn regelt dat openbare lichamen afwijzingsbeslissingen beredeneerd moe
 - als hergebruiksverzoeken over documenten gaan die buiten de richtlijn vallen (artikel 1 lid 2 onder a tot en met h); of 
 - als hergebruiksverzoeken over documenten gaan die overheidsondernemingen bezitten, maar daar geen toestemming voor hebben verleend;
 - als hergebruiksverzoeken een onevenredig grote inspanning vergen om documenten te maken of aan te passen, of uittreksels te verstrekken.
-- Op grond van het algemeen belang
-- (overige??)
 
 Op documenten waarop IE-recht rust dat bij een derde ligt, moet het openbare lichaam de verzoeker doorverwijzen naar de rechthebbende (indien bekend) of de licentiegever. (Universiteits)bibliotheken, musea en archieven mogen dat zelf bepalen.
 
@@ -212,9 +210,13 @@ De Open data richtlijn  is van invloed op de uitoefening van dit recht uit de Da
 
 #### Algemene Verordening Gegevensbescherming (AVG) en Uitvoeringswet AVG
 
-Sinds 25 mei 2018 is de Algemene Verordening Gegevensbescherming (AVG) van kracht in de EU. Met deze wet zijn de regels rondom de verwerking van de persoonsgegevens van natuurlijke personen vastgesteld. 
+Sinds 25 mei 2018 is de Algemene Verordening Gegevensbescherming (AVG) van kracht in de EU. In de AVG zijn de belangrijkste regels rondom de verwerking van de persoonsgegevens van natuurlijke personen vastgesteld. 
 
 Het doel van de AVG is de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van persoonsgegevens. Het is voornamelijk belangrijk dat de verwerking van persoonsgegevens eerlijk gebeurt, voor bepaalde doeleinden en met toestemming van de betrokkene of op basis van een andere gerechtvaardigde grondslag waarin de wet voorziet. Een onafhankelijke autoriteit ziet erop toe dat deze regels worden nageleefd. Dit is in Nederland de Autoriteit Persoonsgegevens.
+
+De AVG maakt onderscheid tussen verschillende rollen ten aanzien van de verwerking van persoonsgegevens: de Verwerkingsverantwoordelijke, gezamenlijke verwerkingsverantwoordelijke en de Verwerker. Deze rollen zijn van belang om te bepalen wie er bevoegd is of zijn om beslissingen te nemen over het doel en de belangrijkste aspecten van de verwerking van persoonsgegevens, waaronder ook het hergebruik van persoonsgegevens. Kijk hier voor meer informatie op de website van de AP [https://www.autoriteitpersoonsgegevens.nl/documenten/voorbeeldlijst-wie-is-hier-de-verwerker-en-wie-de-verantwoordelijke]. 
+
+
 
 De AVG maakt onderscheid tussen (gewone) persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten. Deze laatste twee categorieën persoonsgegevens zijn zo privacygevoelig dat het openbaar maken en voor hergebruik geschikt maken van deze gegevens een te onevenredig grote impact kan hebben op iemands leven. Hergebruik van deze gegevens mag daardoor niet. Het verwerken van bijzondere persoonsgegevens is in bijna alle gevallen verboden en alleen mogelijk onder strenge eisen. Kijk ook hiervoor op de website van de AP.
 
