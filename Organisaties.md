@@ -6,7 +6,8 @@ Het begrip ‘met een publieke taak belaste instelling’ is de omzetting in nat
 - de staat;
 - zijn territoriale lichamen;
 - publiekrechtelijke instellingen;
-- verenigingen gevormd door een of meer van deze lichamen of een of meer van deze publiekrechtelijke instellingen. 
+- verenigingen gevormd door een of meer van deze lichamen of een of meer van deze publiekrechtelijke instellingen.
+- Onderverenigingen gevormd door een of meer van deze lichamen of een of meer van deze instellingen worden ook verstaan de koepelorganisaties zoals VNG, IPO en Unie van Waterschappen. 
 
 Publiekrechtelijke instellingen zijn rechtspersonen die opgericht zijn met het specifieke doel te voorzien in behoeften van algemeen belang die niet van industriële of commerciële aard zijn en waarop een van de onderstaande opties van toepassing is: 
 1.	De activiteiten in hoofdzaak zijn door de staat of zijn territoriale lichamen of andere publiekrechtelijke instellingen gefinancierd.
