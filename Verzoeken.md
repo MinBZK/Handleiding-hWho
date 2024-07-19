@@ -43,4 +43,7 @@ De Who is niet van toepassing op deze persoonsgegevens, tenzij bij AMvB of bij o
 
 14.	Is het hergebruik van openbare persoonsgegevens verenigbaar met oorspronkelijk doel waarvoor de (overheids-) organisatie de persoonsgegevens verzameld en/of openbaar gemaakt heeft?  Zo nee, dan dient het verzoek te worden afgewezen. Zo ja, dan willigt u het verzoek om hergebruik in. 
 
+Het is aan te raden om deze conclusie en de onderbouwing ervan vast te leggen en te bewaren. 
+
+Zie hier **[invoegen verwijzing naar nieuw toe te voegen stroomschema]** een stroomschema voor het beoordelen en behandelen van een verzoek om hergebruik.
 
