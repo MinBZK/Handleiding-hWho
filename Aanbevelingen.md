@@ -33,7 +33,7 @@ Naast het hanteren van metadata standaarden is het verder nuttig om in te zetten
 - Het creëren van een zoekindex op basis van tekstgegevens en metagegevens.
 - De implementatie van enterprise search, : een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie.
 - Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
-- Het garanderen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
+- Ervoor zorgen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
 
 ### Beschikbaarheid
 Omdat informatie voor verschillende doelen gebruikt en hergebruikt wordt is het nodig dat deze informatie zoveel mogelijk beschikbaar is in vormen die aansluiten bij de manieren van (her)gebruik. Bij voorkeur kan informatie snel, eenvoudig, op elk tijdstip, op elke plaats, zonder kosten en voor zoveel mogelijk afnemers beschikbaar gesteld worden. Informatie die in principe openbaar is, kan onderdelen bevatten die niet openbaar mogen zijn. Bijvoorbeeld omdat deze onderdelen privacygevoelig zijn of de belangen van de overheid of bedrijven schaden. Een overheidsorganisatie hoeft deze niet-openbare onderdelen niet toegankelijk te maken voor externe afnemers. Van informatie die deels als openbaar is geclassificeerd, wordt het openbare deel ter beschikking gesteld. Bijvoorbeeld door informatie te anonimiseren of te pseudonimiseren.  
@@ -56,7 +56,7 @@ De maatregelen voor duurzame toegankelijkheid worden het best bepaald op het mom
 Met ‘archiveren by design’ zorg je dus dat al in een vroeg stadium passende maatregelen genomen worden om overheidsinformatie duurzaam toegankelijk te maken. Ook voor het doel van hergebruik kunnen dan al bij het begin vereisten meegenomen worden over bijvoorbeeld het gebruik van open standaarden, machineleesbaarheid, ontsluiting of API’s. Op deze wijze kan aan eisen uit de Who worden voldaan op een manier die past in het financieel beleid van een (overheids)organisatie en zonder dat de instelling verplicht is om extra kosten te maken.  
 
 ## DUTO-Raamwerk met passende maatregelen
-Het DUTO-raamwerk is de vertaalslag om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
+Het DUTO-raamwerk is een vertaalslag om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
 
 ## FAIR Principes
 Binnen de academische wereld is het gebruikelijk om qua open data te werken met de ‘FAIR’-principes. De richtlijn stimuleert dit, voor zover het gaat om onderzoeksgegevens die beschikbaar worden gesteld door publiek gefinancierde onderzoeksorganisaties.Open data richtlijn 
