@@ -1,16 +1,16 @@
 <!DOCTYPE html><html lang="nl"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-<meta name="generator" content="ReSpec 34.1.4">
+<meta name="generator" content="ReSpec 35.1.1">
 <style>
 dfn{cursor:pointer}
-.dfn-panel{position:absolute;z-index:35;min-width:300px;max-width:500px;padding:.5em .75em;margin-top:.6em;font-family:"Helvetica Neue",sans-serif;font-size:small;background:#fff;color:#000;box-shadow:0 1em 3em -.4em rgba(0,0,0,.3),0 0 1px 1px rgba(0,0,0,.05);border-radius:2px}
+.dfn-panel{position:absolute;z-index:35;min-width:300px;max-width:500px;padding:.5em .75em;margin-top:.6em;font-family:"Helvetica Neue",sans-serif;font-size:small;background:#fff;background:var(--indextable-hover-bg,#fff);color:#000;color:var(--text,#000);box-shadow:0 1em 3em -.4em rgba(0,0,0,.3),0 0 1px 1px rgba(0,0,0,.05);box-shadow:0 1em 3em -.4em var(--tocsidebar-shadow,rgba(0,0,0,.3)),0 0 1px 1px var(--tocsidebar-shadow,rgba(0,0,0,.05));border-radius:2px}
 .dfn-panel:not(.docked)>.caret{position:absolute;top:-9px}
-.dfn-panel:not(.docked)>.caret::after,.dfn-panel:not(.docked)>.caret::before{content:"";position:absolute;border:10px solid transparent;border-top:0;border-bottom:10px solid #fff;top:0}
-.dfn-panel:not(.docked)>.caret::before{border-bottom:9px solid #a2a9b1}
+.dfn-panel:not(.docked)>.caret::after,.dfn-panel:not(.docked)>.caret::before{content:"";position:absolute;border:10px solid transparent;border-top:0;border-bottom:10px solid #fff;border-bottom-color:var(--indextable-hover-bg,#fff);top:0}
+.dfn-panel:not(.docked)>.caret::before{border-bottom:9px solid #a2a9b1;border-bottom-color:var(--indextable-hover-bg,#a2a9b1)}
 .dfn-panel *{margin:0}
-.dfn-panel b{display:block;color:#000;margin-top:.25em}
-.dfn-panel ul a[href]{color:#333}
+.dfn-panel b{display:block;color:#000;color:var(--text,#000);margin-top:.25em}
+.dfn-panel ul a[href]{color:#333;color:var(--text,#333)}
 .dfn-panel>div{display:flex}
 .dfn-panel a.self-link{font-weight:700;margin-right:auto}
 .dfn-panel .marker{padding:.1em;margin-left:.5em;border-radius:.2em;text-align:center;white-space:nowrap;font-size:90%;color:#040b1c}
@@ -43,8 +43,6 @@ dfn{cursor:pointer}
 25%{transform:scale(1.25,1.25);opacity:.75}
 100%{transform:scale(1,1)}
 }
-:is(h1,h2,h3,h4,h5,h6,a) abbr{border:none}
-dfn{font-weight:700}
 a.internalDFN{color:inherit;border-bottom:1px solid #99c;text-decoration:none}
 a.externalDFN{color:inherit;border-bottom:1px dotted #ccc;text-decoration:none}
 a.bibref{text-decoration:none}
@@ -58,20 +56,8 @@ a.bibref{text-decoration:none}
 cite .bibref{font-style:normal}
 a[href].orcid{padding-left:4px;padding-right:4px}
 a[href].orcid>svg{margin-bottom:-2px}
-.toc a,.tof a{text-decoration:none}
-a .figno,a .secno{color:#000}
 ol.tof,ul.tof{list-style:none outside none}
 .caption{margin-top:.5em;font-style:italic}
-table.simple{border-spacing:0;border-collapse:collapse;border-bottom:3px solid #005a9c}
-.simple th{background:#005a9c;color:#fff;padding:3px 5px;text-align:left}
-.simple th a{color:#fff;padding:3px 5px;text-align:left}
-.simple th[scope=row]{background:inherit;color:inherit;border-top:1px solid #ddd}
-.simple td{padding:3px 10px;border-top:1px solid #ddd}
-.simple tr:nth-child(even){background:#f0f6ff}
-.section dd>p:first-child{margin-top:0}
-.section dd>p:last-child{margin-bottom:0}
-.section dd{margin-bottom:1em}
-.section dl.attrs dd,.section dl.eldef dd{margin-bottom:0}
 #issue-summary>ul{column-count:2}
 #issue-summary li{list-style:none;display:inline-block}
 details.respec-tests-details{margin-left:1em;display:inline-block;vertical-align:top}
@@ -110,15 +96,19 @@ ul.index code{color:inherit}
 </style>
 <meta name="description" content="“Op 19 juni 2024 is de Wet implementatie Open data richtlijn in werking getreden en daarmee is de Wet hergebruik van overheidsinformatie (Who) gewijzigd. Deze handleiding helpt uitvoerende (overheids-) organisaties bij het implementeren van de Who. Deze handleiding is op dit moment nog in concept en een eerste versie zal zo spoedig als mogelijk definitief gemaakt worden. Daarna zal deze periodiek worden bijgewerkt.”">
 <style>
-.hljs{display:block;overflow-x:auto;padding:.5em;color:#383a42;background:#fafafa}
-.hljs-comment,.hljs-quote{color:#717277;font-style:italic}
-.hljs-doctag,.hljs-formula,.hljs-keyword{color:#a626a4}
-.hljs-deletion,.hljs-name,.hljs-section,.hljs-selector-tag,.hljs-subst{color:#ca4706;font-weight:700}
-.hljs-literal{color:#0b76c5}
-.hljs-addition,.hljs-attribute,.hljs-meta-string,.hljs-regexp,.hljs-string{color:#42803c}
-.hljs-built_in,.hljs-class .hljs-title{color:#9a6a01}
-.hljs-attr,.hljs-number,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-pseudo,.hljs-template-variable,.hljs-type,.hljs-variable{color:#986801}
-.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-symbol,.hljs-title{color:#336ae3}
+.hljs{--base:#fafafa;--mono-1:#383a42;--mono-2:#686b77;--mono-3:#717277;--hue-1:#0b76c5;--hue-2:#336ae3;--hue-3:#a626a4;--hue-4:#42803c;--hue-5:#ca4706;--hue-5-2:#c91243;--hue-6:#986801;--hue-6-2:#9a6a01}
+@media (prefers-color-scheme:dark){
+.hljs{--base:#282c34;--mono-1:#abb2bf;--mono-2:#818896;--mono-3:#5c6370;--hue-1:#56b6c2;--hue-2:#61aeee;--hue-3:#c678dd;--hue-4:#98c379;--hue-5:#e06c75;--hue-5-2:#be5046;--hue-6:#d19a66;--hue-6-2:#e6c07b}
+}
+.hljs{display:block;overflow-x:auto;padding:.5em;color:#383a42;color:var(--mono-1,#383a42);background:#fafafa;background:var(--base,#fafafa)}
+.hljs-comment,.hljs-quote{color:#717277;color:var(--mono-3,#717277);font-style:italic}
+.hljs-doctag,.hljs-formula,.hljs-keyword{color:#a626a4;color:var(--hue-3,#a626a4)}
+.hljs-deletion,.hljs-name,.hljs-section,.hljs-selector-tag,.hljs-subst{color:#ca4706;color:var(--hue-5,#ca4706);font-weight:700}
+.hljs-literal{color:#0b76c5;color:var(--hue-1,#0b76c5)}
+.hljs-addition,.hljs-attribute,.hljs-meta-string,.hljs-regexp,.hljs-string{color:#42803c;color:var(--hue-4,#42803c)}
+.hljs-built_in,.hljs-class .hljs-title{color:#9a6a01;color:var(--hue-6-2,#9a6a01)}
+.hljs-attr,.hljs-number,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-pseudo,.hljs-template-variable,.hljs-type,.hljs-variable{color:#986801;color:var(--hue-6,#986801)}
+.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-symbol,.hljs-title{color:#336ae3;color:var(--hue-2,#336ae3)}
 .hljs-emphasis{font-style:italic}
 .hljs-strong{font-weight:700}
 .hljs-link{text-decoration:underline}
@@ -444,7 +434,7 @@ ul.index code{color:inherit}
 </section><section id="voorwaarden"><div class="header-wrapper"><h3 id="x1-7-voorwaarden"><bdi class="secno">1.7 </bdi>Voorwaarden</h3><a class="self-link" href="#voorwaarden" aria-label="Permalink for Section 1.7"></a></div>
 <p>De Who gaat ervan uit dat er zo  min mogelijk beperkende voorwaarden worden opgelegd.</p>
 <p>Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk te gesteld worden via  standaardlicenties, zoals die van Creative Commons en de openbare licentie van de Europese Unie („EUPL”). Per informatiecategorie kunnen de meest passende licenties worden gekozen.</p>
-<p>Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk te gesteld worden via  standaardlicenties, zoals die van Creative Commons. Daarbij is de CC-0 licentie het minst beperkend in het stellen van voorwaarden. De CC-BY licentie is ook toegestaan. De CC-BY licentie heeft de voorkeur om te gebruiken wanneer persoonsgegevens, maar ook bij geanonimiseerde of gespeudonimiseerde persoonsgegevens, onderdeel uitmaken van de overheidsinformatie die beschikbaar wordt gesteld voor hergebruik. Bij deze licentie is het namelijk mogelijk om te achterhalen welke organisatie de bron van de informatie is, zodat daarmee contact opgenomen kan worden om bij eventuele inbreuken op de bescherming van persoonsgegevens dit teruggemeld kan worden, zodat de dataset aangepast kan worden of ingetrokken. Wanneer niet-persoonsgegevens, dat wil zeggen gegevens die nooit een persoonsgegeven zijn geweest en ook niet zijn afgeleid van natuurlijke personenpersoonsgegevens waarop de AVG niet van toepassing is, is het risico op identificatie beperkter dan bij geanonimiseerde of gepseudonimiseerde gegevens en dan een CC-0 licentie passender zijn. </p>
+<p>Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk gesteld te worden via standaardlicenties, zoals die van Creative Commons. Daarbij is de CC-0 licentie het minst beperkend in het stellen van voorwaarden. De CC-BY licentie is ook toegestaan. De CC-BY licentie heeft de voorkeur om te gebruiken wanneer persoonsgegevens, maar ook bij geanonimiseerde of gespeudonimiseerde persoonsgegevens, onderdeel uitmaken van de overheidsinformatie die beschikbaar wordt gesteld voor hergebruik. Bij deze licentie is het namelijk mogelijk om te achterhalen welke organisatie de bron van de informatie is, zodat daarmee contact opgenomen kan worden om bij eventuele inbreuken op de bescherming van persoonsgegevens dit teruggemeld kan worden, zodat de dataset aangepast kan worden of ingetrokken. Wanneer niet-persoonsgegevens, dat wil zeggen gegevens die nooit een persoonsgegeven zijn geweest en ook niet zijn afgeleid van natuurlijke personenpersoonsgegevens waarop de AVG niet van toepassing is, is het risico op identificatie beperkter dan bij geanonimiseerde of gepseudonimiseerde gegevens en dan een CC-0 licentie passender zijn. </p>
 <p>Bij software en broncodes zijn licenties van CC-O of EUPL geschikt, waarbij EUPL de voorkeur  heeft gezien het feit dat deze specifiek is ontwikkeld om zorgvuldig hergebruik te bevorderen. Voor hulp bij het kiezen van de juiste licentie voor software en broncodes, zie de Licentiewijzer voor overheden: (<a href="https://licentiewijzer.org/question/0">https://licentiewijzer.org/question/0</a>)</p>
 <p>Door gebruik te maken van algemene inkoopvoorwaarden, waaronder <a href="https://wetten.overheid.nl/BWBR0047124/2022-09-10#Bijlage">Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)</a> en <a href="https://vng.nl/nieuws/nieuwe-gemeentelijke-ict-inkooptoolbox-gibit">Gemeentelijke inkoopvoorwaarden bij IT Toolbox (GIBIT)</a> kunnen overheden zelf rechthebbende van de broncode worden en daarmee zelf bepalen met welke rechten en onder welke licenties de broncode wordt vrijgegeven. </p>
 <section id="aansprakelijkheid"><div class="header-wrapper"><h4 id="x1-7-1-aansprakelijkheid"><bdi class="secno">1.7.1 </bdi>Aansprakelijkheid</h4><a class="self-link" href="#aansprakelijkheid" aria-label="Permalink for Section 1.7.1"></a></div>
