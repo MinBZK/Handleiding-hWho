@@ -1,7 +1,7 @@
 # Aanbevelingen voor verstrekking van overheidsinformatie
 Na overleg tussen CIO Rijk en BZK zijn we tot de conclusie gekomen dat deze passage het beste pas concreet ingevuld kan worden op het moment dat de overige teksten (groten)deels staan. Dit is nu nog niet het geval. Hieronder is wel al een eerste aanzet te vinden van aanbevelingen een aandachtsgebieden die bij ons al brainstormend in dit stadium reeds naar voren kwamen. 
  
-- Bepaal een strategie, voer beleid en inventariseer over de wijze waarop jouw organisatie informatie publiekelijk aanbiedt. In de praktijk is de uitwerking van de Who in grote mate afhankelijk van de manier waarop organisaties hun informatie aanbieden, openheid faciliteerd en de wijze waarop de vindbaarheid van informatie is georganiseerd. 
+- Bepaal een strategie, voer beleid en inventariseer over de wijze waarop jouw organisatie informatie publiekelijk aanbiedt. In de praktijk is de uitwerking van de Who in grote mate afhankelijk van de manier waarop organisaties hun informatie aanbieden, openheid faciliteren en de wijze waarop de vindbaarheid van informatie is georganiseerd. 
 
 - Zie openbaarheid en hergebruik overheidsinformatie als dienstverlening die gezamenlijk benaderd en opgepakt kan worden. Openbaarmaking stimuleert hergebruik en vice versa. Neem de eisen voor herbruikbaarheid mee in openbaarheidsbeleid
 
