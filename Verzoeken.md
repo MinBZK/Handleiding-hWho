@@ -15,10 +15,10 @@ De uitwisseling van informatie tussen met een publieke taak belaste instellingen
 Indien mogelijk verwijst u door naar de instelling waar de informatie wel berust.
 
 5.	Is de informatie vergaard in het kader van een publieke taak?
-Het gaat om openbare informatie verkregen in het kader van de publieke taak van een met een publieke taak belaste instelling; direct of als bijproduct. Het gaat niet om informatie die voor interne bedrijfsvoering wordt gebruikt.
+Het gaat om openbare informatie verkregen in het kader van de publieke taak van een met een publieke taak belaste instelling; direct of als bijproduct. Het gaat niet om informatie die voor interne bedrijfsvoering wordt gebruikt. In deze situatie wordt aan het verzoek gehoor gegeven. 
 
 6.	Valt de verzochte informatie onder het toepassingsbereik van de Who? Zo nee, dan dient het verzoek te worden afgewezen. 
-Uitgezonderde categorieën informatie zijn:
+Deze informatie hoeft niet verstrekt te worden:
 a.	Informatie die berust bij een publieke omroep, met een publieke omroeptaak belaste instelling of een instelling werkzaam onder de verantwoordelijkheid van een van deze instellingen;
 b.	Informatie die berust bij een onderwijs- of onderzoeksinstelling;
 c.	Informatie die berust bij andere culturele instellingen dan musea, bibliotheken (inclusief universiteitsbibliotheken) en archieven;
