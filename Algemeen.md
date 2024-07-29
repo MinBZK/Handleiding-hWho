@@ -74,7 +74,7 @@ Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk ges
 
 Bij software en broncodes zijn licenties van CC-O of EUPL geschikt, waarbij EUPL de voorkeur heeft. Deze is namelijk specifiek ontwikkeld om zorgvuldig hergebruik te bevorderen. Voor hulp bij het kiezen van de juiste licentie voor software en broncodes, zie [de Licentiewijzer](https://licentiewijzer.org/question/0) voor overheden.
 
-In algemene inkoopvoorwaarden, waaronder [Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)](https://wetten.overheid.nl/BWBR0047124/2022-09-10#Bijlage) en [Gemeentelijke inkoopvoorwaarden bij IT Toolbox (GIBIT)](https://vng.nl/nieuws/nieuwe-gemeentelijke-ict-inkooptoolbox-gibit) kunnen overheden zelf rechthebbende van de broncode worden en daarmee zelf bepalen met welke rechten en onder welke licenties de broncode wordt vrijgegeven. 
+Doro gebruik te maken van algemene inkoopvoorwaarden, waaronder [Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)](https://wetten.overheid.nl/BWBR0047124/2022-09-10#Bijlage) en [Gemeentelijke inkoopvoorwaarden bij IT Toolbox (GIBIT)](https://vng.nl/nieuws/nieuwe-gemeentelijke-ict-inkooptoolbox-gibit) kunnen overheden zelf rechthebbende van de broncode worden en daarmee zelf bepalen met welke rechten en onder welke licenties de broncode wordt vrijgegeven. 
 
 ### Aansprakelijkheid
 
