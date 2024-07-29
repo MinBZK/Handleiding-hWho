@@ -48,7 +48,7 @@ De Archiefwet verplicht overheidsorganen ‘zorg te dragen voor de vernietiging 
 Meer informatie over de Archiefwet is te vinden op de websites van de [Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid), het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/wet-en-regelgeving) en de [Vereniging van Nederlandse Gemeenten](https://vng.nl/artikelen/uitleg-archiefwet-1995).
 
 ## Wat zijn de belangrijkste wijzigingen ten opzichte van de vorige wet?	
-De Wet implementatie Open data richtlijn wijzigt de Who op een aantal punten.
+De Wet implementatie Open data richtlijn (hierna: “Wiodr”) wijzigt de Who op een aantal punten.
  
 - Beperken van in rekening te brengen kosten door het verlagen van barrières voor markttoegang tot overheidsinformatie;
 - Uitbreiden reikwijdte van organisaties die onder de Who vallen. Het toevoegen van meerdere organisaties vergroot de toegang tot gegevens, als ook biedt dit toegang tot nieuwe gegevens. Door het toevoegen van publieke en publiek gefinancierde gegevens onder de Who, zijn bijvoorbeeld gegevens van overheidsbedrijven opvraagbaar, met betrekking tot de transport- en nutssectoren, en ook onderzoeksgegevens waarvan de productie publiek gefinancierd is. Wel hebben deze instellingen vanwege hun bijzondere karakter een afwijkende positie;
@@ -58,7 +58,7 @@ De Wet implementatie Open data richtlijn wijzigt de Who op een aantal punten.
 -	Extra waarborgen voor het beschermen van privacy en persoonsgegevens. Hergebruikers mogen de gegevens niet gebruiken om mensen te heridentificeren of pseudonimisering ongedaan te maken. Als hier een inbreuk op wordt gemaakt, dan moet dit worden teruggemeld aan de dataprovider, zodat hierop maatregelen kunnen worden genomen. Wanneer hergebruikers gegevens doorgeven aan derden, dan gelden die voorwaarden ook voor hen. Dataproviders kunnen bovendien aanvullende voorwaarden opleggen aan hergebruikers ter bescherming van persoonsgegevens.
 
 ## EU-wetgeving
-Deze sectie legt het Europeesrechtelijke kader uit omtrent hergebruik van overheidsinformatie. De focus ligt daarbij op Richtlijn 2019/1024, hierna “Open data Richtlijn ” genoemd. Allereerst geven we aan wat de betekenis en functie is van Richtlijnen in de Europese Unie en hoe deze zich verhouden tot het Nederlands recht. Vervolgens specificeren we de Open data Richtlijn en wat de praktische implicaties zijn van de Richtlijn voor de Wet implementatie Open data richtlijn (hierna: “Wiodr”).
+Deze sectie legt het Europeesrechtelijke kader uit omtrent hergebruik van overheidsinformatie. De focus ligt daarbij op Richtlijn 2019/1024, hierna “Open data Richtlijn ” genoemd. Allereerst geven we aan wat de betekenis en functie is van Richtlijnen in de Europese Unie en hoe deze zich verhouden tot het Nederlands recht. Vervolgens specificeren we de Open data Richtlijn en wat de praktische implicaties zijn van de Richtlijn voor de Who na omzetting via de Wiodr.
 
 ### Functie Europese Richtlijnen
 
@@ -99,8 +99,8 @@ De herzieningsrichtlijn uit 2013 wijzigde Richtlijn 2003/98 op vier belangrijke 
 Na de herziening van de Richtlijn en met de inwerkingtreding van de Who op 18 juli 2015 kwamen de artikelen in oud-hoofdstuk V-A van de Wob te vervallen.
 
 ### Uitleg Open data richtlijn 
-De Wet implementatie Open data Richtlijn zal Richtlijn 2019/1024 in de Nederlandse rechtsorde omzetten. Het Publicatieblad van 26 juni 2019 maakte de Richtlijn bekend. De Richtlijn trad vervolgens op 17 juli 2019 in werking, met een tweejarige omzettingstermijn. 
-De regels uit deze Richtlijn zijn volgens de Uniewetgever meer geschikt om tegemoet te komen aan de maatschappelijke veranderingen die machinaal leren, artificiële intelligentie en het internet der dingen (Engels: Internet of Things, IoT) met zich brengen (Het internet der dingen is het geheel aan apparaten ("dingen") dat via internetverbindingen met andere apparaten of systemen in contact staat en daarmee gegevens uitwisselen).Omdat lidstaten sinds de Richtlijnen uit 2003 en 2013 veelal hun beleid omtrent hergebruik ambitieuzer hebben ingestoken dan het minimumniveau uit die Richtlijnen, legt Richtlijn 2019/1024 een nieuw minimumharmonisatieniveau vast omtrent hergebruik. 
+De Wiodr zet Richtlijn 2019/1024 om in de Nederlandse rechtsorde. Het Publicatieblad van de Europese Unie van 26 juni 2019 maakte de Richtlijn bekend. De Richtlijn trad vervolgens op 17 juli 2019 in werking, met een tweejarige omzettingstermijn. 
+De regels uit deze Richtlijn zijn volgens de Uniewetgever meer geschikt om tegemoet te komen aan de maatschappelijke veranderingen die machinaal leren, artificiële intelligentie en het internet der dingen (Engels: Internet of Things, IoT) met zich brengen (Het internet der dingen is het geheel aan apparaten ("dingen") dat via internetverbindingen met andere apparaten of systemen in contact staat en daarmee gegevens uitwisselen). Omdat lidstaten sinds de Richtlijnen uit 2003 en 2013 veelal hun beleid omtrent hergebruik ambitieuzer hebben ingestoken dan het minimumniveau uit die Richtlijnen, legt Richtlijn 2019/1024 een nieuw minimumharmonisatieniveau vast omtrent hergebruik. 
 
 #### Functies Open data Richtlijn 
 De Richtlijn heeft drie hoofdfuncties:
@@ -197,9 +197,9 @@ Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lids
 De Who bevat geen bijzondere bepalingen over hoogwaardige gegevenssets in het algemeen, en neemt de verplichtingen uit de Richtlijn woordelijk over. Voor hoogwaardige datasets is ook de handreiking van Geonovum beschikbaar. 
 
 #### Richtlijn bescherming databanken (Richtlijn 96/9/EG)
-Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank aan te leggen, dan wel te onderhouden of te beheren, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9 (hierna “Databankenrichtlijn”). De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
+Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank aan te leggen, dan wel te onderhouden of te beheren, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9. De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
 
-De Open data richtlijn  is van invloed op de uitoefening van dit recht uit de Databankenwet en -richtlijn. In artikel 1 lid 6 van de Open data richtlijn staat een beperking op het artikel 7 lid 1 van fabrikanten van databanken om gebruik door derden te weren. Voor zover fabrikanten dit recht hebben, mogen zij dat niet uitoefenen om hergebruik tegen te gaan of te beperken buiten de grenzen die de Open data richtlijn  aangeeft. 
+De Open data richtlijn is van invloed op de uitoefening van dit recht uit de Databankenwet. In artikel 1 lid 6 van de Open data richtlijn staat een beperking op het artikel 7 lid 1 van fabrikanten van databanken om gebruik door derden te weren. Voor zover fabrikanten dit recht hebben, mogen zij dat niet uitoefenen om hergebruik tegen te gaan of te beperken buiten de grenzen die de Open data richtlijn  aangeeft. 
 
 #### Algemene Verordening Gegevensbescherming (AVG) en Uitvoeringswet AVG
 
