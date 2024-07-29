@@ -175,22 +175,22 @@ Uiterlijk op 17 juli 2025 zal de Commissie de toepassing van de Open data Richtl
 #### Hergebruik gegevens hoogwaardige datasets (Uitvoeringsverordening 2023/138)
 Ter ondersteuning van hergebruik van specifieke verzamelingen van hoogwaardige gegevens (onder de Richtlijn ‘hoogwaardige datasets’ genoemd), geeft de Richtlijn de bevoegdheid om voor deze lijst aan datasets voorwaarden vast te leggen. De preambule en de bijlage bij de Open data richtlijn noemen de zes voornaamste soorten gegevens, met enkele voorbeelden hiervan: 
 
-• postcodes, nationale en lokale kaarten (geospatiale data), 
-• energieverbruik en satellietbeelden (aardobservatie en milieu), 
-• in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data), 
-• demografische en economische indicatoren (statistiek), 
-• handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en 
-• verkeersborden en binnenwateren (mobiliteit).
+- postcodes, nationale en lokale kaarten (geospatiale data),
+- energieverbruik en satellietbeelden (aardobservatie en milieu),
+- in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data),
+- demografische en economische indicatoren (statistiek),
+- handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en
+- verkeersborden en binnenwateren (mobiliteit).
 
 De Commissie publiceerde de Uitvoeringsverordening 2023/138 (de “HWDS”-uitvoeringsverordening) hiervoor op 20 januari 2023. In de bijlage bij die Uitvoeringsverordening gaf zij per categorie uitvoeriger aan welke gegevens binnen het hoogwaardige datasetregime vallen. In navolging van artikel 14 van de Open data richtlijn, moeten openbare lichamen de gegevens hieruit: 
-• via APIs beschikbaar stellen, 
-• in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers. 
-• Mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
+- via APIs beschikbaar stellen,
+- in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers.
+- Mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
 
 Verder moeten zij: 
-• kwaliteitscriteria en documentatie publiceren voor het gebruik van en dienstverleningskwaliteitscriteria over de prestaties, capaciteit en beschikbaarheid van de API’s; 
-• een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid; 
-• in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
+- kwaliteitscriteria en documentatie publiceren voor het gebruik van en dienstverleningskwaliteitscriteria over de prestaties, capaciteit en beschikbaarheid van de API’s;
+- een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid;
+- in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
 
 Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de Richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-verordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
 
@@ -210,12 +210,12 @@ Het doel van de AVG is de bescherming van natuurlijke personen in verband met de
 De AVG maakt onderscheid tussen (gewone) persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten. Deze laatste twee categorieën persoonsgegevens zijn zo privacygevoelig dat het openbaar maken en voor hergebruik geschikt maken van deze gegevens een te onevenredig grote impact kan hebben op iemands leven. Hergebruik van deze gegevens mag daardoor niet. Het verwerken van bijzondere persoonsgegevens is in bijna alle gevallen verboden en alleen mogelijk onder strenge eisen. Kijk ook hiervoor op de website van de AP.
 
 Om de verwerking van persoonsgegevens mogelijk en legitiem te maken, bevat de AVG zes beginselen waaraan iedere verwerking moet voldoen:
-1	Rechtmatigheid, behoorlijkheid en transparantie (artikel 5, lid 1, onderdeel a, AVG)
-2	Doelbinding (artikel 5, lid 1, onderdeel b, AVG)
-3	Minimale gegevensverwerking (artikel 5, lid 1, onderdeel c, AVG)
-4	Juistheid (artikel 5, lid 1, onderdeel d, AVG)
-5	Opslagbeperking (artikel 5, lid 1, onderdeel e, AVG)
-6	Integriteit en vertrouwelijkheid (artikel 5, lid 1, onderdeel f, AVG)
+1. Rechtmatigheid, behoorlijkheid en transparantie (artikel 5, lid 1, onderdeel a, AVG)
+2. Doelbinding (artikel 5, lid 1, onderdeel b, AVG)
+3. Minimale gegevensverwerking (artikel 5, lid 1, onderdeel c, AVG)
+4. Juistheid (artikel 5, lid 1, onderdeel d, AVG)
+5. Opslagbeperking (artikel 5, lid 1, onderdeel e, AVG)
+6. Integriteit en vertrouwelijkheid (artikel 5, lid 1, onderdeel f, AVG)
 
 Het is aan de verwerkingsverantwoordelijke om de naleving van deze beginselen aan te tonen. En de verwerkingsverantwoordelijke is de verstrekker van persoonsgegevens in deze context van de Who. De verzoeker van de overheidsinformatie heeft hierin (ook) zijn eigen verantwoordelijkheid. 
 
