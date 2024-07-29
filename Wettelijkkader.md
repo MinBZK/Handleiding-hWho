@@ -124,10 +124,17 @@ Verder geldt de Richtlijn alleen als openbare lichamen documenten aanmaken of ve
 Daarnaast regelt de Richtlijn iets voor specifieke soorten gegevens. Onderzoeksgegevens onder de Richtlijn zijn digitale documenten die voortkomen uit met overheidsmiddelen gefinancierd wetenschappelijk onderzoek en die dus bij wetenschappelijke handelingen vrijkomen. Net als onder de Wet implementatie Open data richtlijn vallen hieronder statistieken, resultaten van experimenten, metingen, observaties op basis van terreinwerk, enquêteresultaten, opnames van interviews en beelden. Ook de gegevens over de gegevens (metagegevens), zoals specificaties en andere digitale objecten horen daarbij. Dynamische gegevens zijn digitale documenten die voortdurend geactualiseerde gegevens bevatten, wat onderzoeksgegevens kunnen zijn. De Richtlijn merkt ook gegevens die sensoren aanmaken als dynamisch aan. Ook regelt de Richtlijn de voorwaarden voor hergebruik van ruimtelijke overheidsinformatie binnen de Inspire-richtlijn. 
 
 #### Kernverplichtingen
-Openbare lichamen moeten in beginsel hergebruik van bestaande documenten onvoorwaardelijk mogelijk maken.  De norm hiervoor verlangt enerzijds proactief handelen van de openbare lichamen; anderzijds kunnen verzoekende partijen deze verplichting (als recht op hergebruik) inroepen door verzoeken in te dienen. Hierop moeten openbare lichamen in beginsel de documenten voor hergebruik beschikbaar stellen. Openbare lichamen mogen licenties hanteren, mits zij gebruikmaken van objectieve, evenredige, niet-discriminerende voorwaarden, die gerechtvaardigd zijn om een algemeen belang te proberen te verwezenlijken. Als een licentie nodig is, sturen openbare lichamen binnen redelijke termijn (max 20 dagen met verlengingsmogelijkheid van nog eens 20 werkdagen bij complexe verzoeken) het licentieaanbod aan de aanvrager mee. 
-De toepassing van de kernverplichting tot het voor hergebruik beschikbaar maken van documenten vindt plaats met afwegingen in het kader van de evenredigheid. Hierover stelt de Richtlijn dat voor eenvoudige, weinig inspanning vereisende handelingen hergebruik vorm moet krijgen door het maken of aanpassen van documenten of het verstrekken van uittreksels. Overheidsondernemingen, bibliotheken, musea en archieven hoeven in principe geen toestemming te geven voor het hergebruik van hun gegevens, maar als ze dat wel doen, moeten de lidstaten zorgen dat dit hergebruik volgens de Richtlijn gebeurt. Hergebruik moet, net als onder de eerste PSI-Richtlijn, mogelijk zijn voor eenieder. De Richtlijn kent in de hoofdregel een verbod op exclusiviteitsregelingen, behalve voor uitvoerders van diensten van algemeen belang. Die zouden exclusieve rechten mogen voeren, waarbij het openbare lichaam de noodzakelijkheid van dat recht of die exclusiviteitsregeling maximaal om de drie jaar zal moeten heroverwegen.
+Openbare lichamen moeten in beginsel hergebruik van bestaande documenten inclusief de gegevens over de gegevens (“metagegevens”) onvoorwaardelijk mogelijk maken. De norm hiervoor verlangt enerzijds proactief handelen van de openbare lichamen; anderzijds kunnen verzoekende partijen deze verplichting (als recht op hergebruik) inroepen door verzoeken in te dienen. 
 
-Wanneer openbare lichamen informatie hebben opgeslagen in databanken waartoe zij een “recht sui generis” hebben, mogen zij noch het hergebruik van die informatie tegengaan, noch er beperkingen voor opleggen. 
+Hierop moeten openbare lichamen in beginsel de documenten voor hergebruik beschikbaar stellen. Openbare lichamen mogen licenties hanteren, mits zij gebruikmaken van objectieve, evenredige, niet-discriminerende voorwaarden, die gerechtvaardigd zijn om een algemeen belang te verwezenlijken.
+
+Als een licentie nodig is, sturen openbare lichamen binnen redelijke termijn (max 20 dagen met verlengingsmogelijkheid van nog eens 20 werkdagen bij complexe verzoeken) het licentieaanbod aan de aanvrager mee. 
+De toepassing van de kernverplichting tot het voor hergebruik beschikbaar maken van documenten vindt plaats met afwegingen in het kader van de evenredigheid. Hierover stelt de Richtlijn dat voor eenvoudige, weinig inspanning vereisende handelingen hergebruik vorm moet krijgen door het maken of aanpassen van documenten of het verstrekken van uittreksels. 
+
+Overheidsondernemingen, bibliotheken, musea en archieven hoeven in principe geen toestemming te geven voor het hergebruik van hun gegevens, maar als ze dat wel doen, moeten de lidstaten zorgen dat dit hergebruik volgens de Richtlijn gebeurt. Hergebruik moet, net als onder de eerste PSI-Richtlijn, mogelijk zijn voor eenieder. De Richtlijn kent in de hoofdregel een verbod op exclusiviteitsregelingen, behalve voor uitvoerders van diensten van algemeen belang. Die zouden exclusieve rechten mogen voeren, waarbij het openbare lichaam de noodzakelijkheid van dat recht of die exclusiviteitsregeling maximaal om de drie jaar zal moeten heroverwegen.
+
+Hergebruik van gegevens in databanken die bescherming genieten onder de Richtlijn Rechtsbescherming Databanken en Nederlandse Databankenwet mag alleen aan objectief, evenredige en niet-discriminerende voorwaarden onderworpen worden die gerechtvaardigd zijn door een doel van algemeen belang. Deze eisen gelden net zo voor het onderwerpen aan voorwaarden van het hergebruik. Zie ook de volgende subparagraaf.
+Onder de Richtlijn Rechtsbescherming Databanken kregen openbare lichamen het recht om opvraging of het hergebruik van het geheel of een in kwalitatief of kwantitatief opzicht substantieel deel gegevens te verbieden (het zogeheten recht sui generis) uit databanken die zij aan hadden gelegd door middel van substantiële investering.
 
 #### Afwijzingsmogelijkheid
 De Richtlijn regelt dat openbare lichamen afwijzingsbeslissingen beredeneerd moeten gronden op de wet die de Richtlijn implementeert. De Richtlijn geeft enkele gronden aan waarop afwijzing mogelijk zou zijn:
@@ -137,21 +144,26 @@ De Richtlijn regelt dat openbare lichamen afwijzingsbeslissingen beredeneerd moe
 
 Op documenten waarop IE-recht rust dat bij een derde ligt, moet het openbare lichaam de verzoeker doorverwijzen naar de rechthebbende (indien bekend) of de licentiegever. (Universiteits)bibliotheken, musea en archieven mogen dat zelf bepalen.
 
-#### Transparantie en open data.
-Openbare lichamen hebben de mogelijkheid om het hergebruik van documenten zoveel mogelijk in te richten volgens het beginsel “open door ontwerp en standaardinstellingen”, wat meer inzicht biedt in het beleid. De Richtlijn noemt dan ook open data beleid als richtpunt voor de afweging rondom hergebruik. Verder geeft de Richtlijn de concrete verplichting dat overheden bestaande documenten samen met metagegevens beschikbaar moeten stellen in: 
-- bestaande formaten of talen, en 
-- als dat schikt in een elektronisch format dat zo open, machinaal leesbaar, toegankelijk, vindbaar en herbruikbaar mogelijk is. 
+Naast de bovenstaande beperkte mogelijkheden tot afwijzing, is in beginsel hergebruik onvoorwaardelijk. Voor gegevens waar intellectuele eigendomsrechten op rusten mogen voorwaarden worden opgesteld, mits deze objectief, evenredig, niet-discriminerend en gerechtvaardigd zijn door een algemeen belang. Die voorwaarden kunnen de volgende onderwerpen betreffen:
+- aansprakelijkheid,
+- bescherming van persoonsgegevens,
+- correct gebruik van documenten,
+- gewaarborgd niet-wijzigen, en
+- erkennen van de bron.
 
-Lidstaten moeten beleidsmaatregelen nemen om onderzoeksgegevens standaard open en vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. Het nationale beleid ter bescherming van het algemeen belang van publieke veiligheid moet hier consistent grenzen aangeven: te volatiele gegevens moeten namelijk omwille van veiligheid beschermd kunnen blijven. 
-Een afwijkend regime geldt voor dynamische gegevens: die moeten in beginsel onmiddellijk na verzameling via applicatieprogramma-interfaces (APIs) beschikbaar komen voor doorontwikkeling van mobiele, internet- en cloudapplicaties. Bij te grote inspanning om dit te realiseren mag een openbaar lichaam het later laten plaatsvinden, mits gemotiveerd met inachtneming van het belang van exploitatie van de waarde van die gegevens.
-Om documenten gemakkelijk vindbaar te maken moeten de lidstaten maatregelen nemen, zoals overzichtslijsten van documenten met relevante metagegevens online publiceren, en één enkel toegangspunt op te zetten.  Openbare lichamen hebben vervolgens de keus om praktische regelingen te treffen aangaande bewaring van documenten.
+#### Transparantie en open data.
+Openbare lichamen hebben de mogelijkheid om het hergebruik van documenten zoveel mogelijk in te richten volgens het beginsel “open door ontwerp en standaardinstellingen”, wat meer inzicht biedt in het beleid dat zij voeren. De Richtlijn noemt dan ook open data beleid als richtpunt voor de afweging rondom hergebruik. Verder geeft de Richtlijn de concrete verplichting dat overheden bestaande documenten samen met metagegevens beschikbaar moeten stellen in: 
+- bestaande formaten of talen, en 
+- als dat mogelijk en passend is in een elektronisch format dat zo open, machinaal leesbaar, toegankelijk, vindbaar en herbruikbaar mogelijk is. 
+
+Lidstaten moeten beleid opstellen en implementeren (beleidsmaatregelen nemen) om onderzoeksgegevens standaard open en vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. Het nationale beleid ter bescherming van het algemeen belang van publieke veiligheid moet hier consistent grenzen aangeven: te volatiele gegevens moeten namelijk omwille van veiligheid beschermd kunnen blijven. Een afwijkend regime geldt voor dynamische gegevens: die moeten in beginsel onmiddellijk na verzameling via applicatieprogramma-interfaces (API's) beschikbaar komen. Dit faciliteert de doorontwikkeling van mobiele, internet- en cloudapplicaties op basis van de gegevens. Bij te grote inspanning om dit te realiseren mag een openbaar lichaam het later laten plaatsvinden, mits gemotiveerd met inachtneming van het belang van exploitatie van de waarde van die gegevens. Om documenten gemakkelijk vindbaar te maken moeten de lidstaten maatregelen nemen, zoals overzichtslijsten van documenten met relevante metagegevens online publiceren, en één enkel toegangspunt op te zetten. Openbare lichamen hebben vervolgens de keus om praktische regelingen te treffen aangaande bewaring van documenten.
 
 #### Tariferingsregels
-Als hoofdregel geldt in de Open data Richtlijn dat openbare lichamen hergebruik van bestaande documenten mogelijk moeten maken zonder tegenprestatie. Kosteloos hergebruik geldt hoe dan ook voor onderzoeksgegevens (ingevolge artikel 6 lid 6 aanhef en onder b Richtlijn 2019/1024).
-Voor het overige mag een openbaar lichaam hoogstens marginale kosten rekenen voor vermenigvuldiging, verstrekking en verspreiding van de informatie, eventueel het anonimiseren ervan en het treffen van maatregelen voor de bescherming van vertrouwelijke informatie.
-Specifieke openbare lichamen, overheidsondernemingen en bibliotheken, musea en archieven mogen een verder afwijkende prijsberekening hanteren:
-- Openbare lichamen die inkomsten moeten krijgen om kostendekkend te werken voor de uitoefening van openbare taken, en overheidsondernemingen mogen de kostprijs hanteren voor het verzamelen, maken, vermenigvuldigen, verspreiden, opslaan en eventueel anonimiseren of treffen van andere maatregelen voor de bescherming van vertrouwelijke informatie met betrekking tot de documenten, vermeerderd met een redelijk rendement op investeringen. Een lijst van deze openbare lichamen moet online gepubliceerd worden.
-- Bibliotheken, musea en archieven mogen de kostprijs hanteren voor het verzamelen, maken, vermenigvuldigen, verspreiden, opslaan, conserveren en vereffenen van rechten, en eventueel anonimiseren of treffen van andere maatregelen voor de bescherming van vertrouwelijke informatie met betrekking tot de documenten, vermeerderd met een redelijk rendement op investeringen.
+Als hoofdregel geldt in de Open data Richtlijn dat openbare lichamen hergebruik van bestaande documenten mogelijk moeten maken zonder tegenprestatie. Kosteloos hergebruik geldt hoe dan ook voor onderzoeksgegevens op basis van artikel 6 lid 6 aanhef en onder b Richtlijn 2019/1024. Voor het overige mag een openbaar lichaam hoogstens marginale kosten rekenen voor vermenigvuldiging, verstrekking en verspreiding van de informatie, eventueel het anonimiseren ervan en het treffen van maatregelen voor de bescherming van vertrouwelijke informatie. Specifieke openbare lichamen, overheidsondernemingen en bibliotheken, musea en archieven mogen een verder afwijkende prijsberekening hanteren.
+
+Openbare lichamen die inkomsten moeten krijgen om kostendekkend te werken voor de uitoefening van openbare taken, en overheidsondernemingen mogen de kostprijs hanteren voor het verzamelen, maken, vermenigvuldigen, verspreiden, opslaan en eventueel anonimiseren of treffen van andere maatregelen voor de bescherming van vertrouwelijke informatie met betrekking tot de documenten, vermeerderd met een redelijk rendement op investeringen. Lidstaten moeten een lijst van deze openbare lichamen online publiceren.
+
+Bibliotheken, musea en archieven mogen de kostprijs hanteren voor het verzamelen, maken, vermenigvuldigen, verspreiden, opslaan, conserveren en vereffenen van rechten, en eventueel anonimiseren of treffen van andere maatregelen voor de bescherming van vertrouwelijke informatie met betrekking tot de documenten, vermeerderd met een redelijk rendement op investeringen.
 
 #### Hergebruik van gegevens in hoogwaardige datasets
 Ter ondersteuning van hergebruik van specifieke categorieën verzamelingen van hoogwaardige gegevens (onder de Richtlijn hoogwaardige datasets genoemd), geeft de Richtlijn mogelijkheid en de bevoegdheid om voorwaarden te creëren. De preambule van en de bijlage bij de Richtlijn noemen zes voornaamste soorten gegevens, met enkele voorbeelden hiervan: 
@@ -201,50 +213,48 @@ Verder moeten zij:
 Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de Richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-verordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
 
 #### Richtlijn bescherming databanken (Richtlijn 96/9/EG)
-Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank in elkaar te draaien, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9 (hierna “Databankenrichtlijn”). De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
+Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank aan te leggen, dan wel te onderhouden of te beheren, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9 (hierna “Databankenrichtlijn”). De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
 
-De Open data richtlijn  is van invloed op de uitoefening van dit recht uit de Databankenwet en -richtlijn. In artikel 1 lid 6 van de Open data richtlijn  staat namelijk een beperking op het artikel 7 lid 1 van fabrikanten van databanken om gebruik door derden te weren. Voor zover fabrikanten dit recht hebben, mogen zij dat niet uitoefenen om hergebruik tegen te gaan of te beperken buiten de grenzen die de Open data richtlijn  aangeeft. 
+De Open data richtlijn  is van invloed op de uitoefening van dit recht uit de Databankenwet en -richtlijn. In artikel 1 lid 6 van de Open data richtlijn staat een beperking op het artikel 7 lid 1 van fabrikanten van databanken om gebruik door derden te weren. Voor zover fabrikanten dit recht hebben, mogen zij dat niet uitoefenen om hergebruik tegen te gaan of te beperken buiten de grenzen die de Open data richtlijn  aangeeft. 
 
 #### Algemene Verordening Gegevensbescherming (AVG) en Uitvoeringswet AVG
 
-Sinds 25 mei 2018 is de Algemene Verordening Gegevensbescherming (AVG) van kracht in de EU. In de AVG zijn de belangrijkste regels rondom de verwerking van de persoonsgegevens van natuurlijke personen vastgesteld. 
+Sinds 25 mei 2018 is de Algemene Verordening Gegevensbescherming (AVG) van kracht in de EU. Met deze wet zijn de regels rondom de verwerking van de persoonsgegevens van natuurlijke personen vastgesteld.
 
 Het doel van de AVG is de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van persoonsgegevens. Het is voornamelijk belangrijk dat de verwerking van persoonsgegevens eerlijk gebeurt, voor bepaalde doeleinden en met toestemming van de betrokkene of op basis van een andere gerechtvaardigde grondslag waarin de wet voorziet. Een onafhankelijke autoriteit ziet erop toe dat deze regels worden nageleefd. Dit is in Nederland de Autoriteit Persoonsgegevens.
-
-De AVG maakt onderscheid tussen verschillende rollen ten aanzien van de verwerking van persoonsgegevens: de Verwerkingsverantwoordelijke, gezamenlijke verwerkingsverantwoordelijke en de Verwerker. Deze rollen zijn van belang om te bepalen wie er bevoegd is of zijn om beslissingen te nemen over het doel en de belangrijkste aspecten van de verwerking van persoonsgegevens, waaronder ook het hergebruik van persoonsgegevens. Kijk hier voor meer informatie op de website van de AP [Voorbeeldlijst: wie is hier de verwerker en wie de verantwoordelijke?](https://www.autoriteitpersoonsgegevens.nl/documenten/voorbeeldlijst-wie-is-hier-de-verwerker-en-wie-de-verantwoordelijke)
-
+ 
 De AVG maakt onderscheid tussen (gewone) persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten. Deze laatste twee categorieën persoonsgegevens zijn zo privacygevoelig dat het openbaar maken en voor hergebruik geschikt maken van deze gegevens een te onevenredig grote impact kan hebben op iemands leven. Hergebruik van deze gegevens mag daardoor niet. Het verwerken van bijzondere persoonsgegevens is in bijna alle gevallen verboden en alleen mogelijk onder strenge eisen. Kijk ook hiervoor op de website van de AP.
 
 Om de verwerking van persoonsgegevens mogelijk en legitiem te maken, bevat de AVG zes beginselen waaraan iedere verwerking moet voldoen:
-•	Rechtmatigheid, behoorlijkheid en transparantie (artikel 5, lid 1, onderdeel a, AVG)
-•	Doelbinding (artikel 5, lid 1, onderdeel b, AVG)
-•	Minimale gegevensverwerking (artikel 5, lid 1, onderdeel c, AVG)
-•	Juistheid (artikel 5, lid 1, onderdeel d, AVG)
-•	Opslagbeperking (artikel 5, lid 1, onderdeel e, AVG)
-•	Integriteit en vertrouwelijkheid (artikel 5, lid 1, onderdeel f, AVG)
+1	Rechtmatigheid, behoorlijkheid en transparantie (artikel 5, lid 1, onderdeel a, AVG)
+2	Doelbinding (artikel 5, lid 1, onderdeel b, AVG)
+3	Minimale gegevensverwerking (artikel 5, lid 1, onderdeel c, AVG)
+4	Juistheid (artikel 5, lid 1, onderdeel d, AVG)
+5	Opslagbeperking (artikel 5, lid 1, onderdeel e, AVG)
+6	Integriteit en vertrouwelijkheid (artikel 5, lid 1, onderdeel f, AVG)
 
-Het is aan de verwerkingsverantwoordelijke om de naleving van deze beginselen aan te tonen. 
+Het is aan de verwerkingsverantwoordelijke om de naleving van deze beginselen aan te tonen. En de verwerkingsverantwoordelijke is de verstrekker van persoonsgegevens in deze context van de Who. De verzoeker van de overheidsinformatie heeft hierin (ook) zijn eigen verantwoordelijkheid. 
 
-Voor iedere verwerking van persoonsgegevens, waaronder het hergebruik, dient een geldige grondslag te zijn. De AVG bevat zes grondslagen, die als geldig zijn aangemerkt (artikel 6 AVG). Voor een dataprovider die overheidsinformatie ter beschikking stelt voor hergebruik zijn de volgende grondslagen het meest relevant: 
+Voor iedere verwerking van persoonsgegevens moet een geldige grondslag zijn. De AVG bevat zes grondslagen, die als geldig zijn aangemerkt (artikel 6 AVG). Voor een dataprovider die overheidsinformatie ter beschikking stelt voor hergebruik zijn de volgende grondslagen het meest relevant:
 
-•	De verwerking van persoonsgegevens is noodzakelijk om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust (Art. 6, eerste lid, onderdeel c, AVG)
-•	De verwerking van persoonsgegevens is noodzakelijk  voor de vervulling van een taak van algemeen belang of van een taak in het kader van de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen (Art. 6, eerste lid, onderdeel e, AVG).
+- De verwerking van persoonsgegevens is noodzakelijk om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust (Art. 6, eerste lid, onderdeel c, AVG)
+- De verwerking van persoonsgegevens is noodzakelijk  voor de vervulling van een taak van algemeen belang of van een taak in het kader van de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen (Art. 6, eerste lid, onderdeel e, AVG).
 
 Deze grondslagen zijn van toepassing, omdat de dataprovider op grond van de Wet hergebruik van overheidsinformatie in veel gevallen verplicht is om een verzoek om hergebruik te behandelen, om gegevens geschikt te maken voor hergebruik en om deze te verstrekken ten behoeve van hergebruik. In andere gevallen kent de Who geen verplichting, maar wel een bevoegdheid. In beide gevallen kan er een noodzaak zijn tot het verwerken van persoonsgegevens. 
 
-De dataprovider is als verwerkingsverantwoordelijke verplicht om passende maatregelen te nemen om de betrokkene transparantie informatie te verstrekken over de verwerking van diens persoonsgegevens in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal (artikelen 12-14 AVG).
+De dataprovider is als verwerkingsverantwoordelijke verplicht om passende maatregelen te nemen om de betrokkene transparante informatie te verstrekken over de verwerking van diens persoonsgegevens in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal (artikelen 12-14 AVG).
 
-Daarnaast heeft de betrokkene een aantal rechten ten aanzien van de eigen persoonsgegevens en kan hiertoe een verzoek indienen bij de Verwerkingsverantwoordelijke (artikelen 15-22 AVG). Het betreft de volgende rechten:
+Daarnaast heeft de betrokkene een aantal rechten ten aanzien van de eigen persoonsgegevens en kan hiertoe een verzoek indienen bij de verwerkingsverantwoordelijke (artikelen 15-22 AVG). Het betreft de volgende rechten:
 
-•	Recht van inzage
-•	Recht op rectificatie en aanvulling
-•	Recht op het wissen van gegevens
-•	Recht op beperking van de verwerking
-•	Recht op overdraagbaarheid van gegevens
-•	Recht niet onderworpen te worden aan geautomatiseerde besluitvorming
-•	Recht van bezwaar
+- Recht van inzage
+- Recht op rectificatie en aanvulling
+- Recht op het wissen van gegevens
+- Recht op beperking van de verwerking
+- Recht op overdraagbaarheid van gegevens
+- Recht niet onderworpen te worden aan geautomatiseerde besluitvorming
+- Recht van bezwaar
 
-Uitzonderingen op de transparantieverplichtingen en de rechten van betrokkenen kunnen van toepassing zijn op grond van de AVG, maar deze moeten strikt worden geïnterpreteerd. Informatie over de rechten van betrokkenen staat op de website van de Autoriteit Persoonsgegevens. 
+Uitzonderingen op de transparantieverplichtingen en de rechten van betrokkenen kunnen van toepassing zijn op grond van de AVG, maar deze moeten strikt worden geïnterpreteerd. Informatie over de rechten van betrokkenen staat op de website van de [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/uw-privacyrechten-gebruiken). 
 
 Mocht verwerking niet op een rechtmatige manier gebeuren, dan spreken we over een inbreuk op de AVG. Een inbreuk op de AVG kan onder meer leiden tot een boete van de Autoriteit Persoonsgegevens. De Open data richtlijn  maakt duidelijk dat  geen afbreuk aan de AVG mag worden gedaan. Dit is vastgelegd in artikel 1, lid 4, van de Richtlijn. Dit betekent dat ook met het hergebruik van overheidsinformatie er rekening gehouden moet worden met het eerlijk en rechtmatig verwerken van de persoonsgegevens van mensen. 
 
