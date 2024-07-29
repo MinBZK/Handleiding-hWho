@@ -1,4 +1,4 @@
-# Wettelijk kader 
+![image](https://github.com/user-attachments/assets/410140fc-140f-402d-a249-765266d28d49)![image](https://github.com/user-attachments/assets/335eb63b-ef5e-4600-b94d-a981720bd04c)# Wettelijk kader 
 
 ## Wettelijk kader
 
@@ -166,51 +166,35 @@ Openbare lichamen die inkomsten moeten krijgen om kostendekkend te werken voor d
 Bibliotheken, musea en archieven mogen de kostprijs hanteren voor het verzamelen, maken, vermenigvuldigen, verspreiden, opslaan, conserveren en vereffenen van rechten, en eventueel anonimiseren of treffen van andere maatregelen voor de bescherming van vertrouwelijke informatie met betrekking tot de documenten, vermeerderd met een redelijk rendement op investeringen.
 
 #### Hergebruik van gegevens in hoogwaardige datasets
-Ter ondersteuning van hergebruik van specifieke categorieën verzamelingen van hoogwaardige gegevens (onder de Richtlijn hoogwaardige datasets genoemd), geeft de Richtlijn mogelijkheid en de bevoegdheid om voorwaarden te creëren. De preambule van en de bijlage bij de Richtlijn noemen zes voornaamste soorten gegevens, met enkele voorbeelden hiervan: 
-- postcodes, nationale en lokale kaarten (geospatiale data), 
-- energieverbruik en satellietbeelden (aardobservatie en milieu), 
-- in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data), 
-- demografische en economische indicatoren (statistiek), 
-- handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en
-- verkeersborden en binnenwateren (mobiliteit).
-
-De Richtlijn geeft de bevoegdheid aan de Commissie om hier specifiekere regels over te geven. In de bijlage van Commissieuitvoeringsverordening 2023/138 (“HWDS”-verordening), gepubliceerd op 20 januari 2023, heeft de Commissie dan ook per categorie uitvoeriger aangegeven welke gegevens binnen het hoogwaardige datasetregime vallen. 
-
-Openbare lichamen moeten de gegevens hieruit:
-- via APIs beschikbaar stellen,
-- in machineleesbare formaten die beantwoorden aan de redelijke behoeften van hergebruikers. 
-- Mits aangegeven in de bijlage, moeten de openbare lichamen ze als bulksgewijze download beschikbaar stellen.
-Verder moeten zij: 
-- kwaliteitscriteria en documentatie publiceren voor het gebruik van en dienstverleningskwaliteitscriteria over de prestaties, capaciteit en beschikbaarheid van de API’s; 
-- een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid; 
-- in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
-
-Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de Richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-verordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen (??). 
+Voor dit onderdeel verwijzen we naar de pagina over de [HVDL Uitvoeringsverordening 2023/138](#hergebruik-gegevens-hoogwaardige-datasets-uitvoeringsverordening-2023138).
 
 #### Evaluatie
 Uiterlijk op 17 juli 2025 zal de Commissie de toepassing van de Open data Richtlijn evalueren en hierover verslag uitbrengen bij het Europees Parlement, de Raad en het Europees Economisch en Sociaal Comité.
 
 ### Overig relevante EU wetten voor de Open data richtlijn 
 #### Hergebruik gegevens hoogwaardige datasets (Uitvoeringsverordening 2023/138)
-Ter ondersteuning van hergebruik van specifieke verzamelingen van hoogwaardige gegevens (onder de Richtlijn hoogwaardige datasets genoemd), geeft de Richtlijn de bevoegdheid om voor deze lijst aan datasets voorwaarden vast te leggen. De preambule en de bijlage bij de Open data richtlijn  noemen de zes voornaamste soorten gegevens, met enkele voorbeelden hiervan: 
-•	postcodes, nationale en lokale kaarten (geospatiale data), 
-•	energieverbruik en satellietbeelden (aardobservatie en milieu), 
-•	in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data), 
-•	demografische en economische indicatoren (statistiek), 
-•	handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en
-•	verkeersborden en binnenwateren (mobiliteit).
+Ter ondersteuning van hergebruik van specifieke verzamelingen van hoogwaardige gegevens (onder de Richtlijn ‘hoogwaardige datasets’ genoemd), geeft de Richtlijn de bevoegdheid om voor deze lijst aan datasets voorwaarden vast te leggen. De preambule en de bijlage bij de Open data richtlijn noemen de zes voornaamste soorten gegevens, met enkele voorbeelden hiervan: 
 
-De Commissie publiceerde de Uitvoeringsverordening 2023/138 (de “HWDS”-uitvoeringsverordening)  hiervoor op 20 januari 2023. In de bijlage bij die Uitvoeringsverordening gaf zij per categorie uitvoeriger aan welke gegevens binnen het hoogwaardige datasetregime vallen. In navolging van artikel 14 van de Open data richtlijn , moeten openbare lichamen de gegevens hieruit:
-•	via APIs beschikbaar stellen,
-•	in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers. 
-•	Mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
+• postcodes, nationale en lokale kaarten (geospatiale data), 
+• energieverbruik en satellietbeelden (aardobservatie en milieu), 
+• in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data), 
+• demografische en economische indicatoren (statistiek), 
+• handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en 
+• verkeersborden en binnenwateren (mobiliteit).
+
+De Commissie publiceerde de Uitvoeringsverordening 2023/138 (de “HWDS”-uitvoeringsverordening) hiervoor op 20 januari 2023. In de bijlage bij die Uitvoeringsverordening gaf zij per categorie uitvoeriger aan welke gegevens binnen het hoogwaardige datasetregime vallen. In navolging van artikel 14 van de Open data richtlijn, moeten openbare lichamen de gegevens hieruit: 
+• via APIs beschikbaar stellen, 
+• in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers. 
+• Mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
 
 Verder moeten zij: 
-•	kwaliteitscriteria en documentatie publiceren voor het gebruik van en dienstverleningskwaliteitscriteria over de prestaties, capaciteit en beschikbaarheid van de API’s; 
-•	een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid; 
-•	in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
+• kwaliteitscriteria en documentatie publiceren voor het gebruik van en dienstverleningskwaliteitscriteria over de prestaties, capaciteit en beschikbaarheid van de API’s; 
+• een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid; 
+• in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
 
 Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de Richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-verordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
+
+De Who bevat geen bijzondere bepalingen over hoogwaardige gegevenssets in het algemeen, en neemt de verplichtingen uit de Richtlijn woordelijk over. Voor hoogwaardige datasets is ook de handreiking van Geonovum beschikbaar. 
 
 #### Richtlijn bescherming databanken (Richtlijn 96/9/EG)
 Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank aan te leggen, dan wel te onderhouden of te beheren, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9 (hierna “Databankenrichtlijn”). De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
@@ -282,3 +266,29 @@ Elke gebruiker krijgt het recht om gegevens over te dragen aan derden, voor zove
 ##### Verband met de Open data richtlijn 
 
 Overheidsinstanties mogen geen van de gegevens die zij verzoeken en verkrijgen onder de Dataverordening actief voor hergebruik beschikbaar maken, zie artikel 17 lid 3 Dv. Eventueel zouden ze de gegevens onder lid 4 kunnen uitwisselen met de andere overheidsinstanties, de Europese Commissie, ECB of een orgaan van de Unie, of derde partijen die technische inspecties of andere taken moeten verrichten onder eigen verantwoordelijkheid. Die derde partijen hebben zich aan de strikte vertrouwelijkheidsvoorwaarden uit artikel 19 Dv te houden. Zie ook overweging 70 uit de preambule.
+
+#### Richtlijn over de toegang van het publiek tot milieuinformatie
+
+Het recht op milieu-informatie is verankerd in verschillende regelgeving, zoals het Verdrag van Aarhus. Dit verdrag rust op drie pijlers: het recht op toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden. De Europese Unie is partij bij dit verdrag. Richtlijn 2003/4/EG regelt verder de toegang van het publiek tot milieu-informatie. Milieu-informatie omvat (artikel 2, lid 1) alle informatie in geschreven, visuele, auditieve, elektronische of enige andere materiële vorm over:
+
+a)	De toestand van elementen van het milieu. Denk hierbij aan: lucht en de atmosfeer, water, bodem, land en landschap, natuurgebieden met inbegrip van vochtige biotopen, kust- en zeegebieden, biologische diversiteit en haar componenten, met inbegrip van genetisch gemodificeerde organismen, en de interactie tussen deze elementen;
+b)	Factoren die bovenstaande elementen van het milieu aantasten of waarschijnlijk aantasten. Hierbij wordt gedoeld op stoffen, energie, geluid, straling of afval (ook radioactief afval), emissies, lozingen en ander vrijkomen van stoffen;
+c)	Maatregelen. Dit omvat beleidsmaatregelen, wetgeving, plannen, programma’s, milieu-akkoorden en activiteiten die op bovengenoemde elementen en factoren een uitwerking hebben of kunnen hebben;
+d)	Verslagen over de toepassing van de milieuwetgeving;
+e)	Kosten-baten- en andere economische analyses en veronderstellingen die worden gebruikt in het kader van de hierboven genoemde maatregelen en activiteiten;
+f)	De toestand van de gezondheid en veiligheid van de mens. Denk hierbij aan de verontreiniging van de voedselketen of waardevolle cultuurgebieden en bouwwerken, voor zover zij aangetast kunnen worden door de hierboven bedoelde toestand van elementen van het milieu of, via deze elementen, door het genoemde onder sub b of sub c.
+
+##### Verband met de Open data Richtlijn 
+De Open Data Richtlijn stelt minimumvoorschriften vast voor het hergebruik van documenten en informatie die in het bezit zijn van openbare lichamen van de staat. Aardobservatie en milieu wordt genoemd als categorie van een “hoogwaardige dataset”. In deze Richtlijn wordt dus het rechtskader geschetst voor het hergebruik van overheidsinformatie en ook deze specifieke verzamelingen aan hoogwaardige datasets. 
+
+#### Richtlijn Infrastructuur voor ruimtelijke informatie in de EU (INSPIRE)
+Een groot deel van alle informatie die overheidsinstanties gebruiken en met het publiek uitwisselen betreffen specifieke locaties. Voorbeelden zijn gegevens over landgebruik, vervoersnetwerken of beschermde gebieden. Ruimtelijke gegevens moeten derhalve beschikbaar zijn.
+
+Richtlijn 2007/2 legt het normenkader vast voor een infrastructuur onder het acroniem INSPIRE, waarbinnen overheden maatregelen moeten nemen om mogelijk te maken dat overheidsinstanties interoperabele ruimtelijke gegevens kunnen gebruiken en uitwisselen, evenals diensten kunnen gebruiken op het vlak van ruimtelijke gegevens op alle overheidsniveaus en over de grenzen van de sectoren heen in de Europese Unie.
+
+Milieugegevens zijn veelal van ruimtelijke aard, zoals emissiemetingen, biodiversiteitswaarnemingen of milieukwaliteitsgegevens. Het is belangrijk om deze gegevens te delen om zo verontreiniging van land, water en lucht tegen te gaan en het ontwerpen van programma’s en maatregelen hiervoor te ondersteunen.
+
+Nederland heeft deze Richtlijn geïmplementeerd in de [Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie](https://wetten.overheid.nl/BWBR0026158/), en het [Besluit Inspire](https://wetten.overheid.nl/BWBR0026601/2009-12-04).
+
+##### Verband met de Open data Richtlijn
+Openbare instanties moeten gegevens die vallen onder de INSPIRE-richtlijn ook voor hergebruik beschikbaar maken. In tegengestelde richting zouden openbare instanties op dezelfde manier als onder de INSPIRE-richtlijn andere gegevens kunnen verwerken, zodat ze overeenstemmen met de beginselen voor compatibiliteits- en bruikbaarheidsvereisten voor ruimtelijke informatie.
