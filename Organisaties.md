@@ -2,7 +2,7 @@ Nou# Organisaties en  gegevenscategorieën
 
 ## Welke organisaties vallen onder het begrip ‘met een publieke taak belaste instelling?
 
-Het begrip ‘met een publieke taak belaste instelling’ is de omzetting in nationaal recht van wat in Europese richtlijnen wordt omschreven als ‘openbaar lichaam’. Dit begrip en de definitie ervan is ontleend aan Europese aanbestedingsrichtlijnen 2014/23, 2014/24 en 2014/25 (zie Publicatieblad van de EU van 28 maart 2014, p. 1 resp, 65 en 243). Op grond van deze richtlijnen omvat een openbaar lichaam: 
+Het begrip ‘met een publieke taak belaste instelling’ is de omzetting in nationaal recht van wat in Europese richtlijnen wordt omschreven als ‘openbaar lichaam’. Dit begrip en de definitie ervan is ontleend aan Europese aanbestedingsrichtlijnen 2014/23, 2014/24 en 2014/25 (zie [Publicatieblad van de EU van 28 maart 2014](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=OJ:L:2014:094:TOC), p. 1 resp, 65 en 243). Op grond van deze richtlijnen omvat een openbaar lichaam: 
 - de staat;
 - zijn territoriale lichamen;
 - publiekrechtelijke instellingen;
