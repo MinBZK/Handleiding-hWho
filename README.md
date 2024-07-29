@@ -1,4 +1,4 @@
-## Handleiding Wet hergebruik overheidsinformatie
+## Handleiding herziene Wet hergebruik overheidsinformatie n.a.v. de Wet implementatie open data richtlijn
 Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft beleidscoördinerende eindverantwoordelijkheid voor de Who en deze handleiding.
 De ontwikkeling en het beheer van de handleiding gebeurt in samenwerking met andere departementen binnen de Rijksoverheid, het Nationaal Archief, de Vereniging van Nederlandse Gemeenten (VNG), het InterProvinciaal Overleg (IPO), de Unie van Waterschappen (UVW) en Kenniscentrum Europa Decentraal (KED). 
 
