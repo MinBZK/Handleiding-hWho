@@ -1,4 +1,4 @@
-# Organisaties en  gegevenscategorieën 
+Nou# Organisaties en  gegevenscategorieën 
 
 ## Welke organisaties vallen onder het begrip ‘met een publieke taak belaste instelling?
 
@@ -44,24 +44,7 @@ Verkeersinformatie kan dienen als een goed voorbeeld: die informatie is vooral n
 Dit type gegevens leent zich er bij uitstek voor om op basis van API’s beschikbaar te stellen.
 
 ## Wat zijn specifieke hoogwaardige gegevenssets?
-Een specifieke hoogwaardige gegevensset wordt ook wel aangeduid als ‘high value dataset’ (HVD): een specifieke set van waardevolle gegevens volgens de Open data Richtlijn. Deze gegevens zijn belangrijk voor de samenleving, het milieu en de economie omdat ze gebruikt kunnen worden om nieuwe diensten te ontwikkelen, banen te creëren en waarde toe te voegen. Er is een lijst vastgesteld van thematische categorieën van hoogwaardige gegevenssets. Deze lijst bevat de volgende categorieën: 
-
-1.	geospatiale data;
-2.	aardobservatie en milieu; 
-3.	meteorologische data;
-4.	statistiek;
-5.	bedrijven en eigendom van bedrijven; 
-6.	mobiliteit. 
-
-De Who bevat geen bijzondere bepalingen over hoogwaardige gegevenssets in het algemeen, maar wel over de specifieke hoogwaardige gegevenssets die in de HVD-uitvoeringsverordening staan. Een met een publieke taak belaste instelling of overheidsonderneming moet deze gegevenssets als volgt actief beschikbaar stellen voor hergebruik: 
-
-a.	via passende API’s die indien mogelijk zijn gebaseerd op formele open standaarden; 
-
-b.	in de vorm van bulksgewijze download, voor zover dit in de toepasselijke HVD-uitvoeringsverordening is voorgeschreven of past bij de aard van de gegevens en de manier waarop ze worden geproduceerd; 
-
-c.	en op een wijze die voldoet aan de eisen die in de toepasselijke HVD-uitvoeringsverordening aan die specifieke hoogwaardige gegevensset worden gesteld.
-
-Voor deze specifieke hoogwaardige datasets is een specifieke handreiking beschikbaar, opgesteld door Geonovum. Zie [hier](https://docs.geostandaarden.nl/eu/handreiking-hvd/)
+Voor dit onderdeel verwijzen we naar de pagina over de [HVDL Uitvoeringsverordening 2023/138](#hergebruik-gegevens-hoogwaardige-datasets-uitvoeringsverordening-2023138). 
 
 ## Software en broncode
 In Nederland valt software/computerprogrammatuur al sinds de implementatie van de eerste "wet open data"-richtlijn onder de hergebruikregels. Software kan pas volledig hergebruikt worden als de broncode toegankelijk is, (voor programmeurs) gemakkelijk te bewerken en gepubliceerd is onder een open source licentie. 
