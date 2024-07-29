@@ -5,6 +5,9 @@ elke inhoud of deelinhoud, ongeacht de gegevensdrager waar die (deel)inhoud op s
 
 Het documentbegrip uit de Wet implementatie Open data richtlijn verbindt zowel het documentbegrip uit de Richtlijn als dat uit de Woo. Het documentbegrip uit de Woo ziet namelijk op een door een orgaan, persoon of college als bedoeld in artikel 2.2, eerste lid Woo opgemaakt of ontvangen schriftelijk stuk of ander geheel van vastgelegde gegevens dat naar zijn aard verband houdt met de publieke taak van dat orgaan, die persoon of dat college. De Who sluit in zoverre bij dit begrip aan, maar voegt daaraan toe dat een deel van vastgelegde gegevens hieronder vallen, om aan te sluiten bij het documentbegrip uit de Open data richtlijn. Dit levert materieel geen verschil tussen de Woo en Who.
 
+**Hergebruik**:
+Hergebruik in de context van de Wet hergebruik van overheidsinformatie (Who) is het gebruik van reeds openbare gegevens die zich (meestal) bij een overheidsorganisatie bevinden, voor een ander doel dan waarvoor de gegevens oorspronkelijk zijn geproduceerd of verzameld.
+
 **Openbaar lichaam/met een publieke taak belaste instelling**: 
 zie de uitleg in de Handleiding 
 
