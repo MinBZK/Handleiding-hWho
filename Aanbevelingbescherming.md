@@ -5,11 +5,11 @@
 ### Bescherming privacy en persoonsgegevens van natuurlijke personen
 Persoonsgegevens kunnen onderdeel uitmaken van overheidsinformatie die beschikbaar wordt gesteld voor hergebruik. Persoonsgegevens zijn beschermd onder de AVG en het grondrecht op gegevensbescherming is ook gecodificeerd in artikel 8 van [het Handvest van de grondrechten van de Europese Unie](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:12012P/TXT) 
 
-Het doel van de Wet hergebruik overheidsinformatie is om openbare overheidsinformatie voor zo veel mogelijk doeleinden te kunnen hergebruiken. Voor gevoelige informatie zoals persoonsgegevens in openbare informatie geldt echter dat deze alleen verwerkt mogen worden als dat verenigbaar is met de doelen waarvoor ze verzameld zijn. Dit volgt uit het doelbindingsprincipe van de AVG en dit vormt de kern van het fundamentele recht op de bescherming van persoonsgegevens van natuurlijke personen.
+Het doel van de Wet hergebruik overheidsinformatie is om openbare overheidsinformatie voor zo veel mogelijk doeleinden te kunnen hergebruiken. Voor gevoelige informatie zoals persoonsgegevens in openbare informatie geldt echter dat deze niet verwerkt mogen worden in gevallen waarin het hergebruik wettelijk onverenigbaar is verklaard. Zie (verwijzen naar par. 10.1.4) en in andere gevallen alleen verwerkt mogen worden als dat verenigbaar is met de doelen waarvoor ze verzameld zijn. Dit volgt uit het doelbindingsprincipe van de AVG en dit vormt de kern van het fundamentele recht op de bescherming van persoonsgegevens van natuurlijke personen.
 
 Doelbinding en hergebruik zijn, voor persoonsgegevens, vaak elkaars tegenpolen. Dat betekent dat persoonsgegevens zich zeer beperkt lenen voor hergebruik. Dat is terecht, omdat hergebruik van persoonsgegevens kan leiden tot vele risico's voor de rechten en vrijheden van natuurlijke personen zoals misbruik, zoals doxing en identiteitsfraude.
  
-Niet ieder hergebruik van openbare persoonsgegevens is echter op voorhand uitgesloten. Omdat de wet toeziet op een zeer breed palet aan gegevens, is er ruimte nodig om daarover van geval tot geval een afweging te kunnen maken. Daarom geldt de hoofdregel dat hergebruik van persoonsgegevens aan de Algemene Verordening Gegevensbescherming (AVG) en in het bijzonder aan het doelbindingsprincipe van de AVG voldaan moet worden. Dat vergt een (onderbouwde) beoordeling van geval tot geval door de verantwoordelijke organisatie die persoonsgegevens ter beschikking stelt voor hergebruik. Zie ook de [de (algemene) informatie over de AVG](#algemene-verordening-gegevensbescherming-avg-en-uitvoeringswet-avg).
+Niet ieder hergebruik van openbare persoonsgegevens is echter op voorhand uitgesloten. Omdat de Who toeziet op een zeer breed palet aan gegevens, is er ruimte nodig om daarover van geval tot geval een afweging te kunnen maken. Daarom geldt de hoofdregel dat hergebruik van persoonsgegevens aan de Algemene Verordening Gegevensbescherming (AVG) en in het bijzonder aan het doelbindingsprincipe van de AVG voldaan moet worden. Dat vergt een (onderbouwde) beoordeling van geval tot geval door de verantwoordelijke organisatie die persoonsgegevens ter beschikking stelt voor hergebruik. Zie ook de [de (algemene) informatie over de AVG](#algemene-verordening-gegevensbescherming-avg-en-uitvoeringswet-avg).
  
 Dat kan praktisch betekenen dat overheidsinformatie geanonimiseerd of  gepseudonimiseerd moet worden om ervoor te zorgen dat het hergebruik van persoonsgegevens in lijn met de AVG is. Wanneer een dataprovider als Verwerkingsverantwoordelijke tot de conclusie komt dat bepaalde overheidsinformatie geanonimiseerd of voldoende gepseudonimiseerd is en voor hergebruik beschikbaar kan worden, is het aan te raden om deze onderbouwde conclusie vastleggen en bewaren.
 
@@ -18,13 +18,17 @@ De Who bevat een aantal aanvullende waarborgen om de persoonsgegevens van mensen
  
 
 ### Privacyrisico’s en uitvoeren DPIA 
-De uitvoering van de Who kan risico’s voor de rechten en vrijheden van natuurlijke personen opleveren. Volgens de AVG kunnen verwerkingsverantwoordelijken verplicht zijn om voor het beschikbaar stellen van persoonsgegevens een data protection impact assessment (DPIA) uit te voeren, wanneer het waarschijnlijk is dat er een hoog risico is voor de rechten en vrijheden van natuurlijke personen. Voor meer informatie over het bepalen of een DPIA verplicht is, zie de website van [de Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia).
+De uitvoering van de Who kan risico’s voor de rechten en vrijheden van natuurlijke personen opleveren. Op grond van de AVG kunnen Verwerkingsverantwoordelijken die overwegen om persoonsgegevens voor hergebruik beschikbaar te stellen, verplicht zijn om een data protection impact assessment (DPIA) uit te voeren, wanneer het waarschijnlijk is dat er een hoog risico is voor de rechten en vrijheden van natuurlijke personen.
+
+Voor meer informatie over het bepalen of een DPIA verplicht is, zie de website van [de Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia).
+
+Zie hier het [Model DPIA Rijksdienst](https://www.kcbr.nl/sites/default/files/2023-09/Model%20DPIA%20Rijksdienst%20v3.0.pdf) (Model DPIA Rijksdienst). 
 
 Verschillende risico’s kunnen waarschijnlijk zijn bij de uitvoering van de Who, waaronder maar niet beperkt tot, het faciliteren van profilering, bedreiging, stalking, afpersing, doxing; een gebrek aan transparantie en de uitvoering van de rechten van betrokkenen en re-identificatie na anonimisering of ongedaanmaking van pseudonimisering. 
 
 Het is van belang dat bij het openbaar maken van overheidsinformatie al rekening gehouden wordt met de mogelijkheid van hergebruik. Met hergebruik wordt overheidsinformatie, waaronder ook persoonsgegevens, nog toegankelijker gemaakt, voor een vooraf onbepaalde groep ontvangers. Zo kunnen privacyrisico’s door het (per ongeluk) foutief lakken van overheidsinformatie op grond van de Wet Open Overheid vergroot worden wanneer deze onder de Who voor hergebruik beschikbaar worden gesteld. 
 
-Het is aan de dataprovider als verwerkingsverantwoordelijke om een eigen beoordeling te maken en hier verantwoording over af te leggen.
+Het is aan de dataprovider als Verwerkingsverantwoordelijke om een eigen beoordeling te maken en hier verantwoording over af te leggen. Betrek volgens de eigen procedures en beleid een privacy officer en/ of de functionaris gegevensbescherming. 
 
 ### Persoonsgegevens in openbare registers	
 
@@ -51,10 +55,14 @@ In de [Memorie van Toelichting bij de Wet implementatie open data Richtlijn](htt
 ### Toepassen verenigbaarheidstoets persoonsgegevens (doelbinding)
 Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met het oorspronkelijke verzameldoel van de dataprovider moet rekening gehouden worden met in ieder geval de volgende factoren uit artikel 6, lid 4 AVG: 
 
-a.	ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
-b.	het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
-c.	de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
+a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
+
+b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
+
+c. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
+
 d.	de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen;
+
 e.	het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
 
 Hieronder wordt een toelichting gegeven op deze factoren en worden deze factoren toegepast op het hergebruik van persoonsgegevens volgens de Who:
