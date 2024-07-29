@@ -264,41 +264,21 @@ De Uitvoeringswet AVG vult de AVG nationaal aan en regelt onder andere de bevoeg
 
 #### Datagovernanceverordening en Uitvoeringswet Datagovernanceverordening
 
-De Datagovernanceverordening (Verordening 2022/868, hierna “Dgv”) is een specifieke wet die onder andere hergebruik regelt voor bepaalde gegevenscategorieën, een kader schept voor het aanbieden van databemiddelingsdiensten, en de verzameling en de verwerking van data voor altruïstische toewendingen regelt. Onder deze specifieke categorieën vallen gegevens die in het bezit zijn van openbare lichamen, waarop specifieke bescherming rust, zoals vertrouwelijkheid, IE-rechten, of persoonsgegevensbescherming, voor zover die laatste categorie buiten de Open data richtlijn  valt. 
+De Datagovernanceverordening (Verordening 2022/868, hierna “Dgv”) is een specifieke wet die onder andere hergebruik regelt voor bepaalde gegevenscategorieën, een kader schept voor het aanbieden van databemiddelingsdiensten, en de verzameling en de verwerking van data voor altruïstische aanwendingen regelt. Onder deze specifieke categorieën vallen gegevens die in het bezit zijn van openbare lichamen, waarop specifieke bescherming rust, zoals vertrouwelijkheid, IE-rechten, of persoonsgegevensbescherming, voor zover die laatste categorie buiten de Open data richtlijn  valt. 
 Omdat de EU wetgever van technieken kennis heeft genomen om op een veilige wijze voor hergebruik toegang te verlenen tot dergelijke gegevens, moeten dergelijke openbare lichamen zoveel mogelijk transparantie bieden in de procedures om dat te bewerkstelligen. Zie hiertoe bijvoorbeeld overweging 7 uit de preambule van de Dgv en artikel 7 lid 4 Dgv. Een belangrijke voorwaarde voor de toepasselijkheid van deze regels is dat de openbare lichamen “uit hoofde van het nationale recht bevoegd [moeten] zijn om de toegang tot een of meer [van deze] gegevenscategorieën met het oog op hergebruik te verlenen of te weigeren.” Zie hiertoe artikel 5 lid 1 Dgv. 
 De Dgv maakt uitdrukkelijk verbinding met de Open data richtlijn , door het toepassingsbereik van de Dgv strikt af te schermen van dat van de Open data richtlijn  (zie overwegingen 4 en 10 uit de preambule van de Dgv, evenals artikel 3 lid 11 aanhef en onder d Dgv), maar eenzelfde soort aanmoediging te gebruiken voor het voor hergebruik mogelijk maken van overheidsinformatie overeenkomstig het beginsel ‘open door ontwerp en standaardinstellingen’ (zie overweging 9 uit de preambule van de Dgv).
 
 ##### Uitvoeringswet Datagovernanceverordening
 
-Op 17 oktober 2023 heeft de regering aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn  en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter debat voor in de Tweede Kamer en is dus nog niet in werkinggetreden. 
+Op 17 oktober 2023 heeft de regering aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter behandeling voor in de Tweede Kamer en is dus nog niet in werking getreden. Op 14 maart 2024 lag het ter plenaire behandeling voor bij de Tweede Kamer.
 
 #### Dataverordening
 
-De Dataverordening (Verordening 2023/2854, hierna “Dv”) reguleert datastromen tussen gebruikers, makers, en aanbieders van digitale gegevens genererende en/of -verzamelende goederen en gerelateerde diensten en overheidsinstanties. 
+De Dataverordening (Verordening 2023/2854, hierna “Dv”) reguleert datastromen tussen gebruikers, makers, en aanbieders van digitale gegevens, genererende en/of -verzamelende goederen en gerelateerde diensten en overheidsinstanties. 
 De EU wetgever nam namelijk een groeiend aantal goederen en diensten in de EU waar die gegevens aanmaken op basis van waarneming, registratie en/of verzameling. De Dataverordening moet gegevensdeling voor die producten tussen aanbieders van zulke goederen en aanverwante diensten (“verbonden producten” aldus artikel 3 lid 1 Dv) zo eerlijk mogelijk laten verlopen. 
 In de geest van die eerlijkheid legt de Dataverordening sectoroverstijgende (horizontaal) basisnormen vast. Zo verplicht de Dv alle ontwerpers en makers van zulke apparaten  en gerelateerde dienstverleners de plicht om toegang te verzorgen tot de dataverwerkingsmogelijkheden van zulke producten. Die data omvat ook metagegevens. Bedrijven moeten die mogelijkheden voor persoonlijke gebruikers in de apparaten integreren, en de gebruiker over deze mogelijkheden vooraf adequaat informeren. Enkel in geval van potentiële ondermijning van de veiligheid, zou dit recht ingeperkt mogen worden.
 Elke gebruiker krijgt het recht om gegevens over te dragen aan derden, voor zover die derden geen poortwachters zijn onder de Digitalemarktenverordening (Verordening 2022/1925). Verder legt artikel 14 Dv de verplichting neer voor specifieke gegevenshouders (voornamelijk bedrijven) om in situaties van uitzonderlijke noodzaak aan overheidsinstanties, de Europese Commissie, de ECB of een Unie-orgaan al dan niet onmiddellijk inzicht te bieden in gegenereerde gegevens.
 
 ##### Verband met de Open data richtlijn 
 
-Overheidsinstanties mogen geen van de gegevens die zij verzoeken en verkrijgen onder de Dataverordening hebben actief voor hergebruik beschikbaar maken, zie artikel 17 lid 3 Dv. Eventueel zouden ze de gegevens onder lid 4 kunnen uitwisselen met de andere overheidsinstanties, de Europese Commissie, ECB of een orgaan van de Unie, of derde partijen die technische inspecties of andere taken moeten verrichten onder eigen verantwoordelijkheid. Die derde partijen hebben zich aan de strikte vertrouwelijkheidsvoorwaarden uit artikel 19 Dv te houden. Zie ook overweging 70 uit de preambule.
-
-####  Richtlijn Infrastructuur voor ruimtelijke informatie in de EU (Inspire)
-
-Richtlijn 2007/2
-Betekenis volgt.
-
-##### Verband met de Open data richtlijn 
-
-##### Richtlijn over de toegang van het publiek tot milieuinformatie
-
-Richtlijn 2003/4
-Betekenis volgt.
-
-##### Verband met de Open data richtlijn (volgt)
-
-####  Richtlijn aanbestedingen (2014/24)
-
-Betekenis volgt.
-
-##### Verband met de Open data richtlijn (volgt)
+Overheidsinstanties mogen geen van de gegevens die zij verzoeken en verkrijgen onder de Dataverordening actief voor hergebruik beschikbaar maken, zie artikel 17 lid 3 Dv. Eventueel zouden ze de gegevens onder lid 4 kunnen uitwisselen met de andere overheidsinstanties, de Europese Commissie, ECB of een orgaan van de Unie, of derde partijen die technische inspecties of andere taken moeten verrichten onder eigen verantwoordelijkheid. Die derde partijen hebben zich aan de strikte vertrouwelijkheidsvoorwaarden uit artikel 19 Dv te houden. Zie ook overweging 70 uit de preambule.
