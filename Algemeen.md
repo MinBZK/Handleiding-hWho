@@ -99,7 +99,7 @@ Zie hiervoor ook de [uitgebreide toelichting](#aanbevbes).
 
 In beginsel dient een verzoek te worden toegewezen. Er zijn echter enkele afwijzingsgronden. Een verzoek wordt afgewezen als het gaat om informatie die niet openbaar is of niet openbaar kan worden gemaakt. Ook kan informatie niet worden verstrekt als derden over de intellectuele eigendomsrechten beschikken in de zin van de Auteurswet, de Wet naburige rechten of de Databankenwet. Dit geldt ook voor informatie in een bibliotheek, museum of archief, waarvan de oorspronkelijk rechten bij een derde lagen volgens de Auteurswet, de Wet op de naburige rechten of de Databankenwet en waarvoor de beschermingstermijn nog niet is verstreken. 
 
-Bepaalde onderwerpen zijn uitgezonderd van de Who:
+Afwijzingsgronden zijn:
 - informatie van publieke omroepen;
 - informatie van onderwijs- en onderzoeksinstellingen, anders dan instellingen voor hoger onderwijs
 - informatie van andere culturele instellingen dan musea, bibliotheken en archieven;
@@ -108,7 +108,7 @@ Bepaalde onderwerpen zijn uitgezonderd van de Who:
 - informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebruik onverenigbaar is met de doeleinden waarvoor ze zijn verkregen, anders dan persoonsgegevens als bedoeld in het vorige onderdeel.
 
 ## Inspanningsverplichting
-De Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b van de Who vallen, ook zoveel als mogelijk beschikbaar te stellen voor hergebruik. Wanneer dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, en daarmee een redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van de Wet open overheid (hierna de Woo), op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
+Het voldoen aan de gestelde eisen in de Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b van de Who vallen, ook zoveel als mogelijk beschikbaar te stellen voor hergebruik. Wanneer dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, en daarmee een redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van Wet open overheid (hierna ‘de Woo’)., op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
 
 ## Wat zijn interessante praktijkvoorbeelden?
 Praktijkvoorbeelden zullen na verloop van tijd worden opgenomen in dit gedeelte van de handleiding.
