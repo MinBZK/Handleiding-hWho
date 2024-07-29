@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/410140fc-140f-402d-a249-765266d28d49)![image](https://github.com/user-attachments/assets/335eb63b-ef5e-4600-b94d-a981720bd04c)# Wettelijk kader 
-
 ## Wettelijk kader
 
 De kern van de wetgeving over hergebruik van gegevens / informatie in Nederland, wordt gevormd door de Wet hergebruik van overheidsinformatie (Who). Dat is een omzetting van de Europese Open data richtlijn  ([Richtlijn 2019/1024/EU](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L1024)). Naast de Who zijn nog een aantal andere wetten relevant voor hergebruik. Sommige betreffen alleen specifieke soorten gegevens en/of zijn alleen relevant voor specifieke organisaties. Andere zijn (bijna) altijd van belang bij het beschikbaar stellen van gegevens voor hergebruik. Om een scherp beeld te krijgen van het relevante wettelijke landschap, stipt deze handleiding ze hieronder kort aan.
