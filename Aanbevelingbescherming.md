@@ -18,7 +18,7 @@ De Who bevat een aantal aanvullende waarborgen om de persoonsgegevens van mensen
  
 
 ### Privacyrisico’s en uitvoeren DPIA 
-De uitvoering van de Who kan risico’s voor de rechten en vrijheden van natuurlijke personen opleveren. Volgens de AVG kunnen verwerkingsverantwoordelijken verplicht zijn om voor het beschikbaar stellen van persoonsgegevens een data protection impact assessment (DPIA) uit te voeren, wanneer het waarschijnlijk is dat er een hoog risico is voor de rechten en vrijheden van natuurlijke personen. Voor meer informatie over het bepalen of een DPIA verplicht is, zie de website van de  [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia).
+De uitvoering van de Who kan risico’s voor de rechten en vrijheden van natuurlijke personen opleveren. Volgens de AVG kunnen verwerkingsverantwoordelijken verplicht zijn om voor het beschikbaar stellen van persoonsgegevens een data protection impact assessment (DPIA) uit te voeren, wanneer het waarschijnlijk is dat er een hoog risico is voor de rechten en vrijheden van natuurlijke personen. Voor meer informatie over het bepalen of een DPIA verplicht is, zie de website van [de Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia).
 
 Verschillende risico’s kunnen waarschijnlijk zijn bij de uitvoering van de Who, waaronder maar niet beperkt tot, het faciliteren van profilering, bedreiging, stalking, afpersing, doxing; een gebrek aan transparantie en de uitvoering van de rechten van betrokkenen en re-identificatie na anonimisering of ongedaanmaking van pseudonimisering. 
 
