@@ -13,9 +13,9 @@ Lees voor meer informatie ook de pagina over [het wettelijk kader](#wetk).
 ## Welke organisaties vallen onder de Who?
 
 De Who en de Open data richtlijn  heeft betrekking op een breed scala aan overheidsorganisaties die in te delen zijn in de volgende categorieën:
-1.	met een publieke taak belaste instellingen;
-2.	overheidsondernemingen; 
-3.	publiek gefinancierde onderzoeksinstellingen, te weten: instellingen voor hoger onderwijs, onderzoeksinstellingen of instellingen die onderzoek financieren.
+1. met een publieke taak belaste instellingen;
+2. overheidsondernemingen;
+3. publiek gefinancierde onderzoeksinstellingen, te weten: instellingen voor hoger onderwijs, onderzoeksinstellingen of instellingen die onderzoek financieren.
 
 Lees meer over [de typen organisaties die onder de Who vallen](#alg3).
 
@@ -29,10 +29,10 @@ Het begrip “gegevens” heeft volgens de memorie van toelichting bij de Who in
 -	“Document” kan in praktijk ook beschouwd worden als synoniem van “gegevens”. Dat geldt zowel voor de Who als de Woo. De Archiefwet 1995 hanteert nog het begrip “archiefbescheiden”, met een afwijkende betekenis. Dat begrip wordt in de nieuwe Archiefwet vervangen door het begrip “document”, waarbij zoveel mogelijk aansluiting wordt gezocht bij de Woo.
 
 Voor de volgende categorieën gegevens geldt een bijzonder regime in de Who of de Open data richtlijn. Het gaat daarbij om: 
-1.	Onderzoeksgegevens;
-2.	Dynamische gegevens;
-3.	Gegevens uit specifieke hoogwaardige gegevenssets;
-4.	(Open source) software.
+1. Onderzoeksgegevens;
+2. Dynamische gegevens;
+3. Gegevens uit specifieke hoogwaardige gegevenssets;
+4. (Open source) software.
 
 Lees meer over [de categorieën die vallen onder de Who](#welke-gegevens-categorieen-vallen-onder-de-who).
 
