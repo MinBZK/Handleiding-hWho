@@ -2,7 +2,7 @@
 # Kosten en tarieven
 
 ## Regels voor de kosten
-Er zijn veel uitzonderingen op de hoofdregel dat bij terbeschikkingstelling geen of slechts marginale verstrekkingskosten in rekening worden gebracht. Onderzoeksgegevens die vallen onder artikel 5b Who moeten altijd kosteloos ter beschikking worden gesteld. Hierop bestaan geen uitzonderingen. Voor specifieke hoogwaardige gegevenssets die vallen onder artikel 5b geldt hetzelfde, hierop zijn echter wel een aantal uitzonderingen. Deze worden in de handleiding HVD van Geonovum toegelicht, zie hier [invoegen verwijzing]. 
+Er zijn veel uitzonderingen op de hoofdregel dat bij terbeschikkingstelling geen of slechts marginale verstrekkingskosten in rekening worden gebracht. Onderzoeksgegevens die vallen onder artikel 5b Who moeten altijd kosteloos ter beschikking worden gesteld. Hierop bestaan geen uitzonderingen. Voor specifieke hoogwaardige gegevenssets die vallen onder artikel 5b geldt hetzelfde, hierop zijn echter wel een aantal uitzonderingen. Deze worden in [de handreiking HVD van Geonovum](https://www.geonovum.nl/over-geonovum/actueel/europese-high-value-data-uitvoeringsverordening-van-kracht) toegelicht. 
 
 ## Tariefregels per type organisatie
 Hieronder worden de tariefregels per type organisatie uitgelegd.
