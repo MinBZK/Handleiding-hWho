@@ -33,7 +33,7 @@ Naast het hanteren van metadata standaarden is het verder nuttig om in te zetten
 - Het creëren van een zoekindex op basis van tekstgegevens en metagegevens.
 - De implementatie van enterprise search; een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie.
 - Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
-- Het garanderen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
+- Ervoor zorgen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
 
 ### Beschikbaarheid
 Omdat informatie voor verschillende doelen gebruikt en hergebruikt wordt is het nodig dat deze informatie zoveel mogelijk beschikbaar is in vormen die aansluiten bij de manieren van (her)gebruik. Bij voorkeur kan informatie snel, eenvoudig, op elk tijdstip, op elke plaats, zonder kosten en voor zoveel mogelijk afnemers beschikbaar gesteld worden. Informatie kan openbaar, deels openbaar of niet openbaar zijn. Informatie is soms niet openbaar, omdat deze onderdelen privacygevoelig is of de belangen van de overheid of bedrijven schaden. Een overheidsorganisatie hoeft deze onderdelen niet toegankelijk te maken voor externe afnemers. Van informatie die deels als openbaar is geclassificeerd, wordt het openbare deel ter beschikking gesteld. Bijvoorbeeld door informatie te anonimiseren of te pseudonimiseren.
