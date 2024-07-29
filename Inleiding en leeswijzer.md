@@ -25,7 +25,4 @@ Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft beleidscoörd
 
 Deze handleiding is ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, in samenwerking met andere departementen binnen de Rijksoverheid, het Nationaal Archief, de Vereniging van Nederlandse Gemeenten (VNG), het InterProvinciaal Overleg (IPO), de Unie van Waterschappen (UVW) en Kenniscentrum Europa Decentraal (KED). 
 
-Het beheer en doorontwikkeling van de handleiding zal plaatsvinden door dezelfde betrokken partijen.
-
-Zie paragraaf 13 voor meer informatie over de ontwikkeling, beheer en de organisatie van de handleiding. 
-
+Het [beheer en doorontwikkeling](README.md) van de handleiding zal plaatsvinden door dezelfde betrokken partijen.
