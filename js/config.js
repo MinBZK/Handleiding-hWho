@@ -18,7 +18,7 @@ let respecConfig = {
 //  previousPublishDate: "2022-06-24",
 //  previousPublishVersion: "0.0.4",
   
-  title: "Handleiding Herziene Who",
+  title: "Handleiding Herziene Who nav de Wet implementatie open data richtlijn",
 //  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
