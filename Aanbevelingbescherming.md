@@ -66,6 +66,7 @@ d.	de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokken
 e.	het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
 
 Hieronder wordt een toelichting gegeven op deze factoren en worden deze factoren toegepast op het hergebruik van persoonsgegevens volgens de Who:
+
 Ad. a:
 Bij hergebruik van persoonsgegevens is het de bedoeling dat de betreffende gegevens/documenten algemeen beschikbaar komen op data.overheid.nl en dat hergebruikers de gegevens verder kunnen gebruiken zonder zich te hoeven identificeren of toestemming hoeven te vragen. Dat betekent dat er vaak geen nauw verband zal zijn tussen het verzamel- en hergebruik doel. Bovendien hoeven hergebruikers geen belang of doel aan te geven. Dat maakt dat hergebruik van persoonsgegevens in veel gevallen onverenigbaar zal zijn, tenzij de overige factoren dit anders maken. 
 
