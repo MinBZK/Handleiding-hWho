@@ -49,7 +49,7 @@ Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
 -	Het implementeren van standaarden t.a.v. metadatering zoals MDTO
 -	Het nemen van maatregelen die concreet bijdragen aan verbeterde leesbaarheid en beschikbaarheid van informatie binnen jouw organisatie
   
-Bekijk [de aanbevelingen voor het duurzamer teogankelijk maken van overheidsinformatie](#aanbev).
+Bekijk [de aanbevelingen voor het duurzamer toegankelijk maken van overheidsinformatie](#aanbev).
 
 ## Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
 
