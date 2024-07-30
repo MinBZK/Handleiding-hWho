@@ -256,7 +256,7 @@ De Dgv maakt uitdrukkelijk verbinding met de Open data richtlijn , door het toep
 
 ##### Uitvoeringswet Datagovernanceverordening
 
-Op 17 oktober 2023 heeft de regering aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter behandeling voor in de Tweede Kamer en is dus nog niet in werking getreden. Op 14 maart 2024 lag het ter plenaire behandeling voor bij de Tweede Kamer.
+Op 17 oktober 2023 heeft de regering aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter behandeling voor in de Tweede Kamer en is dus nog niet in werking getreden.
 
 #### Dataverordening
 
