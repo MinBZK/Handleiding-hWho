@@ -87,7 +87,7 @@ let respecConfig = {
         companyURL: "https://unievanwaterschappen.nl/",
       },
     ],
-  github: "https://github.com/VNG-Realisatie/Handleiding-hWho",
+  github: "https://github.com/MinBZK/Handleiding-hWho",
 
   maxTocLevel: 2,
   
@@ -109,7 +109,7 @@ let respecConfig = {
     },
     nl_organisationName: "Samenwerking BZK, VNG, IPO, UvW, NA, KED",
     logos: [{
-        src: "https://vng-realisatie.github.io/VNG-R-Respec-Organization-configurations/media/Leeg.jpg",
+        src: "https://minbzk.github.io/BZK-R-Respec-Organization-configurations/media/Leeg.jpg",
         alt: "Geen logo",
         id: "",
         height: 77,
