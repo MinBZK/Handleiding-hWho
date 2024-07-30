@@ -1,4 +1,4 @@
-Nou# Organisaties en  gegevenscategorieën 
+# Organisaties en gegevenscategorieën 
 
 ## Welke organisaties vallen onder het begrip ‘met een publieke taak belaste instelling?
 
