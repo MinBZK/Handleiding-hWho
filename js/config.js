@@ -9,9 +9,9 @@ let respecConfig = {
   pubDomain: "hl",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
-  specStatus: "IO",
-  publishDate: "2024-6-19",
-  publishVersion: "0.9.0",
+  specStatus: "IG",
+  publishDate: "2024-7-30",
+  publishVersion: "1.0.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
 //  previousMaturity: "IO",
