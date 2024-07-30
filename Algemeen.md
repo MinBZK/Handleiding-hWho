@@ -117,4 +117,4 @@ Het voldoen aan de gestelde eisen in de Who bevat een inspanningsverplichting vo
 Praktijkvoorbeelden zullen na verloop van tijd worden opgenomen in dit gedeelte van de handleiding.
 
 ## Waar vind ik meer informatie?
-Naast deze handreiking zijn er andere nuttige websites en publicaties. Hiervan is een [overzicht](#meer) opgenomen. Zie onder andere de [Handleiding van Geonovum](https://docs.geostandaarden.nl/eu/handreiking-hvd/) betreffende de High Value Datasets.	
+Naast deze handreiking zijn er andere nuttige websites en publicaties. Zie onder andere de [Handleiding van Geonovum](https://docs.geostandaarden.nl/eu/handreiking-hvd/) betreffende de High Value Datasets.	
