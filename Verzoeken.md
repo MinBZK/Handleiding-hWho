@@ -3,7 +3,7 @@
 Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare lichamen 14 opeenvolgende vragen behandelen, namelijk:
 
 1.	Is er sprake van hergebruik in de zin van de Who? Zo nee, dan dient het verzoek te worden afgewezen. 
-Zie [paragraaf 1.1](#wat-is-het-wettelijk-kader-voor-hergebruik-van-overheidsinformatie).
+Zie hiervoor [het wettelijk kader](#wat-is-het-wettelijk-kader-voor-hergebruik-van-overheidsinformatie).
 
 2.	Is het verzoek gericht tot een met een publieke taak belaste instelling? Zo nee, dan dient het verzoek te worden afgewezen. 
 Zie [paragraaf 3.3](#welke-organisaties-vallen-onder-de-term-publiek-gefinancierde-onderzoeksorganisaties). 
