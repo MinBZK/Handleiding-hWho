@@ -6,7 +6,7 @@ Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare 
 Zie hiervoor [het wettelijk kader](#wat-is-het-wettelijk-kader-voor-hergebruik-van-overheidsinformatie).
 
 2.	Is het verzoek gericht tot een met een publieke taak belaste instelling? Zo nee, dan dient het verzoek te worden afgewezen. 
-Zie [paragraaf 3.3](#welke-organisaties-vallen-onder-de-term-publiek-gefinancierde-onderzoeksorganisaties). 
+Zie hiervoor [welke organisaties vallen onder het begrip "met een publieke taak belaste instelling"](#welke-organisaties-vallen-onder-het-begrip-met-een-publieke-taak-belaste-instelling). 
 
 3.	Is het verzoek afkomstig van een andere met een publieke taak belaste instelling? Zo ja, dan dient het verzoek te worden afgewezen. 
 De uitwisseling van informatie tussen met een publieke taak belaste instellingen onderling is geen hergebruik van overheidsinformatie in de zin van de Who. 
