@@ -14,9 +14,9 @@ let respecConfig = {
   publishVersion: "0.9.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
-//  previousMaturity: "IG",
-//  previousPublishDate: "2022-06-24",
-//  previousPublishVersion: "0.0.4",
+//  previousMaturity: "IO",
+//  previousPublishDate: "2024-6-19",
+//  previousPublishVersion: "0.9.0",
   
   title: "Handleiding Herziene Who nav de Wet implementatie open data richtlijn",
 //  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
