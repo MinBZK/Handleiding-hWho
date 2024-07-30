@@ -1,6 +1,6 @@
 # Wettelijk kader
 
-## Wettelijk kader
+## Overzicht
 
 De kern van de wetgeving over hergebruik van gegevens / informatie in Nederland, wordt gevormd door de Wet hergebruik van overheidsinformatie (Who). Dat is een omzetting van de Europese Open data richtlijn  ([Richtlijn 2019/1024/EU](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L1024)). Naast de Who zijn nog een aantal andere wetten relevant voor hergebruik. Sommige betreffen alleen specifieke soorten gegevens en/of zijn alleen relevant voor specifieke organisaties. Andere zijn (bijna) altijd van belang bij het beschikbaar stellen van gegevens voor hergebruik. Om een scherp beeld te krijgen van het relevante wettelijke landschap, stipt deze handleiding ze hieronder kort aan.
 
@@ -47,8 +47,8 @@ De Archiefwet verplicht overheidsorganen ‘zorg te dragen voor de vernietiging 
  
 Meer informatie over de Archiefwet is te vinden op de websites van de [Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid), het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/wet-en-regelgeving) en de [Vereniging van Nederlandse Gemeenten](https://vng.nl/artikelen/uitleg-archiefwet-1995).
 
-## Wat zijn de belangrijkste wijzigingen ten opzichte van de vorige wet?	
-De Wet implementatie Open data richtlijn (hierna: “Wiodr”) wijzigt de Who op een aantal punten.
+## Wat zijn de belangrijkste wijzigingen in de Who?	
+De Wet implementatie Open data richtlijn (hierna: “Wiodr”) wijzigt de Who op een aantal punten:
  
 - Beperken van in rekening te brengen kosten door het verlagen van barrières voor markttoegang tot overheidsinformatie;
 - Uitbreiden reikwijdte van organisaties die onder de Who vallen. Het toevoegen van meerdere organisaties vergroot de toegang tot gegevens, als ook biedt dit toegang tot nieuwe gegevens. Door het toevoegen van publieke en publiek gefinancierde gegevens onder de Who, zijn bijvoorbeeld gegevens van overheidsbedrijven opvraagbaar, met betrekking tot de transport- en nutssectoren, en ook onderzoeksgegevens waarvan de productie publiek gefinancierd is. Wel hebben deze instellingen vanwege hun bijzondere karakter een afwijkende positie;
@@ -57,10 +57,10 @@ De Wet implementatie Open data richtlijn (hierna: “Wiodr”) wijzigt de Who op
 -	Verplichtingen voor bepaalde datasets.	Het introduceren van een Europees vastgestelde lijst van Specifieke Hoogwaardige Datasets die in machinaal leesbaar formaat en kosteloos via API’s beschikbaar moeten worden gesteld;
 -	Extra waarborgen voor het beschermen van privacy en persoonsgegevens. Hergebruikers mogen de gegevens niet gebruiken om mensen te heridentificeren of pseudonimisering ongedaan te maken. Als hier een inbreuk op wordt gemaakt, dan moet dit worden teruggemeld aan de dataprovider, zodat hierop maatregelen kunnen worden genomen. Wanneer hergebruikers gegevens doorgeven aan derden, dan gelden die voorwaarden ook voor hen. Dataproviders kunnen bovendien aanvullende voorwaarden opleggen aan hergebruikers ter bescherming van persoonsgegevens.
 
-## EU-wetgeving
+## Open data richtlijn (Richtlijn 2019/1024)
 Deze sectie legt het Europeesrechtelijke kader uit omtrent hergebruik van overheidsinformatie. De focus ligt daarbij op Richtlijn 2019/1024, hierna “Open data Richtlijn ” genoemd. Allereerst geven we aan wat de betekenis en functie is van Richtlijnen in de Europese Unie en hoe deze zich verhouden tot het Nederlands recht. Vervolgens specificeren we de Open data Richtlijn en wat de praktische implicaties zijn van de Richtlijn voor de Who na omzetting via de Wiodr.
 
-### Functie Europese Richtlijnen
+### Achtergrond Europese Richtlijnen
 
 Artikel 288 van het [Verdrag betreffende de Werking van de Europese Unie](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:12012E/TXT) (hierna: “VWEU”) stelt vijf instrumenten ter beschikking om haar bevoegdheden uit te oefenen. Eén daarvan is de richtlijn, die het artikel als volgt definieert: “Een richtlijn is verbindend ten aanzien van het te bereiken resultaat voor elke lidstaat waarvoor zij bestemd is, doch aan de nationale instanties wordt de bevoegdheid gelaten vorm en middelen te kiezen.” 
  
@@ -73,12 +73,12 @@ De Wiodr vult deze tweede component in voor de Open data richtlijn. Voor de eers
 - Welke standaard legt de EU met de Open data Richtlijn? Waarom? 
 - Welke minimale eisen gelden aan de nationale wetgeving?
 
-### Herkomst EU wetten hergebruik 
+### Herkomst Open data richtlijn 
 
 De maatschappelijke waarde van overheidsinformatie staat al sinds 1999 op de Europese agenda. Verscheidene stappen lagen aan wetgeving ten grondslag. Als onderdeel van het actieplan e-Europa 2002 riep de Commissie op 8 december 1999 de Europese Raad op om “betere toegang tot de informatie van de overheidsdiensten” te realiseren. Op 23 en 24 maart 2000 nam de Europese Raad dit advies over, waarop de Raad van de Europese Unie (hierna “Raad”) op 25 maart 2002 de resolutie over het actieplan e-Europa aannam. Hierin drong de instelling aan op vergroting van de toegankelijkheid van openbare websites en de inhoud ervan. 
 Dit bracht de Commissie op 5 juni van datzelfde jaar tot het indienen van een voorstel tot een Richtlijn voor hergebruik en commerciële exploitatie van overheidsdocumenten. Een kleine anderhalf jaar later, op 17 november 2003, namen het Europees Parlement en de Raad de Eerste Richtlijn inzake het hergebruik van overheidsinformatie aan (Richtlijn 2003/98). Vergelijkbare procedures lagen ten grondslag aan de tweede (Richtlijn 2013/37) en aan de huidig geldende wet, Richtlijn 2019/1024.
 
-#### Richtlijn 2003/98 (vervallen)
+#### Eerste Richtlijn 2003/98 (vervallen)
 
 De eerste Richtlijn met betrekking tot het hergebruik van overheidsinformatie trad op 31 december 2003 in werking. Deze Richtlijn is algemeen aangeduid als de publieke sector informatie richtlijn (‘PSI-Richtlijn’). Hierin definieerde de Uniewetgever hergebruik als het gebruik door natuurlijke en rechtspersonen van door overheden aangemaakte informatie voor andere doeleinden (commercieel of niet-commercieel) dan het originele, en schepte de eerste normen om hergebruik te faciliteren. De voornaamste verplichtingen uit deze Richtlijn waren:
 - Een voorwaardelijke verplichting tot het voor hergebruik mogelijk maken van overheidsinformatie: lidstaten hadden onder de PSI-Richtlijn nog de expliciete mogelijkheid om hergebruik wettelijk uit te sluiten. 
@@ -88,7 +88,7 @@ De eerste Richtlijn met betrekking tot het hergebruik van overheidsinformatie tr
 - In beginsel was toegang tot hergebruik open voor éénieder en behelsde de Richtlijn een verbod op exclusiviteitsregelingen, met een in tijd beperkte uitzondering voor exploitanten van diensten van algemeen belang.
 Nederland nam deze bepalingen uit de Richtlijn op 22 december 2005 op in oud-hoofdstuk V-A van de Wet openbaarheid van bestuur (Wob).
 
-#### Richtlijn 2013/37 (vervallen)
+#### Tweede Richtlijn 2013/37 (vervallen)
 
 De herzieningsrichtlijn uit 2013 wijzigde Richtlijn 2003/98 op vier belangrijke punten:
 - De reikwijdte van de richtlijn breidde uit met enkele instellingen, namelijk (universiteits)bibliotheken, archieven en musea, maar bleef tot deze culturele instellingen beperkt. De reden hiervoor was dat hun verzamelingen waardevol materiaal bevat, terwijl andere culturele instellingen zoals orkesten, operahuizen, balletgezelschappen en theaters voornamelijk gebruikmaken van auteursrechtelijk beschermd materiaal.
@@ -98,7 +98,7 @@ De herzieningsrichtlijn uit 2013 wijzigde Richtlijn 2003/98 op vier belangrijke 
 
 Na de herziening van de Richtlijn en met de inwerkingtreding van de Who op 18 juli 2015 kwamen de artikelen in oud-hoofdstuk V-A van de Wob te vervallen.
 
-### Uitleg Open data richtlijn 
+### Hoger minimumharmonisatieniveau
 De Wiodr zet Richtlijn 2019/1024 om in de Nederlandse rechtsorde. Het Publicatieblad van de Europese Unie van 26 juni 2019 maakte de Richtlijn bekend. De Richtlijn trad vervolgens op 17 juli 2019 in werking, met een tweejarige omzettingstermijn. 
 De regels uit deze Richtlijn zijn volgens de Uniewetgever meer geschikt om tegemoet te komen aan de maatschappelijke veranderingen die machinaal leren, artificiële intelligentie en het internet der dingen (Engels: Internet of Things, IoT) met zich brengen (Het internet der dingen is het geheel aan apparaten ("dingen") dat via internetverbindingen met andere apparaten of systemen in contact staat en daarmee gegevens uitwisselen). Omdat lidstaten sinds de Richtlijnen uit 2003 en 2013 veelal hun beleid omtrent hergebruik ambitieuzer hebben ingestoken dan het minimumniveau uit die Richtlijnen, legt Richtlijn 2019/1024 een nieuw minimumharmonisatieniveau vast omtrent hergebruik. 
 
@@ -116,7 +116,7 @@ Verder legitimeert de Richtlijn:
 #### Openbare lichamen, overheidsondernemingen en specifieke culturele instellingen
 De normen uit de Open data Richtlijn gelden voor openbare lichamen van de lidstaten, specifieke overheidsondernemingen, en bibliotheken (met inbegrip van universiteitsbibliotheken), musea en archieven. Openbare lichamen zijn alle (de)centrale overheidsinstanties, publiekrechtelijke instellingen en/of samenwerkingsverbanden hiertussen. Overige culturele instellingen, ongeacht hun publiekrechtelijke status, vallen buiten de verplichtingen van de Richtlijn.
 
-#### Overheidsinformatie - toepassingsbereik Richtlijn
+#### Overheidsinformatie - toepassingsbereik
 De Richtlijn gebruikt verschillende termen om naar overheidsinformatie te verwijzen. Primair geldt de Richtlijn voor “documenten”, en voor “met overheidsmiddelen gefinancierde onderzoeksgegevens”. Voor de definitie van documenten, zie de [definitiepagina](#stap2).
 
 Verder geldt de Richtlijn alleen als openbare lichamen documenten aanmaken of verkrijgen in lijn met de wettelijke taken die zij uitvoeren, en blijft zij buiten toepassing voor een aantal specifieke soorten documenten en voor logo’s, wapens en insignes. Deze zijn terug te vinden in artikel 1 lid 2 van de [Open data Richtlijn] (https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L1024).
@@ -196,7 +196,7 @@ Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lids
 
 De Who bevat geen bijzondere bepalingen over hoogwaardige gegevenssets in het algemeen, en neemt de verplichtingen uit de Richtlijn woordelijk over. Voor hoogwaardige datasets is ook de handreiking van Geonovum beschikbaar. 
 
-### Richtlijn bescherming databanken (Richtlijn 96/9/EG)
+### Richtlijn bescherming databanken (Richtlijn 96/9)
 Omdat met een handomdraai informatie uit databanken te filteren en te halen is, maar het in verhouding daartoe een stuk ingewikkelder en arbeidsintensiever is om een dergelijke databank aan te leggen, dan wel te onderhouden of te beheren, legden het Europees Parlement, de Raad en de Europese Commissie in 1996 het recht vast voor fabrikanten van databases om hergebruik of zonder meer opvragen van gegevens hiertoe te beperken. Dat recht staat geregeld in Richtlijn 96/9. De Nederlandse wetgever implementeerde deze richtlijn in de Databankenwet.
 
 De Open data richtlijn is van invloed op de uitoefening van dit recht uit de Databankenwet. In artikel 1 lid 6 van de Open data richtlijn staat een beperking op het artikel 7 lid 1 van fabrikanten van databanken om gebruik door derden te weren. Voor zover fabrikanten dit recht hebben, mogen zij dat niet uitoefenen om hergebruik tegen te gaan of te beperken buiten de grenzen die de Open data richtlijn  aangeeft. 
@@ -244,9 +244,7 @@ Uitzonderingen op de transparantieverplichtingen en de rechten van betrokkenen k
 
 Mocht verwerking niet op een rechtmatige manier gebeuren, dan spreken we over een inbreuk op de AVG. Een inbreuk op de AVG kan onder meer leiden tot een boete van de Autoriteit Persoonsgegevens. De Open data richtlijn  maakt duidelijk dat  geen afbreuk aan de AVG mag worden gedaan. Dit is vastgelegd in artikel 1, lid 4, van de Richtlijn. Dit betekent dat ook met het hergebruik van overheidsinformatie er rekening gehouden moet worden met het eerlijk en rechtmatig verwerken van de persoonsgegevens van mensen. 
 
-#### UAVG
-
-De Uitvoeringswet AVG vult de AVG nationaal aan en regelt onder andere de bevoegdheden van de Autoriteit Persoonsgegevens, uitzonderingen op het verwerkingsverbod van bijzondere persoonsgegevens en strafrechtelijke gegevens, en biedt rechtsbescherming en uitzonderingen op de rechten van betrokkenen. Ook worden specifieke, afwijkende regelingen getroffen voor onder andere verwerkingen ten behoeve van journalistieke doeleinden en academische, artistieke of literaire uitdrukkingsvormen, wetenschappelijk onderzoek of statistiek, archivering, wettelijke identificatienummers zoals het BSN. 
+De Nederlandse Uitvoeringswet AVG vult de AVG aan en regelt onder andere de bevoegdheden van de Autoriteit Persoonsgegevens, uitzonderingen op het verwerkingsverbod van bijzondere persoonsgegevens en strafrechtelijke gegevens, en biedt rechtsbescherming en uitzonderingen op de rechten van betrokkenen. Ook worden specifieke, afwijkende regelingen getroffen voor onder andere verwerkingen ten behoeve van journalistieke doeleinden en academische, artistieke of literaire uitdrukkingsvormen, wetenschappelijk onderzoek of statistiek, archivering, wettelijke identificatienummers zoals het BSN. 
 
 ### Datagovernanceverordening en Uitvoeringswet Datagovernanceverordening
 
@@ -254,9 +252,7 @@ De Datagovernanceverordening (Verordening 2022/868, hierna “Dgv”) is een spe
 Omdat de EU wetgever van technieken kennis heeft genomen om op een veilige wijze voor hergebruik toegang te verlenen tot dergelijke gegevens, moeten dergelijke openbare lichamen zoveel mogelijk transparantie bieden in de procedures om dat te bewerkstelligen. Zie hiertoe bijvoorbeeld overweging 7 uit de preambule van de Dgv en artikel 7 lid 4 Dgv. Een belangrijke voorwaarde voor de toepasselijkheid van deze regels is dat de openbare lichamen “uit hoofde van het nationale recht bevoegd [moeten] zijn om de toegang tot een of meer [van deze] gegevenscategorieën met het oog op hergebruik te verlenen of te weigeren.” Zie hiertoe artikel 5 lid 1 Dgv. 
 De Dgv maakt uitdrukkelijk verbinding met de Open data richtlijn , door het toepassingsbereik van de Dgv strikt af te schermen van dat van de Open data richtlijn  (zie overwegingen 4 en 10 uit de preambule van de Dgv, evenals artikel 3 lid 11 aanhef en onder de Dgv), maar eenzelfde soort aanmoediging te gebruiken voor het voor hergebruik mogelijk maken van overheidsinformatie overeenkomstig het beginsel ‘open door ontwerp en standaardinstellingen’ (zie overweging 9 uit de preambule van de Dgv).
 
-#### Uitvoeringswet Datagovernanceverordening
-
-Op 17 oktober 2023 heeft de regering aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter behandeling voor in de Tweede Kamer en is dus nog niet in werking getreden.
+Voor wat betreft de uitvoering van de Datagovernanceverordening, heeft de Nederlandse regering op 17 oktober 2023 aan de tweede kamer een voorstel gepresenteerd voor de Nederlandse Uitvoeringswet Datagovernanceverordening, waarin ze het afgeschermde bereik van de Open data richtlijn en de Datagovernanceverordening beaamt. Het wetsvoorstel ligt ten tijde van het schrijven van deze handleiding nog ter behandeling voor in de Tweede Kamer en is dus nog niet in werking getreden.
 
 ### Dataverordening
 
@@ -265,9 +261,7 @@ De EU wetgever nam namelijk een groeiend aantal goederen en diensten in de EU wa
 In de geest van die eerlijkheid legt de Dataverordening sectoroverstijgende (horizontaal) basisnormen vast. Zo verplicht de Dv alle ontwerpers en makers van zulke apparaten  en gerelateerde dienstverleners de plicht om toegang te verzorgen tot de dataverwerkingsmogelijkheden van zulke producten. Die data omvat ook metagegevens. Bedrijven moeten die mogelijkheden voor persoonlijke gebruikers in de apparaten integreren, en de gebruiker over deze mogelijkheden vooraf adequaat informeren. Enkel in geval van potentiële ondermijning van de veiligheid, zou dit recht ingeperkt mogen worden.
 Elke gebruiker krijgt het recht om gegevens over te dragen aan derden, voor zover die derden geen poortwachters zijn onder de Digitalemarktenverordening (Verordening 2022/1925). Verder legt artikel 14 Dv de verplichting neer voor specifieke gegevenshouders (voornamelijk bedrijven) om in situaties van uitzonderlijke noodzaak aan overheidsinstanties, de Europese Commissie, de ECB of een Unie-orgaan al dan niet onmiddellijk inzicht te bieden in gegenereerde gegevens.
 
-#### Verband met de Open data richtlijn 
-
-Overheidsinstanties mogen geen van de gegevens die zij verzoeken en verkrijgen onder de Dataverordening actief voor hergebruik beschikbaar maken, zie artikel 17 lid 3 Dv. Eventueel zouden ze de gegevens onder lid 4 kunnen uitwisselen met de andere overheidsinstanties, de Europese Commissie, ECB of een orgaan van de Unie, of derde partijen die technische inspecties of andere taken moeten verrichten onder eigen verantwoordelijkheid. Die derde partijen hebben zich aan de strikte vertrouwelijkheidsvoorwaarden uit artikel 19 Dv te houden. Zie ook overweging 70 uit de preambule.
+De Dataverordening vormt een uitzondering op de Open data Richtlijn. Overheidsinstanties mogen namelijk geen van de gegevens die zij verzoeken en verkrijgen onder de Dataverordening actief voor hergebruik beschikbaar maken, zie artikel 17 lid 3 Dv. Eventueel zouden ze de gegevens onder lid 4 kunnen uitwisselen met de andere overheidsinstanties, de Europese Commissie, ECB of een orgaan van de Unie, of derde partijen die technische inspecties of andere taken moeten verrichten onder eigen verantwoordelijkheid. Die derde partijen hebben zich aan de strikte vertrouwelijkheidsvoorwaarden uit artikel 19 Dv te houden. Zie ook overweging 70 uit de preambule.
 
 ### Richtlijn over de toegang van het publiek tot milieuinformatie
 
@@ -280,17 +274,13 @@ d)	Verslagen over de toepassing van de milieuwetgeving;
 e)	Kosten-baten- en andere economische analyses en veronderstellingen die worden gebruikt in het kader van de hierboven genoemde maatregelen en activiteiten;
 f)	De toestand van de gezondheid en veiligheid van de mens. Denk hierbij aan de verontreiniging van de voedselketen of waardevolle cultuurgebieden en bouwwerken, voor zover zij aangetast kunnen worden door de hierboven bedoelde toestand van elementen van het milieu of, via deze elementen, door het genoemde onder sub b of sub c.
 
-#### Verband met de Open data Richtlijn 
 De Open Data Richtlijn stelt minimumvoorschriften vast voor het hergebruik van documenten en informatie die in het bezit zijn van openbare lichamen van de staat. Aardobservatie en milieu wordt genoemd als categorie van een “hoogwaardige dataset”. In deze Richtlijn wordt dus het rechtskader geschetst voor het hergebruik van overheidsinformatie en ook deze specifieke verzamelingen aan hoogwaardige datasets. 
 
 ### Richtlijn Infrastructuur voor ruimtelijke informatie in de EU (INSPIRE)
-Een groot deel van alle informatie die overheidsinstanties gebruiken en met het publiek uitwisselen betreffen specifieke locaties. Voorbeelden zijn gegevens over landgebruik, vervoersnetwerken of beschermde gebieden. Ruimtelijke gegevens moeten derhalve beschikbaar zijn.
-
-Richtlijn 2007/2 legt het normenkader vast voor een infrastructuur onder het acroniem INSPIRE, waarbinnen overheden maatregelen moeten nemen om mogelijk te maken dat overheidsinstanties interoperabele ruimtelijke gegevens kunnen gebruiken en uitwisselen, evenals diensten kunnen gebruiken op het vlak van ruimtelijke gegevens op alle overheidsniveaus en over de grenzen van de sectoren heen in de Europese Unie.
+Een groot deel van alle informatie die overheidsinstanties gebruiken en met het publiek uitwisselen betreffen specifieke locaties. Voorbeelden zijn gegevens over landgebruik, vervoersnetwerken of beschermde gebieden. Ruimtelijke gegevens moeten daarom beschikbaar zijn. Richtlijn 2007/2 legt het normenkader vast voor een infrastructuur onder het acroniem INSPIRE, waarbinnen overheden maatregelen moeten nemen om mogelijk te maken dat overheidsinstanties interoperabele ruimtelijke gegevens kunnen gebruiken en uitwisselen, evenals diensten kunnen gebruiken op het vlak van ruimtelijke gegevens op alle overheidsniveaus en over de grenzen van de sectoren heen in de Europese Unie.
 
 Milieugegevens zijn veelal van ruimtelijke aard, zoals emissiemetingen, biodiversiteitswaarnemingen of milieukwaliteitsgegevens. Het is belangrijk om deze gegevens te delen om zo verontreiniging van land, water en lucht tegen te gaan en het ontwerpen van programma’s en maatregelen hiervoor te ondersteunen.
 
 Nederland heeft deze Richtlijn geïmplementeerd in de [Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie](https://wetten.overheid.nl/BWBR0026158/), en het [Besluit Inspire](https://wetten.overheid.nl/BWBR0026601/2009-12-04).
 
-#### Verband met de Open data Richtlijn
-Openbare instanties moeten gegevens die vallen onder de INSPIRE-richtlijn ook voor hergebruik beschikbaar maken. In tegengestelde richting zouden openbare instanties op dezelfde manier als onder de INSPIRE-richtlijn andere gegevens kunnen verwerken, zodat ze overeenstemmen met de beginselen voor compatibiliteits- en bruikbaarheidsvereisten voor ruimtelijke informatie.
+De Open data Richtlijn en de INSPIRE-richtlijn beïnvloeden elkaar. Openbare instanties moeten namelijk gegevens die vallen onder de INSPIRE-richtlijn ook voor hergebruik beschikbaar maken. In tegengestelde richting zouden openbare instanties op dezelfde manier als onder de INSPIRE-richtlijn andere gegevens kunnen verwerken, zodat ze overeenstemmen met de beginselen voor compatibiliteits- en bruikbaarheidsvereisten voor ruimtelijke informatie. De Open data Richtlijn suggereert dit rechtstreeks, onder overweging 34 uit de preambule. 
