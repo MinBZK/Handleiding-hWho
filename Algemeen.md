@@ -24,9 +24,9 @@ Lees meer over [de typen organisaties die onder de Who vallen](#alg3).
 In principe valt alles dat op een medium kan worden opgeslagen onder de reikwijdte van de Who en de Open data richtlijn. Of het nu papier of digitaal is. 
 
 Het begrip “gegevens” heeft volgens de memorie van toelichting bij de Who in de praktijk nagenoeg dezelfde betekenis als de begrippen “data”, “informatie” en “document”:
--	“Data” en “gegevens” zijn synoniemen, waarbij “data” van origine Engels is en “gegevens” het Nederlandse woord is voor hetzelfde begrip.
--	“Informatie” betekent doorgaans gegevens die betekenis en dus enig nut of enige waarde hebben voor de ontvanger ervan. Een verzoeker hoeft voor het indienen van een Who-verzoek echter geen belang aan te tonen. Het begrip “informatie” kan in de Who-wetspraktijk beschouwd worden als synoniem van “gegevens”.
--	“Document” kan in praktijk ook beschouwd worden als synoniem van “gegevens”. Dat geldt zowel voor de Who als de Woo. De Archiefwet 1995 hanteert nog het begrip “archiefbescheiden”, met een afwijkende betekenis. Dat begrip wordt in de nieuwe Archiefwet vervangen door het begrip “document”, waarbij zoveel mogelijk aansluiting wordt gezocht bij de Woo.
+- Data” en “gegevens” zijn synoniemen, waarbij “data” van origine Engels is en “gegevens” het Nederlandse woord is voor hetzelfde begrip.
+- Informatie” betekent doorgaans gegevens die betekenis en dus enig nut of enige waarde hebben voor de ontvanger ervan. Een verzoeker hoeft voor het indienen van een Who-verzoek echter geen belang aan te tonen. Het begrip “informatie” kan in de Who-wetspraktijk beschouwd worden als synoniem van “gegevens”.
+- Document” kan in praktijk ook beschouwd worden als synoniem van “gegevens”. Dat geldt zowel voor de Who als de Woo. De Archiefwet 1995 hanteert nog het begrip “archiefbescheiden”, met een afwijkende betekenis. Dat begrip wordt in de nieuwe Archiefwet vervangen door het begrip “document”, waarbij zoveel mogelijk aansluiting wordt gezocht bij de Woo.
 
 Voor de volgende categorieën gegevens geldt een bijzonder regime in de Who of de Open data richtlijn. Het gaat daarbij om: 
 1. Onderzoeksgegevens;
@@ -38,7 +38,7 @@ Lees meer over [de categorieën die vallen onder de Who](#alg3).
 
 Wel gelden er uitzonderingsgronden waarmee overheidsorganisaties bepaalde gegevens of gegevens van bepaalde organisaties kunnen uitsluiten van hergebruik. 
 
-Lees hiermeer over de mogelijke [afwijzingsgronden voor hergebruik](#wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen).
+Lees hier meer over de mogelijke [afwijzingsgronden voor hergebruik](#wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen).
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
