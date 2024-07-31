@@ -49,4 +49,4 @@ graph TD
 ```
 
 <figcaption>Het Stappenplan</figcaption>
-</figure>
+</figure><br/><br/>
