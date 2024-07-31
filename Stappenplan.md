@@ -46,5 +46,7 @@ graph TD
     P("<b>14.</b>Is het hergebruik van openbare persoonsgegevens <br/>verenigbaar met oorspronkelijk doel waarvoor <br/>de (overheids-) organisatie de persoonsgegevens <br/>verzameld en/of openbaar gemaakt heeft?")--Ja-->AC("<b>Wijs het verzoek toe</b>")
 
 
-
 ```
+
+<figcaption>Het Stappenplan</figcaption>
+</figure>
