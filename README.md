@@ -42,7 +42,7 @@ Er worden verschillende manieren georganiseerd waarop deze stakeholders input ku
 - Andere vormen van deelname worden in een later stadium bekend gemaakt.
 
 ### Werk en publicatieomgeving 
-Op dit moment wordt er gewerkt in de Github-omgeving van de VNG. Dit zal zo blijven totdat deze huidige handleiding is geactualiseerd. Vervolgens wordt de handleiding ondergebracht binnen de Github-omgeving van het ministerie BZK. Open-overheid.nl is de plek waar de geactualiseerde handleiding voorlopig wordt gepubliceerd. De handleiding blijft in beheer van het ministerie BZK en wordt op termijn gepubliceerd op data.overheid.nl.
+De handleiding is ondergebracht binnen de Github-omgeving van het ministerie BZK. Open-overheid.nl is de plek waar de geactualiseerde handleiding voorlopig wordt gepubliceerd. De handleiding blijft in beheer van het ministerie BZK en wordt op termijn gepubliceerd op data.overheid.nl.
 
 
 
