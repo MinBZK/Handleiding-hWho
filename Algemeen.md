@@ -34,11 +34,11 @@ Voor de volgende categorieën gegevens geldt een bijzonder regime in de Who of d
 3. Gegevens uit specifieke hoogwaardige gegevenssets;
 4. (Open source) software.
 
-Lees meer over [de categorieën die vallen onder de Who](#welke-gegevens-categorieen-vallen-onder-de-who).
+Lees meer over [de categorieën die vallen onder de Who](#alg3).
 
 Wel gelden er uitzonderingsgronden waarmee overheidsorganisaties bepaalde gegevens of gegevens van bepaalde organisaties kunnen uitsluiten van hergebruik. 
 
-Lees [de mogelijke afwijzingsgronden voor hergebruik](#wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen).
+Lees hiermeer over de mogelijke [afwijzingsgronden voor hergebruik](#wat-zijn-mogelijke-gronden-om-een-verzoek-om-hergebruik-af-te-wijzen).
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
