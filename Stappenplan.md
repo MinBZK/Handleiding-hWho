@@ -1,7 +1,7 @@
 # Stappenplan
 ## Stappenplan <b>[UNDER CONSTRUCTION]</b>
 
-<figure style="height: 100%;">
+<figure style="height: 500%;">
     
 ```mermaid
 
