@@ -5,7 +5,7 @@
     
 ```mermaid
 
-%%{ init: { 'theme': 'elk', 'themeVariables': { 'fontSize': '32px', 'fontFamily': 'Arial' }}}%%
+
 graph TD
     A([Start])---->B("<b>1.</b><br/>Is er sprake van hergebruik in de zin van de Who?<br/>Zie paragraaf 3.1.")
     B("<b>1.</b>Is er sprake van hergebruik in de zin van de Who?<br/>Zie paragraaf 3.1.")--Nee-->L("<b>Wijs het verzoek af</b>")
