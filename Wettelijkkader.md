@@ -166,7 +166,7 @@ Openbare lichamen die inkomsten moeten krijgen om kostendekkend te werken voor d
 Bibliotheken, musea en archieven mogen de kostprijs hanteren voor het verzamelen, maken, vermenigvuldigen, verspreiden, opslaan, conserveren en vereffenen van rechten, en eventueel anonimiseren of treffen van andere maatregelen voor de bescherming van vertrouwelijke informatie met betrekking tot de documenten, vermeerderd met een redelijk rendement op investeringen.
 
 #### Hergebruik van gegevens in hoogwaardige datasets
-Voor dit onderdeel verwijzen we naar de pagina over de [HVDL Uitvoeringsverordening 2023/138](#hergebruik-gegevens-hoogwaardige-datasets-uitvoeringsverordening-2023138).
+Voor dit onderdeel verwijzen we naar de pagina over de [HVDL Uitvoeringsverordening 2023/138](#hergebruik-gegevens-hoogwaardige-datasets-uitvoeringsverordening-2023-138).
 
 #### Evaluatie
 Uiterlijk op 17 juli 2025 zal de Commissie de toepassing van de Open data Richtlijn evalueren en hierover verslag uitbrengen bij het Europees Parlement, de Raad en het Europees Economisch en Sociaal Comité.
