@@ -16,10 +16,5 @@ graph TD
 ```
 
 
-
-
-
-
-
 <figcaption>Het Stappenplan <UNDER CONSTRUCTION> </figcaption>
 </figure><br/><br/>
