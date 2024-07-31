@@ -45,7 +45,7 @@ Verkeersinformatie kan dienen als een goed voorbeeld: die informatie is vooral n
 Dit type gegevens leent zich er bij uitstek voor om op basis van API’s beschikbaar te stellen.
 
 ## Wat zijn specifieke hoogwaardige gegevenssets?
-Voor dit onderdeel verwijzen we naar de pagina over de [HVDL Uitvoeringsverordening 2023/138](#hergebruik-gegevens-hoogwaardige-datasets-uitvoeringsverordening-2023138). 
+Voor dit onderdeel verwijzen we naar de pagina over de [HVDL Uitvoeringsverordening 2023/138](#hergebruik-gegevens-hoogwaardige-datasets-uitvoeringsverordening-2023-138). 
 
 ## Software en broncode
 In Nederland valt software/computerprogrammatuur al sinds de implementatie van de [eerste Open data Richtlijn](#richtlijn-200398-vervallen) onder de hergebruikregels. Software kan pas volledig hergebruikt worden als de broncode toegankelijk is, (voor programmeurs) gemakkelijk te bewerken en gepubliceerd is onder een open source licentie. 
