@@ -46,5 +46,5 @@ De Who is niet van toepassing op deze persoonsgegevens, tenzij bij AMvB of bij o
 
 Het is aan te raden om deze conclusie en de onderbouwing ervan vast te leggen en te bewaren. 
 
-Hier volgt een [stappenplan](#Praktijkvoorbeelden) voor het beoordelen en behandelen van een verzoek om hergebruik.
+Hier volgt een [stappenplan](#wat-is-het-wettelijk-kader-voor-hergebruik-van-overheidsinformatie) voor het beoordelen en behandelen van een verzoek om hergebruik.
 
