@@ -1,6 +1,6 @@
 # Stappenplan
 
-## Stappenplan
+## Stappenplan "<b>[UNDER CONSTRUCTION]</b>"
 
 <figure>
     
@@ -50,5 +50,5 @@ graph TD
 
 ```
 
-<figcaption>Het Stappenplan</figcaption>
+<figcaption>Het Stappenplan <UNDER CONSTRUCTION> </figcaption>
 </figure><br/><br/>
