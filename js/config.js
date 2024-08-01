@@ -57,11 +57,6 @@ let respecConfig = {
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
-        name: "Daan Beers",
-        company: "Ministerie van Binnenlandse Zaken",
-        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
-      },
-      {
         name: "Geert Leloup",
         company: "Nationaal Archief",
         companyURL: "https://www.nationaalarchief.nl/",
