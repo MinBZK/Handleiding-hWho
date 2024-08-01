@@ -71,6 +71,11 @@ let respecConfig = {
         company: "Kenniscentrum Europa Decentraal",
         companyURL: "https://europadecentraal.nl/",
       },
+       {
+        name: "Barend Tensen",
+        company: "Kenniscentrum Europa Decentraal",
+        companyURL: "https://europadecentraal.nl/",
+      },
       {
         name: "Kim Oud",
         company: "IPO",
