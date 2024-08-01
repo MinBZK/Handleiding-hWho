@@ -53,7 +53,7 @@ Bekijk [de aanbevelingen voor het duurzamer toegankelijk maken van overheidsinfo
 
 ## Hoe behandel je een verzoek om hergebruik van overheidsinformatie?
 
-In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare lichamen 14 opeenvolgende vragen behandelen, zie hiervoor [Behandeling van verzoeken](#alg4).
+In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze toe te wijzen. Voor het beoordelen en behandelen van een verzoek om hergebruik moeten openbare lichamen 14 opeenvolgende vragen behandelen. Zie hiervoor [Behandeling van verzoeken](#alg4).
 
 ## Hoe verstrek je de gevraagde overheidsinformatie? 
 
