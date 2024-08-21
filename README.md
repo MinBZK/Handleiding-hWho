@@ -18,7 +18,7 @@ Dit is gebeurd op basis van de volgende aanpak:
 Er is eerst een geactualiseerde en integrale handleiding opgesteld die (overheids-)organisaties helpt te voldoen aan de minimale vereisten die uit de gewijzigde Who voortvloeien. Vervolgens wordt deze geactualiseerde versie van de handleiding verrijkt en aangescherpt met aanvullende instructies, adviezen, praktijkinzichten en ervaringen, alsook verwijzingen naar gerelateerde handleidingen, zoals de Handleiding HVDS die ontwikkeld wordt door Geonovum. Dit wordt gedaan aan de hand van een backlog.
 
 ### Planning
-Het streven was om de geactualiseerde handleiding gelijktijdig met het inwerktreden van de gewijzigde Who te publiceren. Een 0.9 versie is gepubliceerd op 19 juni 2024. De 1.0 versie wordt gepubliceerd op 1 augustus 2024. Een planning en plan van aanpak voor de doorontwikkeling van de handleiding wordt later uitgewerkt.
+Het streven was om de geactualiseerde handleiding gelijktijdig met het inwerktreden van de gewijzigde Who te publiceren. Een 0.9 versie is gepubliceerd op 19 juni 2024. De 1.0 versie is gepubliceerd op 1 augustus 2024. Een planning en plan van aanpak voor de doorontwikkeling van de handleiding wordt later uitgewerkt.
 
 ### Rollen en verantwoordelijkheden
 Er zijn drie groepen stakeholders betrokken bij het actualiseren en doorontwikkelen van de handleiding, met verschillende rollen en verantwoordelijkheden.
