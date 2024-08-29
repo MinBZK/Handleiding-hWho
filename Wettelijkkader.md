@@ -37,7 +37,11 @@ De samenloop van de Who en de Woo moet ertoe leiden dat zoveel mogelijk gegevens
 
 Meer informatie over de Wet open overheid is te vinden op de websites van de [Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/wet-open-overheid-woo) en de [Vereniging van Nederlandse Gemeenten](https://vng.nl/rubrieken/onderwerpen/wet-open-overheid).
 
-[1] Dat begrip verwijst naar wat Europeesrechtelijk als ‘openbaar lichaam’ wordt aangeduid. Omdat ‘openbaar lichaam’ in het Nederlandse bestuursrecht niet hetzelfde is, is destijds gekozen voor een andere benaming in de Who. [2] Inclusief entiteiten die op grond van artikel 1:1, tweede lid, van Algemene wet bestuursrecht zijn uitgesloten van het bestuursorgaanbegrip. [3] Waaronder alle organisaties die worden genoemd in artikel 2.2 van de Woo.
+[1] Dat begrip verwijst naar wat Europeesrechtelijk als ‘openbaar lichaam’ wordt aangeduid. Omdat ‘openbaar lichaam’ in het Nederlandse bestuursrecht niet hetzelfde is, is destijds gekozen voor een andere benaming in de Who.
+
+[2] Inclusief entiteiten die op grond van artikel 1:1, tweede lid, van Algemene wet bestuursrecht zijn uitgesloten van het bestuursorgaanbegrip.
+
+[3] Waaronder alle organisaties die worden genoemd in artikel 2.2 van de Woo.
 
 ### Archiefwet (Aw) 
 
