@@ -10,7 +10,7 @@ Hieronder worden de tariefregels per type organisatie uitgelegd.
 ### Met een publieke taak belaste instelling
 Met een publieke taak belaste instellingen mogen ervoor kiezen om de informatie gratis of tegen een vergoeding aan te bieden. Als zij een vergoeding vragen voor hun diensten bedraagt de vergoeding maximaal de marginale kosten. Dit zijn de kosten voor het vermenigvuldigen, verstrekken en verspreiden van de informatie alsmede de anonimisering van persoonsgegevens en maatregelen ter bescherming van de commerciële vertrouwelijkheid. 
  
-Dit is anders voor het Kadaster, de Rijksdienst voor Wegverkeer (RDW) en de Kamer van Koophandel (KvK); deze drie instellingen mogen redelijke kosten in rekening brengen om kostendekkend te kunnen blijven werken. Zij mogen maximaal de kosten van de verzameling, productie, vermenigvuldiging, verspreiding en opslag van de documenten in rekening brengen, vermeerderd met een redelijk rendement op investeringen, en, indien van toepassing, de anonimisering van 
+Dit is anders voor het Kadaster, de Dienst Wegverkeer (RDW) en de Kamer van Koophandel (KvK); deze drie instellingen mogen redelijke kosten in rekening brengen om kostendekkend te kunnen blijven werken. Zij mogen maximaal de kosten van de verzameling, productie, vermenigvuldiging, verspreiding en opslag van de documenten in rekening brengen, vermeerderd met een redelijk rendement op investeringen, en, indien van toepassing, de anonimisering van 
 persoonsgegevens en maatregelen ter bescherming van commercieel vertrouwelijke informatie. Dit is verenigbaar met artikel 6 lid 2 onder a) van de Open data richtlijn .
 
 ### Publiek gefinancierde onderzoeksorganisaties
