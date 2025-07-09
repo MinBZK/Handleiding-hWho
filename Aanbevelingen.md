@@ -18,19 +18,23 @@ De Who heeft als uitgangspunt dat openbare overheidsinformatie zoveel mogelijk h
 
 Duurzaam toegankelijke overheidsinformatie (DUTO) betekent dat deze informatie vindbaar, beschikbaar, leesbaar en interpreteerbaar, betrouwbaar en toekomstbestendig is. Deze kenmerken zijn ook essentieel voor hergebruik van overheidsinformatie. Vindbaar betekent bijvoorbeeld dat gebruikers weten waar zij de informatie kunnen vinden. Deze informatie moet vervolgens beschikbaar zijn op een manier die het mogelijk maakt om te hergebruiken, maar ook te interpreteren is zodat duidelijk is wat de betekenis van de informatie is. 
  
-De doelen en kenmerken van DUTO vertonen een grote overeenkomst met de FAIR-principes, die hun oorsprong hebben in de wetenschappelijke wereld. FAIR is een afkorting voor Findable (vindbaar),  Accessible (toegankelijk), Interoperable (uitwisselbaar)en Reusable (herbruikbaar). FAIR-principes beogen om de herbruikbaarheid van wetenschappelijke data (en daarmee de reproduceerbaarheid van onderzoek) te borgen. De principes leggen de nadruk op de machineleesbaarheid: het vermogen van computersystemen om gegevens te vinden, toegankelijk en uitwisselbaar te maken, en te hergebruiken zonder of met minimale menselijke tussenkomst. DUTO is breder van opzet, specifiek gericht op overheidsinformatie en denkt daarbij ook vanuit legitimiteit. Het biedt een systematiek die leidt tot passende maatregelen voor informatiesystemen van (overheids)organisaties. Hergebruik is daar een onderdeel van. FAIR kan dus binnen DUTO worden toegepast.
+De doelen en kenmerken van DUTO vertonen een grote overeenkomst met de FAIR-principes, die hun oorsprong hebben in de wetenschappelijke wereld. FAIR is een afkorting voor Findable (vindbaar),  Accessible (toegankelijk), Interoperable (uitwisselbaar)en Reusable (herbruikbaar). Zie 6.6 voor meer uitleg over de FAIR-principes. FAIR-principes beogen om de herbruikbaarheid van wetenschappelijke gegevens (en daarmee de reproduceerbaarheid van onderzoek) te borgen. De principes leggen de nadruk op de machineleesbaarheid: het vermogen van computersystemen om gegevens te vinden, toegankelijk en uitwisselbaar te maken, en te hergebruiken zonder of met minimale menselijke tussenkomst. DUTO is breder van opzet, specifiek gericht op overheidsinformatie en denkt daarbij ook vanuit legitimiteit. Het biedt een systematiek die leidt tot passende maatregelen voor informatiesystemen van (overheids)organisaties. Hergebruik is daar een onderdeel van. FAIR kan dus binnen DUTO worden toegepast.
 
 ## Vindbaarheid, beschikbaarheid en leesbaarheid van informatie 
 
 ### Vindbaarheid
 Vindbaar betekent dat de gebruiker snel en eenvoudig relevante overheidsinformatie kan vinden tussen alle bewaarde informatie. Als informatie niet gevonden kan worden, dan kan deze ook niet worden (her)gebruikt. Bij voorkeur is informatie op één plaats opgeslagen, met de gebruikelijke zoekfuncties vindbaar en wordt meervoudig gebruik gefaciliteerd. De plek waar de overheidsinformatie gevonden kan worden moet ook bekend zijn.  
   
-Gestandaardiseerde metadatering is cruciaal voor de vindbaarheid van overheidsinformatie. MDTO (Metagegevens voor duurzaam toegankelijke overheidsinformatie) is een gangbare (interbestuurlijke en overheidsbrede) norm voor het vastleggen en uitwisselen van eenduidige metagegevens over informatieobjecten. Het implementeren en hanteren van deze norm maakt het vinden van overheidsinformatie om te voldoen aan verzoeken tot hergebruik eenvoudiger. Het [Stappenplan toepassen MDTO](https://www.nationaalarchief.nl/archiveren/mdto/stappenplan-toepassen-mdto) kan organisaties helpen bij het implementeren van de norm. Specifiek, indien jouw organisatie nog gebruik maakt van oudere normen op het gebied van metagegevens (TMLO/TMR) dan biedt de [Mapping van TMLO/TMR naar MDTO](https://www.nationaalarchief.nl/archiveren/mdto/mapping-van-tmlo-tmr-naar-mdto) uitkomst voor een transitie richting MDTO. 
+Gestandaardiseerde metadatering is cruciaal voor de vindbaarheid van overheidsinformatie. Er zijn grofweg drie groepen standaarden die worden toegepast op metadatering: domeinspecifieke standaarden, uitwisselingsstandaarden en standaarden voor digitale duurzaamheid. Domeinspecifieke standaarden worden vaak internationaal ontwikkeld en binnen een specifiek domein toegepast, waaronder statistiek, gezondheid of geospatiale gegevens. Deze standaarden bevatten specifieke kenmerken die relevant zijn in dat domein, waardoor de gegevens ook op die kenmerken te doorzoeken zijn. Uitwisselingsstandaarden zijn generiek van aard, verbinden de domeinspecifieke standaarden en maken het mogelijk over domeinen heen te zoeken. In Europa wordt op grote schaal DCAT-AP toegepast en vereist bij het publiceren van gegevens in het Europese dataportaal. 
+
+MDTO (Metagegevens voor duurzaam toegankelijke overheidsinformatie) is een gangbare (interbestuurlijke en overheidsbrede) norm voor het vastleggen en uitwisselen van eenduidige metagegevens over informatieobjecten. Het implementeren en hanteren van deze norm maakt het vinden van overheidsinformatie om te voldoen aan verzoeken tot hergebruik eenvoudiger. Voor archiveringsdoeleinden kan de domeinspecifieke metadata worden omgezet naar MDTO. 
+
+Er kunnen andere verplichtingen volgen uit de standaarden. Zo moeten bepaalde gegevens conform DCAT-AP in het Europese dataportaal worden aangeboden, en moeten andere gegevens met metadata worden beschreven (zie 3.4.1, 3.4.4 en 3.4.7). 
   
 Naast het hanteren van metadata standaarden is het verder nuttig om in te zetten op: 
 
 - Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie.
-- Het creëren van een zoekindex op basis van tekstgegevens en metagegevens.
+- Het creëren van een zoekindex op basis van tekstgegevens en metagegevens, zodat de gegevens ook vindbaar zijn via online zoekmachines.
 - De implementatie van enterprise search; een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie.
 - Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
 - Ervoor zorgen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
@@ -59,20 +63,20 @@ Met ‘archiveren by design’ zorg je dus dat al in een vroeg stadium passende 
 Het [DUTO-raamwerk](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk) is een vertaalslag om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
 
 ## FAIR Principes
-Binnen de academische wereld is het gebruikelijk om qua open data te werken met de ‘FAIR’-principes. De richtlijn stimuleert dit, voor zover het gaat om onderzoeksgegevens die beschikbaar worden gesteld door publiek gefinancierde onderzoeksorganisaties.Open data richtlijn 
+Binnen de academische wereld is het gebruikelijk om qua open data te werken met de ‘FAIR’-principes. De richtlijn stimuleert dit, voor zover het gaat om onderzoeksgegevens die beschikbaar worden gesteld door publiek gefinancierde onderzoeksorganisaties.
 
 De letters in de afkorting FAIR staan voor : 
-- Findable – vindbaarheid, het kunnen vinden van de data
-- Accessible – toegankelijk, zorg dat de data toegankelijk zijn
-- Interoperable – uitwisselbaar, maak de data voor mens en computer begrijpelijk
-- Reusable – herbruikbaar, het herbruikbaar maken van data
+- Findable – vindbaarheid, het kunnen vinden van de gegevens
+- Accessible – toegankelijk, zorg dat de gegevens toegankelijk zijn
+- Interoperable – uitwisselbaar, maak de gegevens voor mens en computer begrijpelijk
+- Reusable – herbruikbaar, het herbruikbaar maken van gegevens
 
-Om overheidsinformatie geschikt te kunnen laten zijn voor hergebruik, al dan niet naar aanleiding van een Who verzoek, moeten data dus vindbaar, toegankelijk, uitwisselbaar en herbruikbaar zijn.
+Om overheidsinformatie geschikt te kunnen laten zijn voor hergebruik, al dan niet naar aanleiding van een Who verzoek, moeten gegevens dus vindbaar, toegankelijk, uitwisselbaar en herbruikbaar zijn.
 
-Data (F) vindbaar maken kan door metadata toe te voegen en de publicatieplaats een permanente URI te geven en deze vindplaats aan te melden bij het Dataregister van de Nederlandse Overheid | Data overheid.
+Gegevens (F) vindbaar maken kan door metadata toe te voegen en de publicatieplaats een permanente URI te geven en deze vindplaats aan te melden bij het Dataregister van de Nederlandse Overheid | Data overheid.
 
-Het (A) toegankelijk maken van data kan men doen door o.a. technisch laagdrempelig toegang te verlenen tot de vindplaats en de veiligheid van de data en de omgeving te borgen.
+Het (A) toegankelijk maken van gegevens kan men doen door o.a. technisch laagdrempelig toegang te verlenen tot de vindplaats en de veiligheid van de gegevens en de omgeving te borgen (bijvoorbeeld middels een API).
 
-Het (I) uitwisselbaar maken van data kan door o.a. uitleg te geven over hoe de data is opgebouwd en gebruikt kan worden of een standaardmethode te gebruiken die bekend is in het vakgebied. Denk aan een .CSV bestand , JSON of HTML. Dit zijn vrij gangbare protocollen en eenvoudiger toe te passen dan onbekende structuren. 
+Het (I) uitwisselbaar maken van gegevens kan door o.a. uitleg te geven over hoe de gegevens zijn opgebouwd en gebruikt kunnen worden of een standaardmethode te gebruiken die bekend is in het vakgebied. Denk aan een .CSV bestand, JSON of HTML. Dit zijn vrij gangbare protocollen en eenvoudiger toe te passen dan onbekende structuren. 
 
-Het (R) herbruikbaar maken van data kan men doen door o.a. de licenties vrij te geven of minimaal aan te geven welke licentie erop rust. Deze licenties geven aan wat een hergebruiker mag doen met de data. In de geest van de Open Data Richtlijn zit uiteraard de wens om zoveel mogelijk data in het publieke domein te krijgen, liefst zelfs vrij van auteursrechten. Dit is gezien de auteurswet juridisch niet rechtstreeks mogelijk. Partijen kunnen echter een zogeheten CC0 (Creative Commons nul) verklaring opstellen, waarmee ze volledig afstand doen van de uitoefening van auteursrecht. Met deze CC0 verklaring kan een rechthebbende aantonen dat hij afstand doet van zijn auteursrecht voor zover dit wettelijk is toegestaan. 
+Het (R) herbruikbaar maken van gegevens kan men doen door o.a. de licenties vrij te geven of minimaal aan te geven welke licentie erop rust. Deze licenties geven aan wat een hergebruiker mag doen met de gegevens. In de geest van de Open Data Richtlijn zit uiteraard de wens om zoveel mogelijk gegevens in het publieke domein te krijgen, liefst zelfs vrij van auteursrechten. Dit is gezien de auteurswet juridisch niet rechtstreeks mogelijk. Partijen kunnen echter een zogeheten CC0 (Creative Commons nul) verklaring opstellen, waarmee ze volledig afstand doen van de uitoefening van auteursrecht. Met deze CC0 verklaring kan een rechthebbende aantonen dat hij afstand doet van zijn auteursrecht voor zover dit wettelijk is toegestaan. 
