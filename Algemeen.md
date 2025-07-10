@@ -6,7 +6,7 @@ Definitie van hergebruik onder de Who: “Hergebruik in de context van de Wet he
 
 Het wettelijk kader voor het hergebruik van overheidsinformatie wordt bepaald door nationale en Europese wetgeving. Nationale wetgeving bestaat uit de Wet hergebruik van overheidsinformatie (Who), wet- en regelgeving ten aanzien van openbaar toegankelijke registers, de Wet open overheid (Woo) en de Archiefwet en de Auteurswet. 
 
-Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn, de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE richtlijn, de Datagovernanceverordening (Dgv) en de Dataverordening (Dv). De AVG en de Dgv bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
+Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn, de Hoogwaardigedatasets-uitvoeringsverordening (HWDS-uitvoeringsverordening), de Algemene verordening gegevensbescherming (AVG), de INSPIRE richtlijn, de Datagovernanceverordening (Dgv) en de Dataverordening (Dv). De AVG en de Dgv bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
 
 Lees voor meer informatie ook de pagina over [het wettelijk kader](#wetk).
 
