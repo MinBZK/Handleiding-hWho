@@ -2,16 +2,16 @@
 Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft beleidscoördinerende eindverantwoordelijkheid voor de Who en deze handleiding.
 De ontwikkeling en het beheer van de handleiding gebeurt in samenwerking met andere departementen binnen de Rijksoverheid, het Nationaal Archief, de Vereniging van Nederlandse Gemeenten (VNG), het InterProvinciaal Overleg (IPO), de Unie van Waterschappen (UVW) en Kenniscentrum Europa Decentraal (KED). 
 
-We actualiseren de Handleiding Wet hergebruik overheidsinformatie (Who) via een open aanpak op Github. Deze pagina gaat kort in op de aanleiding voor deze actualisatie en doorontwikkeling. En geeft inzicht in de gekozen aanpak en proces, de vastgestelde planning en hoe alle partijen worden betrokken en kunnen bijdragen. 
+We actualiseren de Handleiding Wet hergebruik overheidsinformatie (handleiding Who) via een open aanpak op Github. Deze pagina gaat kort in op de aanleiding voor deze actualisatie en doorontwikkeling. En geeft inzicht in de gekozen aanpak en proces, de vastgestelde planning en hoe alle partijen worden betrokken en kunnen bijdragen. 
 
 ### Aanleiding
-Er zijn verschillende handleidingen voor de Wet hergebruik overheidsinformatie, opgesteld door verschillende overheden. Deze geven uitleg over de algemene normen, praktische stappenplannen en praktijkvoorbeelden aan overheden die onder deze wet vallen. De Who is gewijzigd als gevolg van een herziening van de Europese richtlijn die hier ten grondslag aan ligt. Door deze wijziging wordt de personele (wie) en materiele (wat) reikwijdte uitgebreid: meer organisaties vallen onder de toepassing van de wet en meer soorten informatie. Ook gaan er nieuwe eisen gelden voor overheden betreft het herbruikbaar maken van openbare overheidsinformatie (hoe). Om ervoor te zorgen dat alle (overheids-)organisaties die onder de toepassing van de gewijzigde Who vallen begrijpen wat de nieuwe wet van hen vraagt en hoe zij deze kunnen uitvoeren worden huidige handleidingen geactualiseerd, tot één integrale handleiding Who.
+Er zijn verschillende handleidingen voor de Wet hergebruik overheidsinformatie (Who), opgesteld door verschillende overheden. Deze geven uitleg over de algemene normen, praktische stappenplannen en praktijkvoorbeelden aan overheden die onder deze wet vallen. De Who is gewijzigd als gevolg van een herziening van de Europese richtlijn die hier ten grondslag aan ligt. Door deze wijziging wordt de personele (wie) en materiele (wat) reikwijdte uitgebreid: meer organisaties vallen onder de toepassing van de wet en meer soorten informatie. Ook gaan er nieuwe eisen gelden voor overheden betreft het herbruikbaar maken van openbare overheidsinformatie (hoe). Om ervoor te zorgen dat alle (overheids-)organisaties die onder de toepassing van de gewijzigde Who vallen begrijpen wat de nieuwe wet van hen vraagt en hoe zij deze kunnen uitvoeren worden huidige handleidingen geactualiseerd, tot één integrale handleiding Who.
 
 ### Aanpak
 Dit is gebeurd op basis van de volgende aanpak:
 1. Bestaande handleidingen zijn samengevoegd tot één handleiding om overzicht en eenduidigheid te creëren voor de uitvoeringspraktijk;
 2. De handleiding is eerst geactualiseerd en wordt vervolgens doorontwikkeld. Dit volgt een iteratief en incrementeel proces.
-3. Samenhang met geldende relevante, aangrenzende wet- en regelgeving zoals de Wet open overheid, de AVG en High Value Datasets uitvoeringsverordening staat centraal;
+3. Samenhang met geldende relevante, aangrenzende wet- en regelgeving zoals de Wet open overheid, de AVG en Hoogwaardigedatasets-uitvoeringsverordening staat centraal;
 4. Er wordt samengewerkt via Github aan een open source product en volgens deze 'open aanpak' worden ook externe belanghebbenenden, experts en overheden betrokken bij de doorontwikkeling, waaronder de Autoriteit Persoonsgegevens.
 
 ### Proces
