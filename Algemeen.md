@@ -6,7 +6,7 @@ Definitie van hergebruik onder de Who: “Hergebruik in de context van de Wet he
 
 Het wettelijk kader voor het hergebruik van overheidsinformatie wordt bepaald door nationale en Europese wetgeving. Nationale wetgeving bestaat uit de Wet hergebruik van overheidsinformatie (Who), wet- en regelgeving ten aanzien van openbaar toegankelijke registers, de Wet open overheid (Woo) en de Archiefwet en de Auteurswet. 
 
-Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn , de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE richtlijn, de Datagovernanceverordening en de Dataverordening. De AVG en de Datagovernanceverordening bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
+Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn, de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE richtlijn, de Datagovernanceverordening (Dgv) en de Dataverordening (Dv). De AVG en de Dgv bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
 
 Lees voor meer informatie ook de pagina over [het wettelijk kader](#wetk).
 
@@ -63,9 +63,9 @@ In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze to
 
 Voor het optimaal verstrekken van gevraagde overheidsinformatie zijn de volgende punten van belang:
 
--	Jouw organisatie moet beleid hebben over het verstrekken van overheidsinformatie.
--	Heb interactie met de indiener over het informatieverzoek, de informatiebehoefte en het proces van verstrekking. (de indiener hoeft geen reden te geven maar je mag hier wel naar vragen om goed te kunnen helpen) 
--	Automatiseer het aanbieden van open data.
+-	Jouw organisatie moet beleid hebben over het verstrekken van overheidsinformatie;
+-	Heb interactie met de indiener over het informatieverzoek, de informatiebehoefte en het proces van verstrekking (de indiener hoeft geen reden te geven maar je mag hier wel naar vragen om goed te kunnen helpen);
+-	Automatiseer het aanbieden van open data; en
 -	Richt systemen zo in dat informatie duurzaam toegankelijk is. Hoe beter de informatiehuishouding georganiseerd is, hoe eenvoudiger het is om informatie te verstrekken en aan verzoeken te voldoen.
 
 Bekijk [de aanbevelingen voor het verstrekken van overheidsinformatie](#aanbevelingen-voor-verstrekking-van-overheidsinformatie). 
@@ -74,13 +74,13 @@ Bekijk [de aanbevelingen voor het verstrekken van overheidsinformatie](#aanbevel
 
 De Who gaat ervan uit dat er zo min mogelijk beperkende voorwaarden worden opgelegd bij het beschikbaar stellen voor hergebruik van overheidsinformatie. De bedoeling van open data is immers dat hergebruikers meer met de gegevens kunnen doen en er zo min mogelijk belemmeringen zijn om verschillende gegevenssets ook met elkaar te combineren. Uiteenlopende voorwaarden kunnen een grote belemmering vormen voor dit combineren en moeten daarom zoveel mogelijk worden vermeden. Organisaties moeten zich bij het voor hergebruik aanbieden van gegevens dus altijd afvragen of de voorwaarden die ze stellen wel echt nodig zijn.
 
-Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk gesteld te worden via standaardlicenties, zoals die van Creative Commons en de openbare licentie van de Europese Unie („EUPL”). Afhankelijk van de informatiecategorie en de mogelijke IE rechten die op de informatie kunnen rusten en de aanwezigheid van persoonsgegevens, dienen de meest passende licenties worden gekozen. Daarbij is de CC0 licentie het minst beperkend in het stellen van voorwaarden. De CC BY 4.0 licentie is ook toegestaan. 
+Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk gesteld te worden via standaardlicenties, zoals die van Creative Commons en de openbare licentie van de Europese Unie (“EUPL”). Afhankelijk van de informatiecategorie en de mogelijke IE rechten die op de informatie kunnen rusten en de aanwezigheid van persoonsgegevens, dienen de meest passende licenties worden gekozen. Daarbij is de CC-0 licentie het minst beperkend in het stellen van voorwaarden. De CC-BY 4.0 licentie is ook toegestaan. 
 
-De CC BY 4.0 licentie heeft de voorkeur om te gebruiken wanneer er IE-rechten op de informatie rusten en/of wanneer persoonsgegevens, waaronder ook gepseudonimiseerde persoonsgegevens, aanwezig zijn in de informatie onderdeel uitmaken van de overheidsinformatie die beschikbaar wordt gesteld voor hergebruik. Bij deze licentie is het namelijk mogelijk om te achterhalen welke organisatie de bron van de informatie is, zodat daarmee contact opgenomen kan worden om bij eventuele inbreuken op de bescherming van persoonsgegevens dit teruggemeld kan worden, zodat de dataset aangepast kan worden of ingetrokken door de dataprovider die verwerkingsverantwoordelijke is.
+De CC-BY 4.0 licentie heeft de voorkeur om te gebruiken wanneer er IE-rechten op de informatie rusten en/of wanneer persoonsgegevens, waaronder ook gepseudonimiseerde persoonsgegevens, aanwezig zijn in de informatie onderdeel uitmaken van de overheidsinformatie die beschikbaar wordt gesteld voor hergebruik. Bij deze licentie is het namelijk mogelijk om te achterhalen welke organisatie de bron van de informatie is, zodat daarmee contact opgenomen kan worden om bij eventuele inbreuken op de bescherming van persoonsgegevens dit teruggemeld kan worden, zodat de dataset aangepast kan worden of ingetrokken door de dataprovider die verwerkingsverantwoordelijke is.
 
-Het is aan te raden om ook bij geanonimiseerde persoonsgegevens de CC BY 4.0 licentie te gebruiken wanneer er een risico is op heridentificatie. Dit risico is immers veelal niet voor 100% uit te sluiten. 
+Het is aan te raden om ook bij geanonimiseerde persoonsgegevens de CC-BY 4.0 licentie te gebruiken wanneer er een risico is op heridentificatie. Dit risico is immers veelal niet voor 100% uit te sluiten. 
 
-De CC0 licentie is passend wanneer er geen IE-rechten rusten op de betreffende gegevens. Wanneer er alleen niet-persoonsgegevens, dat wil zeggen gegevens die nooit een persoonsgegeven zijn geweest en ook niet zijn afgeleid van natuurlijke personen, beschikbaar worden gesteld, is het risico op identificatie beperkter dan bij geanonimiseerde of gepseudonimiseerde gegevens en dan kan een CC-0 licentie passender zijn.
+De CC-0 licentie is passend wanneer er geen IE-rechten rusten op de betreffende gegevens. Wanneer er alleen niet-persoonsgegevens, dat wil zeggen gegevens die nooit een persoonsgegeven zijn geweest en ook niet zijn afgeleid van natuurlijke personen, beschikbaar worden gesteld, is het risico op identificatie beperkter dan bij geanonimiseerde of gepseudonimiseerde gegevens en dan kan een CC-0 licentie passender zijn.
 
 In gevallen die door een doel van algemeen belang worden gerechtvaardigd, is het toegestaan om aanvullende voorwaarden op te leggen aan de hergebruiker. Deze voorwaarden moeten objectief, evenredig en niet-discriminerend zijn. Gevallen waarbij volgens de Wet hergebruik van overheidsinformatie voorwaarden mogen worden opgelegd zijn: kwesties als rekening houden met gerechtvaardigde belangen van een rechthebbende derde, bronvermelding, aansprakelijkheid, bescherming van persoonsgegevens en rekening houden met de FAIR-beginselen in geval van onderzoeksgegevens. Dit kan inhouden dat, wanneer bepaalde Creative Commons licenties niet passend zijn, met aanvullende (gebruiks-) voorwaarden bronvermelding opgelegd wordt of gewaarborgd wordt dat ook bij verdere verwerking van de persoonsgegevens deze beschermd blijven. Er dient dan wel rekening gehouden te worden met het feit dat deze andere voorwaarden niet machineleesbaar zijn. 
 
@@ -90,7 +90,7 @@ Voor hulp bij het kiezen van de juiste licentie voor software en broncodes, zie 
 
 ### Aansprakelijkheid
 
-De Open data richtlijn biedt ruimte om aansprakelijkheid tegenover hergebruikers uit te sluiten. Daarmee is de dataprovider niet verantwoordelijk voor het hergebruik van de data en eventuele fouten tegenover de afnemer. Het is verstandig om dit in de gebruiksvoorwaarden voor hergebuikers op te nemen. Door gebruik te maken van de CC0 of CC BY 4.0 licentie voor data, en bij opensourcelicenties zoals de EUPL voor broncode, is dit automatisch geregeld omdat bij de licenties die aansprakelijkheid wordt uitgesloten.
+De Open data richtlijn biedt ruimte om aansprakelijkheid tegenover hergebruikers uit te sluiten. Daarmee is de dataprovider niet verantwoordelijk voor het hergebruik van de data en eventuele fouten tegenover de afnemer. Het is verstandig om dit in de gebruiksvoorwaarden voor hergebuikers op te nemen. Door gebruik te maken van de CC-0 of CC-BY 4.0 licentie voor data, en bij opensourcelicenties zoals de EUPL voor broncode, is dit automatisch geregeld omdat bij de licenties die aansprakelijkheid wordt uitgesloten.
 
 Aansprakelijkheid tegenover derden of betrokkenen valt niet in alle gevallen af te wijzen. Dit wordt begrensd door de wet. Bijvoorbeeld: door een verstrekking van onjuiste gegevens (bijvoorbeeld fouten in data) of door een inbreuk op rechten van derden (bijvoorbeeld intellectueel eigendomsrechten) kan er wel een aansprakelijkheidsrisico ontstaan ten opzichte van de belanghebbenden van wie de gegevens oorspronkelijk afkomstig zijn of op wie de gegevens betrekking hebben, of fraude of grove nalatigheid. 
 
@@ -125,7 +125,7 @@ Afwijzingsgronden zijn:
 - informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebruik onverenigbaar is met de doeleinden waarvoor ze zijn verkregen, anders dan persoonsgegevens als bedoeld in het vorige onderdeel.
 
 ## Inspanningsverplichting
-De Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b van de Who vallen, zoveel als mogelijk beschikbaar te stellen voor hergebruik. Wanneer dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, en daarmee een redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van Wet open overheid (hierna ‘de Woo’), op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
+De Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b van de Who vallen, zoveel als mogelijk beschikbaar te stellen voor hergebruik. Wanneer dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, en daarmee een redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van Wet open overheid (Woo), op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
 
 ## Wat zijn interessante praktijkvoorbeelden?
 Praktijkvoorbeelden zullen na verloop van tijd worden opgenomen in dit gedeelte van de handleiding.
