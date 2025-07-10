@@ -12,7 +12,7 @@ In de derde plaats kunnen gegevens daarnaast beschermd zijn op grond van intelle
 
 In de vierde plaats is voor archieven een deel van het hergebruikrecht geregeld in de archiefwetgeving. Dat is op dit moment de [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376), die in de toekomst waarschijnlijk zal worden vervangen door een [nieuwe Archiefwet](https://www.nationaalarchief.nl/archiveren/kennisbank/nieuwe-archiefwet-2021#:~:text=De%20oude%20Archiefwet%20wordt%20gemoderniseerd,te%20brengen%20naar%20een%20archief).
 
-In de vijfde plaats worden de regels over specifieke hoogwaardige gegevenssets grotendeels geregeld in de [Uitvoeringsverordening HVDL (Verordening 2023/138)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32023R0138) van de Europese Commissie. De grondslag voor die uitvoeringsverordening ligt in de Open data richtlijn. De Europese Commissie heeft de bevoegdheid om meerdere HVD-uitvoeringsverordeningen te maken over verschillende gegevenssets en om de thema's uit te breiden waarop die HVD-uitvoeringsverordeningen kunnen zien. De verwachting is daarom dat er in de toekomst meer gegevenssets via HVD-uitvoeringsverordening zullen worden aangewezen.
+In de vijfde plaats worden de regels over specifieke hoogwaardige gegevenssets grotendeels geregeld in de [Hoogwaardigedatasets-uitvoeringsverordening (Verordening 2023/138)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32023R0138, ofwel HWDS-uitvoeringsverordening) van de Europese Commissie. De grondslag voor die uitvoeringsverordening ligt in de Open data richtlijn. De Europese Commissie heeft de bevoegdheid om meerdere HWDS-uitvoeringsverordeningen te maken over verschillende gegevenssets en om de thema's uit te breiden waarop die HWDS-uitvoeringsverordeningen kunnen zien. De verwachting is daarom dat er in de toekomst meer gegevenssets via HWDS-uitvoeringsverordening zullen worden aangewezen.
 
 In de zesde plaats zijn de [Europese Datagovernanceverordening (Verordening 2022/868, Dgv)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32022R0868) en de bijbehorende Nederlandse uitvoeringsregelgeving (Uitvoeringswet Datagovernanceverordening en lagere regelgeving) van invloed op de toepasselijkheid van de Who. Hoofdstuk II van de Dgv geeft faciliteiten voor een andere vorm van hergebruik van overheidsinformatie. Het gaat daarbij juist om bepaalde gegevens die niet openbaar kunnen worden gemaakt omdat ze daarvoor te gevoelig zijn. Dgv-hergebruik is veel beperkter dan Who-hergebruik, omdat Dgv-hergebruik alleen mag plaatsvinden op een manier waarop de gegevens beschermd blijven en de doeleinden van dat hergebruik beperkt zijn tot enkele doelen van algemeen belang (op basis van nationale wetgeving).
 
@@ -182,7 +182,7 @@ Ter ondersteuning van hergebruik van specifieke verzamelingen van hoogwaardige g
 - handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en
 - verkeersborden en binnenwateren (mobiliteit).
 
-De Commissie publiceerde de Uitvoeringsverordening 2023/138 (de “HWDS”-uitvoeringsverordening) hiervoor op 20 januari 2023. In de bijlage bij die Uitvoeringsverordening gaf zij per categorie uitvoeriger aan welke gegevens binnen het hoogwaardige datasetregime vallen. In navolging van artikel 14 van de Open data richtlijn, moeten openbare lichamen de gegevens hieruit: 
+De Commissie publiceerde de Uitvoeringsverordening 2023/138 (de HWDS-uitvoeringsverordening) hiervoor op 20 januari 2023. In de bijlage bij die Uitvoeringsverordening gaf zij per categorie uitvoeriger aan welke gegevens binnen het hoogwaardige datasetregime vallen. In navolging van artikel 14 van de Open data richtlijn, moeten openbare lichamen de gegevens hieruit: 
 - via APIs beschikbaar stellen,
 - in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers.
 - Mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
@@ -192,7 +192,7 @@ Verder moeten zij:
 - een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid;
 - in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
 
-Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-verordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
+Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de richtlijn) maximaal twee jaar na de inwerkingtreding van de HWDS-uitvoeringsverordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
 
 De Who bevat geen bijzondere bepalingen over hoogwaardige gegevenssets in het algemeen, en neemt de verplichtingen uit de richtlijn woordelijk over. Voor hoogwaardige datasets is ook de handreiking van Geonovum beschikbaar. 
 
