@@ -1,15 +1,15 @@
 # Bijlage Definities
 
 **Data/Gegevens/Document/Informatie**: 
-elke inhoud of deelinhoud, ongeacht de gegevensdrager waar die (deel)inhoud op staat. Dit is dezelfde definitie als de Open data richtlijn. Voor de Who valt onder dit begrip ook software. Voor deze Handleiding gebruiken we de woorden data, gegevens, documenten en informatie nagenoeg als inwisselbaar. Data en gegevens zijn etymologische synoniemen en betekenen stukjes informatie. Voor wat betreft de term “document”, hanteert de Open data richtlijn dezelfde betekenis als gegeven of gegeven. 
+elke inhoud of deelinhoud, ongeacht de gegevensdrager waar die (deel)inhoud op staat. Dit is dezelfde definitie als de Open data richtlijn. Voor de Wet hergebruik van overheidsinformatie (Who) valt onder dit begrip ook software. Voor deze Handleiding gebruiken we de woorden data, gegevens, documenten en informatie nagenoeg als inwisselbaar. Data en gegevens zijn etymologische synoniemen en betekenen stukjes informatie. Voor wat betreft de term “document”, hanteert de Open data richtlijn dezelfde betekenis als gegeven of gegeven. 
 
-Het documentbegrip uit de Wet implementatie Open data richtlijn verbindt zowel het documentbegrip uit de richtlijn als dat uit de Woo. Het documentbegrip uit de Woo ziet namelijk op een door een orgaan, persoon of college als bedoeld in artikel 2.2, eerste lid Woo opgemaakt of ontvangen schriftelijk stuk of ander geheel van vastgelegde gegevens dat naar zijn aard verband houdt met de publieke taak van dat orgaan, die persoon of dat college. De Who sluit in zoverre bij dit begrip aan, maar voegt daaraan toe dat een deel van vastgelegde gegevens hieronder vallen, om aan te sluiten bij het documentbegrip uit de Open data richtlijn. Dit levert materieel geen verschil tussen de Woo en Who.
+Het documentbegrip uit de Wet implementatie Open data richtlijn verbindt zowel het documentbegrip uit de Open data richtlijn als dat uit de Wet open overheid (Woo). Het documentbegrip uit de Woo ziet namelijk op een door een orgaan, persoon of college als bedoeld in artikel 2.2, eerste lid Woo opgemaakt of ontvangen schriftelijk stuk of ander geheel van vastgelegde gegevens dat naar zijn aard verband houdt met de publieke taak van dat orgaan, die persoon of dat college. De Who sluit in zoverre bij dit begrip aan, maar voegt daaraan toe dat een deel van vastgelegde gegevens hieronder vallen, om aan te sluiten bij het documentbegrip uit de Open data richtlijn. Dit levert materieel geen verschil tussen de Woo en Who.
 
 **Hergebruik**:
-Hergebruik in de context van de Wet hergebruik van overheidsinformatie (Who) is het gebruik van reeds openbare gegevens die zich (meestal) bij een overheidsorganisatie bevinden, voor een ander doel dan waarvoor de gegevens oorspronkelijk zijn geproduceerd of verzameld.
+hergebruik in de context van de Who is het gebruik van reeds openbare gegevens die zich (meestal) bij een overheidsorganisatie bevinden, voor een ander doel dan waarvoor de gegevens oorspronkelijk zijn geproduceerd of verzameld.
 
 **Openbaar lichaam/met een publieke taak belaste instelling**: 
-zie de uitleg in de Handleiding 
+ie de uitleg in de Handleiding. 
 
 **Bijzondere categorieën persoonsgegevens**: 
 persoonsgegevens waaruit ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen, of het lidmaatschap van een vakbond blijken, en verwerking van genetische gegevens, biometrische gegevens met het oog op de unieke identificatie van een persoon, of gegevens over gezondheid, of gegevens met betrekking tot iemands seksueel gedrag of seksuele gerichtheid. 

@@ -6,7 +6,7 @@ Definitie van hergebruik onder de Who: “Hergebruik in de context van de Wet he
 
 Het wettelijk kader voor het hergebruik van overheidsinformatie wordt bepaald door nationale en Europese wetgeving. Nationale wetgeving bestaat uit de Wet hergebruik van overheidsinformatie (Who), wet- en regelgeving ten aanzien van openbaar toegankelijke registers, de Wet open overheid (Woo) en de Archiefwet en de Auteurswet. 
 
-Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn , de High Value Datasets uitvoeringsverordening (HVD), de Algemene verordening gegevensbescherming (AVG), de INSPIRE richtlijn, de Datagovernanceverordening en de Dataverordening. De AVG en de Datagovernanceverordening bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
+Het wettelijk kader vanuit de Europese Unie bestaat uit de Open data richtlijn, de Hoogwaardigedatasets-uitvoeringsverordening (HVD-uitvoeringsverordening), de Algemene verordening gegevensbescherming (AVG), de INSPIRE richtlijn, de Datagovernanceverordening (Dgv) en de Dataverordening (Dv). De AVG en de Dgv bevatten nadere nationale invulling in de Uitvoeringwet AVG en het wetsvoorstel voor een Uitvoeringwet Datagovernanceverordening.
 
 Lees voor meer informatie ook de pagina over [het wettelijk kader](#wetk).
 
@@ -42,12 +42,16 @@ Lees hier meer over de mogelijke [afwijzingsgronden voor hergebruik](#wat-zijn-m
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
--	In te zetten op duurzame toegankelijkheid van informatie binnen jouw overheidsorganisatie. 
--	Het verbeteren van je informatiehuishouding en het toepassen van ‘archiveren by design.’
--	Het toepassen van het DUTO Raamwerk
--	Het toepassen van de FAIR principes 
--	Het implementeren van standaarden t.a.v. metadatering zoals MDTO
--	Het nemen van maatregelen die concreet bijdragen aan verbeterde leesbaarheid en beschikbaarheid van informatie binnen jouw organisatie
+-	In te zetten op toegankelijkheid van informatie binnen jouw overheidsorganisatie zoals door API's;
+-	Het kweken van bewustzijn voor de hele keten van gegevensgebruik, zowel als ondersteuning voor en het vastleggen van beleid als basis voor uitvoering, als voor duurzame toegankelijkheid bij archivering;
+-	Het verbeteren van je informatiehuishouding, zoals het toepassen van ‘archiveren by design’;
+-	Het toepassen van het DUTO-Raamwerk;
+-	Het toepassen van de FAIR-principes (Findable, Accessible, Interoperable, Reusable - zie 6.6. voor meer uitleg over de FAIR-principes);
+-	Het beschikbaar maken van de gegevens in formaten geschikt voor hergebruik;
+-	Het implementeren van generieke standaarden t.a.v. metadatering zoals MDTO voor archiveren, of DCAT-AP-NL voor het domeinoverstijgend uitwisselen van metadata;
+-	Het publiceren van de metadata in dataportalen;
+-	Het nemen van maatregelen die concreet bijdragen aan verbeterde leesbaarheid en beschikbaarheid van informatie binnen jouw organisatie; en
+-	Ervoor zorgen dat dataportalen makkelijk vindbaar zijn en voldoen aan internationale standaarden. 
   
 Bekijk [de aanbevelingen voor het duurzamer toegankelijk maken van overheidsinformatie](#aanbev).
 
@@ -59,9 +63,9 @@ In beginsel moeten overheidsorganisaties Who-verzoeken overwegen, alvorens ze to
 
 Voor het optimaal verstrekken van gevraagde overheidsinformatie zijn de volgende punten van belang:
 
--	Jouw organisatie moet beleid hebben over het verstrekken van overheidsinformatie.
--	Heb interactie met de indiener over het informatieverzoek, de informatiebehoefte en het proces van verstrekking. (de indiener hoeft geen reden te geven maar je mag hier wel naar vragen om goed te kunnen helpen) 
--	Automatiseer het aanbieden van open data.
+-	Jouw organisatie moet beleid hebben over het verstrekken van overheidsinformatie;
+-	Heb interactie met de indiener over het informatieverzoek, de informatiebehoefte en het proces van verstrekking (de indiener hoeft geen reden te geven maar je mag hier wel naar vragen om goed te kunnen helpen);
+-	Automatiseer het aanbieden van open data; en
 -	Richt systemen zo in dat informatie duurzaam toegankelijk is. Hoe beter de informatiehuishouding georganiseerd is, hoe eenvoudiger het is om informatie te verstrekken en aan verzoeken te voldoen.
 
 Bekijk [de aanbevelingen voor het verstrekken van overheidsinformatie](#aanbevelingen-voor-verstrekking-van-overheidsinformatie). 
@@ -70,7 +74,8 @@ Bekijk [de aanbevelingen voor het verstrekken van overheidsinformatie](#aanbevel
 
 De Who gaat ervan uit dat er zo min mogelijk beperkende voorwaarden worden opgelegd bij het beschikbaar stellen voor hergebruik van overheidsinformatie. De bedoeling van open data is immers dat hergebruikers meer met de gegevens kunnen doen en er zo min mogelijk belemmeringen zijn om verschillende gegevenssets ook met elkaar te combineren. Uiteenlopende voorwaarden kunnen een grote belemmering vormen voor dit combineren en moeten daarom zoveel mogelijk worden vermeden. Organisaties moeten zich bij het voor hergebruik aanbieden van gegevens dus altijd afvragen of de voorwaarden die ze stellen wel echt nodig zijn.
 
-Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk gesteld te worden via standaardlicenties, zoals die van Creative Commons en door de Open Source Initiative (OSI) goedgekeurde open source licenties waaronder de European Union Public License („EUPL”). Afhankelijk van de informatiecategorie en de mogelijke IE-rechten die op de informatie kunnen rusten en de aanwezigheid van persoonsgegevens, dienen de meest passende licenties worden gekozen. Daarbij is de CC0 licentie het minst beperkend in het stellen van voorwaarden. De CC-BY-4.0 licentie is ook toegestaan. 
+
+Volgens de Open data richtlijn en de Who dienen voorwaarden zo veel mogelijk gesteld te worden via standaardlicenties, zoals die van Creative Commons en door de Open Source Initiative (OSI) goedgekeurde open source licenties waaronder de European Union Public License („EUPL”). Afhankelijk van de informatiecategorie en de mogelijke IE rechten die op de informatie kunnen rusten en de aanwezigheid van persoonsgegevens, dienen de meest passende licenties worden gekozen. Daarbij is de CC0 licentie het minst beperkend in het stellen van voorwaarden. De CC-BY-4.0 licentie is ook toegestaan. 
 
 De CC-BY-4.0 licentie heeft de voorkeur om te gebruiken wanneer er IE-rechten op de informatie rusten en/of wanneer persoonsgegevens, waaronder ook gepseudonimiseerde persoonsgegevens, aanwezig zijn in de informatie onderdeel uitmaken van de overheidsinformatie die beschikbaar wordt gesteld voor hergebruik. Bij deze licentie is het namelijk mogelijk om te achterhalen welke organisatie de bron van de informatie is, zodat daarmee contact opgenomen kan worden om bij eventuele inbreuken op de bescherming van persoonsgegevens dit teruggemeld kan worden, zodat de dataset aangepast kan worden of ingetrokken door de dataprovider die verwerkingsverantwoordelijke is.
 
@@ -121,7 +126,7 @@ Afwijzingsgronden zijn:
 - informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebruik onverenigbaar is met de doeleinden waarvoor ze zijn verkregen, anders dan persoonsgegevens als bedoeld in het vorige onderdeel.
 
 ## Inspanningsverplichting
-De Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b van de Who vallen, zoveel als mogelijk beschikbaar te stellen voor hergebruik. Wanneer dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, en daarmee een redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van Wet open overheid (hierna ‘de Woo’), op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
+De Who bevat een inspanningsverplichting voor met een publieke taak belaste instellingen om ook documenten die niet onder de resultaatsverplichtingen van artikelen 5a of 5b van de Who vallen, zoveel als mogelijk beschikbaar te stellen voor hergebruik. Wanneer dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, en daarmee een redelijk belang wordt gediend. Deze formulering lijkt sterk op de formulering van artikel 3.1, eerste lid, van Wet open overheid (Woo), op grond waarvan eenzelfde verplichting geldt voor het openbaar maken van documenten. Beide bepalingen sluiten goed op elkaar aan en zorgen ervoor dat zoveel mogelijk documenten actief openbaar worden gemaakt en tegelijkertijd ook onder de Who actief beschikbaar worden gesteld voor hergebruik. 
 
 ## Wat zijn interessante praktijkvoorbeelden?
 Praktijkvoorbeelden zullen na verloop van tijd worden opgenomen in dit gedeelte van de handleiding.
