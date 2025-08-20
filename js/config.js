@@ -10,13 +10,13 @@ let respecConfig = {
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IG",
-  publishDate: "2024-7-30",
-  publishVersion: "1.0.0",
+  publishDate: "2025-8-20",
+  publishVersion: "1.1.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
 //  previousMaturity: "IO",
-//  previousPublishDate: "2024-6-19",
-//  previousPublishVersion: "0.9.0",
+//  previousPublishDate: "2024-7-30",
+//  previousPublishVersion: "1.0.0",
   
   title: "Handleiding Herziene Who nav de Wet implementatie open data richtlijn",
 //  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
