@@ -6,7 +6,7 @@ on:
 jobs:
   main:
     name: Snapshot
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - run: mkdir ~/static
       - name: Create cache
