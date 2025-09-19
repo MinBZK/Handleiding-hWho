@@ -16,8 +16,13 @@ jobs:
     name: Check
     uses: Logius-standaarden/Automatisering/.github/workflows/check.yml@main    
   publish:
-    needs: build
-    name: Publish (Logius)
-    uses: Logius-standaarden/Automatisering/.github/workflows/publish.yml@main
-    secrets: inherit
-# wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://gebruikersnaam.github.io
+    name: Publish
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Convert
+        run: |
+          wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://minbzk.github.io
+#    needs: build
+#    name: Publish (Logius)
+#    uses: Logius-standaarden/Automatisering/.github/workflows/publish.yml@main
+#    secrets: inherit
