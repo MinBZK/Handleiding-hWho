@@ -18,6 +18,8 @@ jobs:
       - name: Static HTML
         run: |
           npx respec --localhost --src index.html --out ~/static/snapshot.html
+      - name: Kopieer gegenereerde bestanden naar repository-map
+        run: cp -r ~/static/* ./docs/
       - name: Check config
         id: config
         if: ${{ github.event_name == 'push'}}
