@@ -1,5 +1,5 @@
 # Stappenplan
-## Stappenplan <b>[UNDER CONSTRUCTION]</b>
+## Stappenplan<b>[UNDER CONSTRUCTION]</b>
 
 <figure style="height: 500%;">
     
