@@ -21,7 +21,7 @@ jobs:
     steps:
       - name: Convert
         run: |
-          wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://minbzk.github.io
+          wget --mirror --adjust-extension --page-requisites --no-parent https://minbzk.github.io/Handleiding-hWho/
 #    needs: build
 #    name: Publish (Logius)
 #    uses: Logius-standaarden/Automatisering/.github/workflows/publish.yml@main
