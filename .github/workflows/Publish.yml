@@ -1,9 +1,7 @@
 name: Download GitHub Pages Site
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   download-site:
