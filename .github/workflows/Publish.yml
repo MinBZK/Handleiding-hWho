@@ -1,0 +1,30 @@
+name: Download GitHub Pages Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  download-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install wget
+        run: sudo apt-get install wget
+
+      - name: Download static site with wget
+        run: |
+          mkdir -p docs
+          wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://minbzk.github.io/Handleiding-hWho/
+          cp -r minbzk.github.io/Handleiding-hWho/* docs/
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/
+          git commit -m "Update static HTML site in docs folder" || echo "No changes to commit"
+          git push
