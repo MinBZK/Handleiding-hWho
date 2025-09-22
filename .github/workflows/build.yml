@@ -18,13 +18,17 @@ jobs:
       - name: Static HTML
         run: |
           npx respec --localhost --src index.html --out ~/static/snapshot.html
+      - name: Check config
+        id: config
+        if: ${{ github.event_name == 'push'}}
+        run: |
+         echo "grep=false" >> $GITHUB_OUTPUT
+         if grep -q alternateFormats ./js/config.js; then
+         echo "grep=true" >> $GITHUB_OUTPUT
+         fi
       - run: mkdir ./docs
       - name: PDF
-        if: ${{ steps.config.outputs.grep == 'true' }}
         run: |
-         cp ./js/config.js config.js
-         echo "module.exports = { respecConfig };" >> config.js
-         echo "var window = {respecMermaid : {createFigures : null}};" | cat - config.js > temp && mv temp config.js
          cp ~/static/snapshot.html snapshot.html
          npm i puppeteer
          python3 -m http.server 8080 &
@@ -35,14 +39,6 @@ jobs:
          mv *.pdf ~/static/
       - name: Kopieer gegenereerde bestanden naar repository-map
         run: cp -r ~/static/* ./docs/
-      - name: Check config
-        id: config
-        if: ${{ github.event_name == 'push'}}
-        run: |
-         echo "grep=false" >> $GITHUB_OUTPUT
-         if grep -q alternateFormats ./js/config.js; then
-         echo "grep=true" >> $GITHUB_OUTPUT
-         fi
       - name: Commit en push gegenereerde bestanden
         run: |
           git config --global user.name "github-actions[bot]"
