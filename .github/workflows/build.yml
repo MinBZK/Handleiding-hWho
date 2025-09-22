@@ -20,11 +20,11 @@ jobs:
           npx respec --localhost --src index.html --out ~/static/snapshot.html
       - run: mkdir ./docs
       - name: PDF
-#        if: ${{ steps.config.outputs.grep == 'true' }}
+        if: ${{ steps.config.outputs.grep == 'true' }}
         run: |
-#         cp ./js/config.js config.js
-#         echo "module.exports = { respecConfig };" >> config.js
-#         echo "var window = {respecMermaid : {createFigures : null}};" | cat - config.js > temp && mv temp config.js
+         cp ./js/config.js config.js
+         echo "module.exports = { respecConfig };" >> config.js
+         echo "var window = {respecMermaid : {createFigures : null}};" | cat - config.js > temp && mv temp config.js
          cp ~/static/snapshot.html snapshot.html
          npm i puppeteer
          python3 -m http.server 8080 &
