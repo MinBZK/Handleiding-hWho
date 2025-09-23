@@ -68,43 +68,38 @@ Ruistoevoeging is een techniek waarbij de attributen in de dataset die belangrij
 Generalisatietechnieken bestaan eruit de attributen van de betrokkenen te generaliseren of af te zwakken door de schaalgrootte of omvang te wijzigen. Aggregatie en k-anonimiteit beogen te voorkomen dat een betrokkene wordt geïndividualiseerd door die samen te voegen met ten minste k andere personen. Dit betekent dat individuen moeten worden geclusterd naar homogene groepen. L-diversiteit breidt k-anonimiteit uit om deterministische deductieve aanvallen uit te sluiten door ervoor te zorgen dat elk attribuut in elke equivalentieklasse ten minste l verschillende waarden heeft. L-diversiteit voegt daarom variatie toe en vereist dat elk gevoelig attribuut ten minste een l aantal verschillende waarden voor het gevoelige attribuut zijn.
 
 ### Pseudonomisering
-Pseudonimiseringstechnieken zoals encryptie of hashing verminderen de koppelbaarheid tussen een dataset en de oorspronkelijke identiteit van een individu, maar kunnen over het algemeen niet leiden tot volledige anonimisering . Mogelijke pseudonimiseringstechnieken die kunnen worden gebruikt om het risico van koppelbaarheid te mitigeren zijn:
+Pseudonimiseringstechnieken zoals encryptie of hashing verminderen de koppelbaarheid tussen een dataset en de oorspronkelijke identiteit van een individu, maar kunnen over het algemeen niet leiden tot volledige anonimisering. Mogelijke pseudonimiseringstechnieken die kunnen worden gebruikt om het risico van koppelbaarheid te mitigeren zijn:
 - maskeren: gevoelige gegevens vervangen door fictieve of vervormde gegevens in het behouden gegevensformat; en
 - tokeniseren: gevoelige gegevens vervangen door unieke tokens.
 
 ### Toepassen verenigbaarheidstoets persoonsgegevens (doelbinding)
 Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met het oorspronkelijke verzameldoel van de dataprovider moet rekening gehouden worden met in ieder geval de volgende factoren uit artikel 6, lid 4 AVG: 
 
-a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
+    a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
 
-b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
+    b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
 
-c. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
+    c. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over  strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
 
-d.	de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen;
+    d.	de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen; en
 
-e.	het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
+    e.	het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
 
 Hieronder wordt een toelichting gegeven op deze factoren en worden deze factoren toegepast op het hergebruik van persoonsgegevens volgens de Who:
 
-Ad. a:
-Bij hergebruik van persoonsgegevens is het de bedoeling dat de betreffende gegevens/documenten algemeen beschikbaar komen op data.overheid.nl en dat hergebruikers de gegevens verder kunnen gebruiken zonder zich te hoeven identificeren of toestemming hoeven te vragen. Dat betekent dat er vaak geen nauw verband zal zijn tussen het verzamel- en hergebruik doel. Bovendien hoeven hergebruikers geen belang of doel aan te geven. Dat maakt dat hergebruik van persoonsgegevens in veel gevallen onverenigbaar zal zijn, tenzij de overige factoren dit anders maken. 
+Ad. a: Bij hergebruik van persoonsgegevens is het de bedoeling dat de betreffende gegevens/documenten algemeen beschikbaar komen op data.overheid.nl en dat hergebruikers de gegevens verder kunnen gebruiken zonder zich te hoeven identificeren of toestemming hoeven te vragen. Dat betekent dat er vaak geen nauw verband zal zijn tussen het verzamel- en hergebruik doel. Bovendien hoeven hergebruikers geen belang of doel aan te geven. Dat maakt dat hergebruik van persoonsgegevens in veel gevallen onverenigbaar zal zijn, tenzij de overige factoren dit anders maken. 
 
-Ad. b:
-Hierbij moet met name worden gekeken naar de relatie tussen de (overheids-) organisatie/dataprovider en de betrokkenen. Verder moet rekening gehouden worden met de redelijke verwachtingen die de betrokkene heeft ten aanzien van eventuele verdere gebruik van zijn persoonsgegevens. Bij hergebruik geldt dat er een ongelijke en dwingende verhouding is tussen overheid en burger waarbij de gegevensverwerking in de meeste gevallen gebaseerd is op een wettelijke bevoegdheid of verplichting. 
+Ad. b: Hierbij moet met name worden gekeken naar de relatie tussen de (overheids-) organisatie/dataprovider en de betrokkenen. Verder moet rekening gehouden worden met de redelijke verwachtingen die de betrokkene heeft ten aanzien van eventuele verdere gebruik van zijn persoonsgegevens. Bij hergebruik geldt dat er een ongelijke en dwingende verhouding is tussen overheid en burger waarbij de gegevensverwerking in de meeste gevallen gebaseerd is op een wettelijke bevoegdheid of verplichting. 
 De burger heeft weinig zicht en controle op de gegevensverwerking en zal het hergebruik ervan waarschijnlijk niet verwachten. Wanneer duidelijk wordt geïnformeerd voorafgaand aan het hergebruik, bijvoorbeeld als onderdeel van een zienswijzeprocedure op grond van de Awb, kan aan dit gebrek tegemoet gekomen worden. Dat is echter alleen mogelijk als de belanghebbende/ betrokkene identificeerbaar is, wat in veel gevallen niet (direct) aan de orde is. Dat maakt dat hergebruik van persoonsgegevens in veel gevallen onverenigbaar zal zijn, tenzij de overige factoren dit anders maken. 
 
-Ad. c: 
-Wanneer het gevoelige persoonsgegevens betreft, geldt dat deze een hoger beschermingsniveau verdienen en vereisen. Hierdoor kunnen deze gegevens minder snel voor andere doelen mogen worden gebruikt. 
+Ad. c:  Wanneer het gevoelige persoonsgegevens betreft, geldt dat deze een hoger beschermingsniveau verdienen en vereisen. Hierdoor kunnen deze gegevens minder snel voor andere doelen mogen worden gebruikt. 
 Bijzondere of strafrechtelijke gegevens mogen in principe niet openbaar gemaakt worden. Mochten deze wel aanwezig zijn in de openbare overheidsinformatie, dan zal daar niet snel een uitzondering op het verwerkingsverbod voor aanwezig zijn. Voor bijvoorbeeld bij onderzoek op basis van (gepseudonimiseerde) medische gegevens en/of strafrechtelijke gegevens zijn er andere wettelijke regimes dan de Who. 
 Beargumenteerd kan worden dat de – in bepaalde gevallen – mate van identificeerbaarheid van de gegevens ook een rol kan spelen bij de beoordeling van de gevoeligheid van de gegevens. Dit aspect is ook relevant bij de beoordeling van de mogelijke gevolgen van hergebruik. 
 
-Ad. d:
-De gevolgen van het hergebruik van persoonsgegevens zijn moeilijk te overzien, dit is onder meer afhankelijk van de aard van de gegevens. Hoe beter de gegevens gebruikt kunnen worden om iemand te identificeren en hoe gevoeliger deze gegevens zijn, hoe negatiever de gevolgen door hergebruik kunnen zijn. (hoe meer identificeerbaar en hoe gevoeliger, hoe negatiever de gevolgen kunnen zijn) 
+Ad. d: De gevolgen van het hergebruik van persoonsgegevens zijn moeilijk te overzien, dit is onder meer afhankelijk van de aard van de gegevens. Hoe beter de gegevens gebruikt kunnen worden om iemand te identificeren en hoe gevoeliger deze gegevens zijn, hoe negatiever de gevolgen door hergebruik kunnen zijn. (hoe meer identificeerbaar en hoe gevoeliger, hoe negatiever de gevolgen kunnen zijn) 
 Verder hebben ook het doelen de motivatie van de hergebruiker impact op mogelijke gevolgen. Eventuele nieuwsgierigheid of kwade bedoelingen met gegevens kunnen afhankelijk zijn van de aard, context en nieuwswaardigheid van de gegevens. Het maakt bijvoorbeeld uit of de gegevens gebruikt kunnen worden voor laster, doxing, stalking,bedreiging, afpersing of surveillance doeleinden. Door het opstellen van profielen met als doel ongevraagde direct marketing kunnen ook negatieve gevolgen optreden voor betrokkenen. 
 
-Ad. e:  
-Op het gebied van passende waarborgen valt waarschijnlijk het meest te doen om verenigbaarheid toch mogelijk te maken. In de eerste plaats is er ter bescherming van persoonsgegevens een set aan voorwaarden in art. 6, derde lid, Who die moeten worden opgelegd aan de hergebruiker. 
+Ad. e:  Op het gebied van passende waarborgen valt waarschijnlijk het meest te doen om verenigbaarheid toch mogelijk te maken. In de eerste plaats is er ter bescherming van persoonsgegevens een set aan voorwaarden in art. 6, derde lid, Who die moeten worden opgelegd aan de hergebruiker. 
 
 Ten tweede kunnen waarborgen worden getroffen zoals versleuteling. Gegevens kunnen bijvoorbeeld worden gepseudonimiseerd dat ze vanuit het perspectief van de hergebruiker (praktisch) anoniem zijn. De maatstaf hiervoor is dat de verstrekker van deze gegevens niet met redelijke en/of wettelijke middelen is te heridentificeren). Of ze kunnen volledig worden geanonimiseerd en dan gelden ze niet meer als persoonsgegevens. 
 
