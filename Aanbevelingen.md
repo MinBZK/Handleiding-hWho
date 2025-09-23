@@ -32,10 +32,10 @@ Er kunnen andere verplichtingen volgen uit de standaarden. Zo moeten bepaalde ge
   
 Naast het hanteren van metadata standaarden is het verder nuttig om in te zetten op: 
 
-- Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie.
-- Het creëren van een zoekindex op basis van tekstgegevens en metagegevens, zodat de gegevens ook vindbaar zijn via online zoekmachines.
-- De implementatie van enterprise search; een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie.
-- Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben.
+- Het bieden van overzicht aan gebruikers waar zij informatie kunnen vinden, inclusief een zoekfunctie;
+- Het creëren van een zoekindex op basis van tekstgegevens en metagegevens, zodat de gegevens ook vindbaar zijn via online zoekmachines;
+- De implementatie van enterprise search; een functionaliteit voor het zoeken in meerdere systemen die binnen een organisatie in gebruik zijn, en het inzetten op toepassingen van AI en data scientists t.b.v. de vindbaarheid van informatie;
+- Het nemen van maatregelen die ervoor zorgen dat informatie alleen vindbaar is voor degenen die daartoe het recht hebben; en
 - Ervoor zorgen dat informatie na vernietiging niet meer vindbaar of opnieuw te construeren is.   
 
 ### Beschikbaarheid
@@ -45,12 +45,12 @@ Als informatie wordt aangeboden in een vorm of op een manier die niet aansluit b
 ### Leesbaarheid
 Informatie is leesbaar zonder dat daarvoor speciale toepassingen of hulpmiddelen nodig zijn. Dit betekent dat er gebruik gemaakt wordt van duurzame en open bestandsformaten voor het beschikbaar stellen van informatie. Voor machinematige verwerking van gegevens is het van belang dat het gegevensmodel is beschreven en gestandaardiseerd. 
 Het is daarom aan te bevelen om in te zetten op: 
-- Het vastleggen van het openbaarheidsniveau van informatie.
-- Het bepalen van de informatiewaarde bij de inrichting van een informatiebron door te inventariseren voor welke (potentiële) afnemers, welke vorm van beschikbaarheid nodig is, hoe zich dit in de loop der tijd ontwikkelt en welke eventuele beperkingen van toepassing zijn.
-- Het ter beschikking stellen van informatie in een gangbaar en open bestandsformaat.
-- Het beschikbaar maken van informatie in bestandsformaten die samenhangen met het doel waarvoor het bestand wordt gebruikt.
-- Het voorkomen van leveranciersafhankelijkheid bij het gebruik van een (specifiek) bestandsformaat.
-- Het garanderen dat gebruikte bestandsformaten onafhankelijk van hulpmiddelen of speciale toepassingen te gebruiken zijn.
+- Het vastleggen van het openbaarheidsniveau van informatie;
+- Het bepalen van de informatiewaarde bij de inrichting van een informatiebron door te inventariseren voor welke (potentiële) afnemers, welke vorm van beschikbaarheid nodig is, hoe zich dit in de loop der tijd ontwikkelt en welke eventuele beperkingen van toepassing zijn;
+- Het ter beschikking stellen van informatie in een gangbaar en open bestandsformaat;
+- Het beschikbaar maken van informatie in bestandsformaten die samenhangen met het doel waarvoor het bestand wordt gebruikt;
+- Het voorkomen van leveranciersafhankelijkheid bij het gebruik van een (specifiek) bestandsformaat;
+- Het garanderen dat gebruikte bestandsformaten onafhankelijk van hulpmiddelen of speciale toepassingen te gebruiken zijn; en
 - Het gebruik van gestandaardiseerde gegevensmodellen en gegevenswoordenboeken ten behoeve van machinematige verwerking van gegevens. Het beschikbaar stellen van gegevens in formaten die gangbaar zijn voor machinale verwerking zoals .CSV, XML, JSON.
 
 ## Archivering by design
