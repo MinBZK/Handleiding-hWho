@@ -24,15 +24,15 @@ Het streven was om de geactualiseerde handleiding gelijktijdig met het inwerktre
 Er zijn drie groepen stakeholders betrokken bij het actualiseren en doorontwikkelen van de handleiding, met verschillende rollen en verantwoordelijkheden.
 
 1. Overheidsorganisaties:
-a. Het Ministerie van Binnenlandse Zaken, DGDOO, Directie Digitale Samenleving (DS) heeft de beleidscoördinerende eindverantwoordelijkheid voor de Who;
-b. Een kerngroep van overheidsorganisaties (o.a. Min BZK (DS en CIO-Rijk) , de VNG, IPO, UWV, Nationaal Archief en Europa Decentraal) is verantwoordelijk voor de uitvoering van het actualiseren en doorontwikkelen van de handleiding;
-c. Alle (overheids-)organisaties die onder deze wet vallen worden proactief geraadpleegd via alle afstemmingsgremia en geven (mede) richting aan het resultaat.
+     a. Het Ministerie van Binnenlandse Zaken, DGDOO, Directie Digitale Samenleving (DS) heeft de beleidscoördinerende eindverantwoordelijkheid voor de Who;
+     b. Een kerngroep van overheidsorganisaties (o.a. Min BZK (DS en CIO-Rijk) , de VNG, IPO, UWV, Nationaal Archief en Europa Decentraal) is verantwoordelijk voor de uitvoering        van het actualiseren en doorontwikkelen van de handleiding;
+     c. Alle (overheids-)organisaties die onder deze wet vallen worden proactief geraadpleegd via alle afstemmingsgremia en geven (mede) richting aan het resultaat.
 
 2. Toezichthouders en adviescolleges:
-a. Organisaties zoals de Autoriteit Persoonsgegevens, het Adviescollege Informatiehuishouding en Openbaarmaking, de Inspectie Overheidsinformatie en Erfgoed worden proactief geraadpleegd op specifieke, voor hen relevante onderdelen van de handleiding.
+     a. Organisaties zoals de Autoriteit Persoonsgegevens, het Adviescollege Informatiehuishouding en Openbaarmaking, de Inspectie Overheidsinformatie en Erfgoed worden proactief       geraadpleegd op specifieke, voor hen relevante onderdelen van de handleiding.
 
 3. Externe belanghebbenden en experts:
-a. Belangenorganisaties, experts, journalisten en geïnteresseerde burgers worden proactief geïnformeerd over de voortgang en bereikte resultaten.
+     a. Belangenorganisaties, experts, journalisten en geïnteresseerde burgers worden proactief geïnformeerd over de voortgang en bereikte resultaten.
 
 ### Hoe kun je deelnemen?
 Er worden verschillende manieren georganiseerd waarop deze stakeholders input kunnen leveren:
