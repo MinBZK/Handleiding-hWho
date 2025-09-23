@@ -20,10 +20,10 @@ Het gaat om openbare informatie verkregen in het kader van de publieke taak van 
 6.	Valt de verzochte informatie onder het toepassingsbereik van de Who? Zo nee, dan dient het verzoek te worden afgewezen. 
 Deze informatie hoeft niet verstrekt te worden:
 
-- Informatie die berust bij een publieke omroep, met een publieke omroeptaak belaste instelling of een instelling werkzaam onder de verantwoordelijkheid van een van deze instellingen;
-- Informatie die berust bij een onderwijs- of onderzoeksinstelling;
-- Informatie die berust bij andere culturele instellingen dan musea, bibliotheken (inclusief universiteitsbibliotheken) en archieven;
-- Informatie die slechts logo’s of wapens en insignes of bevat.
+     - Informatie die berust bij een publieke omroep, met een publieke omroeptaak belaste instelling of een instelling werkzaam onder de verantwoordelijkheid van een van deze instellingen;
+     - Informatie die berust bij een onderwijs- of onderzoeksinstelling;
+     - Informatie die berust bij andere culturele instellingen dan musea, bibliotheken (inclusief universiteitsbibliotheken) en archieven;
+     - Informatie die slechts logo’s of wapens en insignes of bevat.
 
 7.	Is de informatie reeds rechtmatig openbaar of kan het rechtmatig openbaar worden gemaakt? Zo nee, dan dient het verzoek te worden afgewezen. 
 
