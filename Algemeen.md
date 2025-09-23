@@ -42,15 +42,15 @@ Lees hier meer over de mogelijke [afwijzingsgronden voor hergebruik](#wat-zijn-m
 
 ## Hoe kan je hergebruik van overheidsinformatie vereenvoudigen en verbeteren? 
 Hergebruik van overheidsinformatie kan je vereenvoudigen en verbeteren door:
--	In te zetten op toegankelijkheid van informatie binnen jouw overheidsorganisatie zoals door API's;
--	Het kweken van bewustzijn voor de hele keten van gegevensgebruik, zowel als ondersteuning voor en het vastleggen van beleid als basis voor uitvoering, als voor duurzame toegankelijkheid bij archivering;
--	Het verbeteren van je informatiehuishouding, zoals het toepassen van ‘archiveren by design’;
--	Het toepassen van het DUTO-Raamwerk;
--	Het toepassen van de FAIR-principes (Findable, Accessible, Interoperable, Reusable - zie 6.6. voor meer uitleg over de FAIR-principes);
--	Het beschikbaar maken van de gegevens in formaten geschikt voor hergebruik;
--	Het implementeren van generieke standaarden t.a.v. metadatering zoals MDTO voor archiveren, of DCAT-AP-NL voor het domeinoverstijgend uitwisselen van metadata;
--	Het publiceren van de metadata in dataportalen;
--	Het nemen van maatregelen die concreet bijdragen aan verbeterde leesbaarheid en beschikbaarheid van informatie binnen jouw organisatie; en
+-	In te zetten op toegankelijkheid van informatie binnen jouw overheidsorganisatie zoals door API's.
+-	Het kweken van bewustzijn voor de hele keten van gegevensgebruik, zowel als ondersteuning voor en het vastleggen van beleid als basis voor uitvoering, als voor duurzame toegankelijkheid bij archivering.
+-	Het verbeteren van je informatiehuishouding, zoals het toepassen van ‘archiveren by design’.
+-	Het toepassen van het DUTO-Raamwerk.
+-	Het toepassen van de FAIR-principes (Findable, Accessible, Interoperable, Reusable - zie 6.6. voor meer uitleg over de FAIR-principes).
+-	Het beschikbaar maken van de gegevens in formaten geschikt voor hergebruik.
+-	Het implementeren van generieke standaarden t.a.v. metadatering zoals MDTO voor archiveren, of DCAT-AP-NL voor het domeinoverstijgend uitwisselen van metadata.
+-	Het publiceren van de metadata in dataportalen.
+-	Het nemen van maatregelen die concreet bijdragen aan verbeterde leesbaarheid en beschikbaarheid van informatie binnen jouw organisatie. 
 -	Ervoor zorgen dat dataportalen makkelijk vindbaar zijn en voldoen aan internationale standaarden. 
   
 Bekijk [de aanbevelingen voor het duurzamer toegankelijk maken van overheidsinformatie](#aanbev).
