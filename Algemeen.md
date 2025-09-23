@@ -120,10 +120,10 @@ In beginsel dient een verzoek te worden toegewezen. Er zijn echter enkele afwijz
 
 Afwijzingsgronden zijn:
 - informatie van publieke omroepen;
-- informatie van onderwijs- en onderzoeksinstellingen, anders dan instellingen voor hoger onderwijs
+- informatie van onderwijs- en onderzoeksinstellingen, anders dan instellingen voor hoger onderwijs;
 - informatie van andere culturele instellingen dan musea, bibliotheken en archieven;
 - gedeelten van documenten die alleen logo’s, wapens of insignes bevatten;
-- persoonsgegevens in bij of krachtens de wet ingestelde registers voor zover deze openbaar toegankelijk zijn, tenzij bij of krachtens de wet anders is bepaald;
+- persoonsgegevens in bij of krachtens de wet ingestelde registers voor zover deze openbaar toegankelijk zijn, tenzij bij of krachtens de wet anders is bepaald; en
 - informatie die betrekking heeft op openbare persoonsgegevens waarvan hergebruik onverenigbaar is met de doeleinden waarvoor ze zijn verkregen, anders dan persoonsgegevens als bedoeld in het vorige onderdeel.
 
 ## Inspanningsverplichting
