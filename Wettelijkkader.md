@@ -145,15 +145,15 @@ De richtlijn regelt dat openbare lichamen afwijzingsbeslissingen beredeneerd moe
 Op documenten waarop IE-recht rust dat bij een derde ligt, moet het openbare lichaam de verzoeker doorverwijzen naar de rechthebbende (indien bekend) of de licentiegever. (Universiteits)bibliotheken, musea en archieven mogen dat zelf bepalen.
 
 Naast de bovenstaande beperkte mogelijkheden tot afwijzing, is in beginsel hergebruik onvoorwaardelijk. Voor gegevens waar intellectuele eigendomsrechten op rusten mogen voorwaarden worden opgesteld, mits deze objectief, evenredig, niet-discriminerend en gerechtvaardigd zijn door een algemeen belang. Die voorwaarden kunnen de volgende onderwerpen betreffen:
-- aansprakelijkheid,
-- bescherming van persoonsgegevens,
-- correct gebruik van documenten,
-- gewaarborgd niet-wijzigen, en
+- aansprakelijkheid;
+- bescherming van persoonsgegevens;
+- correct gebruik van documenten;
+- gewaarborgd niet-wijzigen; en
 - erkennen van de bron.
 
 #### Transparantie en open data
 Openbare lichamen hebben de mogelijkheid om het hergebruik van documenten zoveel mogelijk in te richten volgens het beginsel “open door ontwerp en standaardinstellingen”, wat meer inzicht biedt in het beleid dat zij voeren. De richtlijn noemt dan ook open data beleid als richtpunt voor de afweging rondom hergebruik. Verder geeft de richtlijn de concrete verplichting dat overheden bestaande documenten samen met metagegevens beschikbaar moeten stellen in: 
-- bestaande formaten of talen, en 
+- bestaande formaten of talen; en 
 - als dat mogelijk en passend is in een elektronisch format dat zo open, machinaal leesbaar, toegankelijk, vindbaar en herbruikbaar mogelijk is. 
 
 Lidstaten moeten beleid opstellen en implementeren (beleidsmaatregelen nemen) om onderzoeksgegevens standaard open en vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. Het nationale beleid ter bescherming van het algemeen belang van publieke veiligheid moet hier consistent grenzen aangeven: te volatiele gegevens moeten namelijk omwille van veiligheid beschermd kunnen blijven. Een afwijkend regime geldt voor dynamische gegevens: die moeten in beginsel onmiddellijk na verzameling via applicatieprogramma-interfaces (API's) beschikbaar komen. Dit faciliteert de doorontwikkeling van mobiele, internet- en cloudapplicaties op basis van de gegevens. Bij te grote inspanning om dit te realiseren mag een openbaar lichaam het later laten plaatsvinden, mits gemotiveerd met inachtneming van het belang van exploitatie van de waarde van die gegevens. Om documenten gemakkelijk vindbaar te maken moeten de lidstaten maatregelen nemen, zoals overzichtslijsten van documenten met relevante metagegevens online publiceren, en één enkel toegangspunt op te zetten. Openbare lichamen hebben vervolgens de keus om praktische regelingen te treffen aangaande bewaring van documenten.
@@ -175,21 +175,21 @@ Uiterlijk op 17 juli 2025 zal de Commissie de toepassing van de Open data richtl
 ### Hergebruik gegevens hoogwaardige datasets (Uitvoeringsverordening 2023/138)
 Ter ondersteuning van hergebruik van specifieke verzamelingen van hoogwaardige gegevens (onder de richtlijn ‘hoogwaardige datasets’ genoemd), geeft de richtlijn de bevoegdheid om voor deze lijst aan datasets voorwaarden vast te leggen. De preambule en de bijlage bij de Open data richtlijn noemen de zes voornaamste soorten gegevens, met enkele voorbeelden hiervan: 
 
-- postcodes, nationale en lokale kaarten (geospatiale data),
-- energieverbruik en satellietbeelden (aardobservatie en milieu),
-- in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data),
-- demografische en economische indicatoren (statistiek),
-- handelsregisters en registratienummers (bedrijven en eigendom van bedrijven), en
+- postcodes, nationale en lokale kaarten (geospatiale data);
+- energieverbruik en satellietbeelden (aardobservatie en milieu);
+- in-situdata afkomstig van instrumenten en weersvoorspellingen (meteorologische data);
+- demografische en economische indicatoren (statistiek);
+- handelsregisters en registratienummers (bedrijven en eigendom van bedrijven); en
 - verkeersborden en binnenwateren (mobiliteit).
 
 De Commissie publiceerde de Uitvoeringsverordening 2023/138 (de HVD-uitvoeringsverordening) hiervoor op 20 januari 2023. In de bijlage bij die Uitvoeringsverordening gaf zij per categorie uitvoeriger aan welke gegevens binnen het hoogwaardige datasetregime vallen. In navolging van artikel 14 van de Open data richtlijn, moeten openbare lichamen de gegevens hieruit: 
-- via APIs beschikbaar stellen,
-- in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers.
-- Mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
+- via APIs beschikbaar stellen;
+- in machineleesbare formaten aanleveren die beantwoorden aan de redelijke behoeften van hergebruikers; en
+- mits aangegeven in de bijlage, als bulksgewijze download beschikbaar stellen.
 
 Verder moeten zij: 
 - kwaliteitscriteria en documentatie publiceren voor het gebruik van en dienstverleningskwaliteitscriteria over de prestaties, capaciteit en beschikbaarheid van de API’s;
-- een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid;
+- een contactpunt aanwijzen voor vragen en problemen ter waarborging van de toegankelijkheid; en
 - in hun beschrijvende metagegevens de in de Bijlage aangeduide datasets als hoogwaardige datasets aanmerken.
 
 Hergebruik van gegevens uit hoogwaardige datasets moet kosteloos zijn, maar lidstaten kunnen volgens overweging 6 uit de preambule specifieke openbare lichamen (op hun verzoek en in overeenstemming met de richtlijn) maximaal twee jaar na de inwerkingtreding van de HVD-uitvoeringsverordening vrijstellen van deze verplichting. De kosteloosheidsverplichting geldt niet voor bibliotheken, musea en archieven, of voor overheidsondernemingen. 
