@@ -24,8 +24,7 @@ jobs:
         # git rm -r ./docs 
         # git commit -m "Map 'docs' automatisch verwijderd" 
         # git push 
-          set +e
-          if git ls-files --error-unmatch ./docs > /dev/null 2>&1; then
+      if git ls-files --error-unmatch ./docs > /dev/null 2>&1; then
           git rm -r ./docs
           git commit -m "Map 'docs' automatisch verwijderd"
           git push
