@@ -9,17 +9,21 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      - name: Commit en push verwijdering
+      - name: Verwijder de docs map als die bestaat
         run: |
           if [ -d "./docs" ]; then
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git rm -r ./docs
-            git commit -m "Map 'docs' automatisch verwijderd"
-            git push
+            rm -rf ./docs
+            echo "Map './docs' is verwijderd."
           else
             echo "Map './docs' bestaat niet."
-          fi 
+          fi
+      - name: Commit en push verwijdering
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git rm -r ./docs
+          git commit -m "Map 'docs' automatisch verwijderd"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: mkdir ~/static
