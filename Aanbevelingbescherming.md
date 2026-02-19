@@ -74,7 +74,7 @@ Pseudonimiseringstechnieken zoals encryptie of hashing verminderen de koppelbaar
 
 ### Toepassen verenigbaarheidstoets persoonsgegevens (doelbinding)
 Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met het oorspronkelijke verzameldoel van de dataprovider moet rekening gehouden worden met in ieder geval de volgende factoren uit artikel 6, lid 4 AVG: 
-
+```text
     a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
 
     b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
@@ -84,7 +84,7 @@ Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met he
     d.	de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen; en
 
     e.	het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
-
+```
 Hieronder wordt een toelichting gegeven op deze factoren en worden deze factoren toegepast op het hergebruik van persoonsgegevens volgens de Who:
 
 Ad. a: Bij hergebruik van persoonsgegevens is het de bedoeling dat de betreffende gegevens/documenten algemeen beschikbaar komen op data.overheid.nl en dat hergebruikers de gegevens verder kunnen gebruiken zonder zich te hoeven identificeren of toestemming hoeven te vragen. Dat betekent dat er vaak geen nauw verband zal zijn tussen het verzamel- en hergebruik doel. Bovendien hoeven hergebruikers geen belang of doel aan te geven. Dat maakt dat hergebruik van persoonsgegevens in veel gevallen onverenigbaar zal zijn, tenzij de overige factoren dit anders maken. 
