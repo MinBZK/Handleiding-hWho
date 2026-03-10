@@ -75,15 +75,11 @@ Pseudonimiseringstechnieken zoals encryptie of hashing verminderen de koppelbaar
 ### Toepassen verenigbaarheidstoets persoonsgegevens (doelbinding)
 Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met het oorspronkelijke verzameldoel van de dataprovider moet rekening gehouden worden met in ieder geval de volgende factoren uit artikel 6, lid 4 AVG: 
 
-    a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
-
-    b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
-
-    c. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over  strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
-
-    d.	de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen; en
-
-    e.	het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
+- a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
+- b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
+- c. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over  strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
+- d. de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen; en
+- e. het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
 
 Hieronder wordt een toelichting gegeven op deze factoren en worden deze factoren toegepast op het hergebruik van persoonsgegevens volgens de Who:
 
@@ -101,7 +97,7 @@ Verder hebben ook het doelen de motivatie van de hergebruiker impact op mogelijk
 
 Ad. e:  Op het gebied van passende waarborgen valt waarschijnlijk het meest te doen om verenigbaarheid toch mogelijk te maken. In de eerste plaats is er ter bescherming van persoonsgegevens een set aan voorwaarden in art. 6, derde lid, Who die moeten worden opgelegd aan de hergebruiker. 
 
-Ten tweede kunnen waarborgen worden getroffen zoals versleuteling. Gegevens kunnen bijvoorbeeld worden gepseudonimiseerd dat ze vanuit het perspectief van de hergebruiker (praktisch) anoniem zijn. De maatstaf hiervoor is dat de verstrekker van deze gegevens niet met redelijke en/of wettelijke middelen is te heridentificeren). Of ze kunnen volledig worden geanonimiseerd en dan gelden ze niet meer als persoonsgegevens. 
+Ten tweede kunnen waarborgen worden getroffen zoals versleuteling. Gegevens kunnen bijvoorbeeld worden gepseudonimiseerd dat ze vanuit het perspectief van de hergebruiker (praktisch) anoniem zijn. De maatstaf hiervoor is dat de verstrekker van deze gegevens niet met redelijke en/of wettelijke middelen is te heridentificeren. Of ze kunnen volledig worden geanonimiseerd en dan gelden ze niet meer als persoonsgegevens. 
 
 De gegevens kunnen ook geanonimiseerd worden, waar ze niet meer gelden als persoons gegevens en waardoor in principe de AVG niet meer van toepassing is. Dit laatste punt wordt bemoeilijkt doordat volledige anonimisering technisch gezien onmogelijk is en het gebrek aan horizon - tot wanneer in de keten van hergebruik rekening moet worden gehouden op identificatie - betekent dat je in principe ook alle mogelijke toekomstige ontwikkelingen op het gebied van cryptografie moet meewegen en de beschikbaarheid van andere gegevens. 
 
