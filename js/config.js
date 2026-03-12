@@ -92,12 +92,12 @@ let respecConfig = {
   maxTocLevel: 2,
   
   // Creëer PDF en link deze aan de file in de header van het html document (optioneel). Het is (nog) niet mogelijk hier een globale property van te maken:
-  //*alternateFormats: [
-  //    {
-  //        label: "pdf",
-  //        uri: "Handleiding-hWho.pdf",
-  //    },
-  //  ],
+  *alternateFormats: [
+      {
+          label: "pdf",
+          uri: "Handleiding-hWho.pdf",
+      },
+    ],
   localBiblio: {
         "MIM": {
            "href": "https://docs.geostandaarden.nl/mim/mim/",
