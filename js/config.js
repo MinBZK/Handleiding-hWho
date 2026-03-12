@@ -117,3 +117,4 @@ let respecConfig = {
     }],
 };
 
+module.exports = { respecConfig };
