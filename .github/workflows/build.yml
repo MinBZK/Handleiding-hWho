@@ -42,6 +42,7 @@ jobs:
       - run: mkdir ./docs
       - name: PDF
         run: |
+         cp ./js/config.js config.js
          cp ~/static/snapshot.html snapshot.html
          npm i puppeteer
          python3 -m http.server 8080 &
