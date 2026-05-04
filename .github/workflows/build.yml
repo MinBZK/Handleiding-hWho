@@ -3,6 +3,8 @@ name: Build
 #  workflow_call:
 on:
   workflow_dispatch:
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 jobs:
   main:
     name: Snapshot
