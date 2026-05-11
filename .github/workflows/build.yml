@@ -44,7 +44,9 @@ jobs:
       - run: mkdir ./docs
       - name: PDF
         run: |
+         cp ./js/config.js config.js
          cp ~/static/snapshot.html snapshot.html
+         cp ~/static/snapshot.html ~/static/index.html
          npm i puppeteer
          python3 -m http.server 8080 &
          wget https://raw.githubusercontent.com/Logius-standaarden/Automatisering/9d1e0512057b18cb92c39e5078ed93ee855926e7/scripts/pdf.js
