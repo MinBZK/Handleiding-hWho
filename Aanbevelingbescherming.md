@@ -72,6 +72,18 @@ Pseudonimiseringstechnieken zoals encryptie of hashing verminderen de koppelbaar
 - maskeren: gevoelige gegevens vervangen door fictieve of vervormde gegevens in het behouden gegevensformat; en
 - tokeniseren: gevoelige gegevens vervangen door unieke tokens.
 
+Gegevens die gepseudonimiseerd zijn doorgegeven aan een derde partij zijn voor die derde partij niet per definitie herleidbaar tot de betrokkene. In dat geval zijn de gegevens geen persoonsgegevens en is de AVG niet van toepassing. Gepseudonimiseerde gegevens zijn geen persoonsgegevens voor een derde partij als:
+- de pseudonimiseringsmaatregelen niet ongedaan kunnen worden gemaakt; én
+- de maatregelen van zodanige aard zijn dat ze verdere verwerkers beletten om de gegevens te herleiden naar de betrokkene door middel van andere identificatiemiddelen. 
+
+Als niet redelijkerwijs kan worden uitgesloten dat een derde over deze andere identificatiemiddelen beschikt (die hen in staat stelt de betrokkene te heridentificeren), dan is de AVG van toepassing. Bij een nieuwe doorgifte kan het dus zo zijn dat gegevens die eerder als voldoende geanonimiseerd werden beschouwd toch weer herleidbaar worden. 
+
+Het is dus belangrijk om te bevestigen dat:
+*	gegevens voor een andere partij niet als persoonsgegeven kwalificeren;
+*	de pseudonimiseringsmaatregelen niet ongedaan kunnen worden gemaakt; en
+*	die andere partij niet over andere middelen beschikt waardoor de gegevens weer herleidbaar zijn.
+
+
 ### Toepassen verenigbaarheidstoets persoonsgegevens (doelbinding)
 Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met het oorspronkelijke verzameldoel van de dataprovider moet rekening gehouden worden met in ieder geval de volgende factoren uit artikel 6, lid 4 AVG: 
 
