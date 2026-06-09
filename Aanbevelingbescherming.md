@@ -79,19 +79,19 @@ Gegevens die gepseudonimiseerd zijn doorgegeven aan een derde partij zijn voor d
 Als niet redelijkerwijs kan worden uitgesloten dat een derde over deze andere identificatiemiddelen beschikt (die hen in staat stelt de betrokkene te heridentificeren), dan is de AVG van toepassing. Bij een nieuwe doorgifte kan het dus zo zijn dat gegevens die eerder als voldoende geanonimiseerd werden beschouwd toch weer herleidbaar worden. 
 
 Het is dus belangrijk om te bevestigen dat:
-*	gegevens voor een andere partij niet als persoonsgegeven kwalificeren;
-*	de pseudonimiseringsmaatregelen niet ongedaan kunnen worden gemaakt; en
-*	die andere partij niet over andere middelen beschikt waardoor de gegevens weer herleidbaar zijn.
+- gegevens voor een andere partij niet als persoonsgegeven kwalificeren;
+- de pseudonimiseringsmaatregelen niet ongedaan kunnen worden gemaakt; en
+- die andere partij niet over andere middelen beschikt waardoor de gegevens weer herleidbaar zijn.
 
 
 ### Toepassen verenigbaarheidstoets persoonsgegevens (doelbinding)
 Voor het beoordelen of het hergebruik van persoonsgegevens verenigbaar is met het oorspronkelijke verzameldoel van de dataprovider moet rekening gehouden worden met in ieder geval de volgende factoren uit artikel 6, lid 4 AVG: 
 
-- a. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
-- b. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
-- c. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over  strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
-- d. de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen; en
-- e. het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
+1. ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;
+2. het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;
+3. de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel 9, en of persoonsgegevens over  strafrechtelijke veroordelingen en strafbare feiten worden verwerkt, overeenkomstig artikel 10;
+4. de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen; en
+5. het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.
 
 Hieronder wordt een toelichting gegeven op deze factoren en worden deze factoren toegepast op het hergebruik van persoonsgegevens volgens de Who:
 
