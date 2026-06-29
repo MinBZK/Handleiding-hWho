@@ -59,7 +59,7 @@ De maatregelen voor duurzame toegankelijkheid worden het best bepaald op het mom
 Met ‘archiveren by design’ zorg je dus dat al in een vroeg stadium passende maatregelen genomen worden om overheidsinformatie duurzaam toegankelijk te maken. Ook voor het doel van hergebruik kunnen dan al bij het begin vereisten meegenomen worden over bijvoorbeeld het gebruik van open standaarden, machineleesbaarheid, ontsluiting bij voorkeur door middel van API’s. Op deze wijze kan aan eisen uit de Who worden voldaan op een manier die past in het financieel beleid van een (overheids)organisatie en zonder dat de instelling verplicht is om extra kosten te maken. 
 
 ## DUTO-Raamwerk met passende maatregelen
-Het [DUTO-raamwerk](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk) is een vertaalslag om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
+Het [DUTO-raamwerk](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk) is een instrument om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
 
 ## FAIR Principes
 Binnen de academische wereld is het gebruikelijk om qua open data te werken met de ‘FAIR’-principes. De richtlijn stimuleert dit, voor zover het gaat om onderzoeksgegevens die beschikbaar worden gesteld door publiek gefinancierde onderzoeksorganisaties.
