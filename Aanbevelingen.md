@@ -13,7 +13,7 @@ Om verzoeken in te willigen is het van belang om voor het verstrekken van overhe
 Overweeg verder om hergebruik te automatiseren. Wanneer gegevens al als ‘open data’ worden aangeboden via een portaal, website of API, kunnen verzoeken om hergebruik conform de Who, in veel gevallen automatisch worden afgehandeld. Investeren in het automatisch aanbieden van open data kan daarom verstandig zijn. Verder is het aan te bevelen om hierbij zoveel mogelijk gebruik te maken van open standaarden en API´s. Wees daarnaast duidelijk en transparant over de mogelijke kosten en gehanteerde tariefregels.
 
 ## Duurzame toegankelijkheid
-De Who heeft als uitgangspunt dat openbare overheidsinformatie zoveel mogelijk herbruikbaar is. Dat is alleen mogelijk wanneer diezelfde overheidsinformatie duurzaam toegankelijk (DUTO) is. We verduidelijken hier wat duurzame toegankelijkheid is, welke methodiek je daarvoor kan gebruiken en welke passende maatregelen je organisatie kan nemen. 
+De Who heeft als uitgangspunt dat openbare overheidsinformatie zoveel mogelijk herbruikbaar is. Dat is alleen mogelijk wanneer diezelfde overheidsinformatie duurzaam toegankelijk (DUTO) is. Duurzame toegankelijkheid is een term die gebruikt wordt in zowel de Archiefwet 2026 als de Woo. We verduidelijken hier wat duurzame toegankelijkheid is, welke methodiek je daarvoor kan gebruiken en welke passende maatregelen je organisatie kan nemen. 
 
 Duurzaam toegankelijke overheidsinformatie (DUTO) betekent dat deze informatie vindbaar, beschikbaar, leesbaar en interpreteerbaar, betrouwbaar en toekomstbestendig is. Deze kenmerken zijn ook essentieel voor hergebruik van overheidsinformatie. Vindbaar betekent bijvoorbeeld dat gebruikers weten waar zij de informatie kunnen vinden. Deze informatie moet vervolgens beschikbaar zijn op een manier die het mogelijk maakt om te hergebruiken, maar ook te interpreteren is zodat duidelijk is wat de betekenis van de informatie is. 
  
@@ -59,7 +59,7 @@ De maatregelen voor duurzame toegankelijkheid worden het best bepaald op het mom
 Met ‘archiveren by design’ zorg je dus dat al in een vroeg stadium passende maatregelen genomen worden om overheidsinformatie duurzaam toegankelijk te maken. Ook voor het doel van hergebruik kunnen dan al bij het begin vereisten meegenomen worden over bijvoorbeeld het gebruik van open standaarden, machineleesbaarheid, ontsluiting bij voorkeur door middel van API’s. Op deze wijze kan aan eisen uit de Who worden voldaan op een manier die past in het financieel beleid van een (overheids)organisatie en zonder dat de instelling verplicht is om extra kosten te maken. 
 
 ## DUTO-Raamwerk met passende maatregelen
-Het [DUTO-raamwerk](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk) is een vertaalslag om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
+Het [DUTO-raamwerk](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk) is een instrument om ‘archiveren by design’ in de praktijk te brengen. De module ‘Ter beschikking stellen’ van dit raamwerk besteedt in het bijzonder aandacht aan (her)gebruik. 
 
 ## FAIR Principes
 Binnen de academische wereld is het gebruikelijk om qua open data te werken met de ‘FAIR’-principes. De richtlijn stimuleert dit, voor zover het gaat om onderzoeksgegevens die beschikbaar worden gesteld door publiek gefinancierde onderzoeksorganisaties.
