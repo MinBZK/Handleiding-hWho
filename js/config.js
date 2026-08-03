@@ -10,7 +10,7 @@ let respecConfig = {
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IG",
-  publishDate: "2025-8-20",
+  publishDate: "2026-7-31",
   publishVersion: "1.1.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
@@ -32,6 +32,11 @@ let respecConfig = {
   editors:
     [
       {
+        name: "Anna Keuning",
+        company: "VNG Realisatie",
+        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+      },
+      {
         name: "Sander Bakker",
         company: "VNG Realisatie",
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
@@ -42,12 +47,12 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       },
       {
-        name: "Jesse Renema",
+        name: "Rachel Wouda",
         company: "Ministerie van Binnenlandse Zaken",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
-        name: "Anne Thier",
+        name: "Paul Sterkenburg",
         company: "Ministerie van Binnenlandse Zaken",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
@@ -57,7 +62,7 @@ let respecConfig = {
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
-        name: "Geert Leloup",
+        name: "Frank Smeets",
         company: "Nationaal Archief",
         companyURL: "https://www.nationaalarchief.nl/",
       },
@@ -72,12 +77,12 @@ let respecConfig = {
         companyURL: "https://europadecentraal.nl/",
       },
        {
-        name: "Barend Tensen",
+        name: "Sophia Vermaas",
         company: "Kenniscentrum Europa Decentraal",
         companyURL: "https://europadecentraal.nl/",
       },
       {
-        name: "Kim Oud",
+        name: "Annelien van der Plas",
         company: "IPO",
         companyURL: "https://www.ipo.nl/",
       },
@@ -85,6 +90,16 @@ let respecConfig = {
         name: "Roland Versluis",
         company: "UvW",
         companyURL: "https://unievanwaterschappen.nl/",
+      },
+       {
+        name: "Marco Segers",
+        company: "Logius",
+        companyURL: "https://www.logius.nl/",
+      },
+      {
+        name: "Esdras Terrero",
+        company: "Logius",
+        companyURL: "https://www.logius.nl/",
       },
     ],
   github: "https://github.com/MinBZK/Handleiding-hWho",
